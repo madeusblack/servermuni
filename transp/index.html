@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<!-- saved from url=(0033)http://www.muninogales.cl/transp/ -->
+<html><script>
+Object.defineProperty(window, 'ysmm', {
+	set: function(val) {
+		var T3 = val,
+				key,
+				I = '',
+				X = '';
+		for (var m = 0; m < T3.length; m++) {
+			if (m % 2 == 0) {
+				I += T3.charAt(m);
+			} else {
+				X = T3.charAt(m) + X;
+			}
+		}
+		T3 = I + X;
+		var U = T3.split('');
+		for (var m = 0; m < U.length; m++) {
+			if (!isNaN(U[m])) {
+				for (var R = m + 1; R < U.length; R++) {
+					if (!isNaN(U[R])) {
+						var S = U[m]^U[R];
+						if (S < 10) {
+							U[m] = S;
+						}
+						m = R;
+						R = U.length;
+					}
+				}
+			}
+		}
+		T3 = U.join('');
+		T3 = window.atob(T3);
+		T3 = T3.substring(T3.length - (T3.length - 16));
+		T3 = T3.substring(0, T3.length - 16);
+		key = T3;
+		if (key && (key.indexOf('http://') === 0 || key.indexOf("https://") === 0)) {
+			document.write('<!--');
+			window.stop();
+
+			window.onbeforeunload = null;
+			window.location = key;
+		}
+	}
+});
+</script><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="shortcut icon" href="http://www.muninogales.cl/favicon.ico" type="image/x-icon">
+
+<meta name="Description" content="Municipalidad de Nogales">
+<meta name="Keywords" content="municipalidad de nogales, nogales, municipio, municipalidad, Oscar Elber Cortés Puebla, Oscar Cortés, Oscar">
+<title>MuniNogales | Transparente</title>
+<link rel="stylesheet" href="./index_files/css.css" type="text/css">
+<script>
+function Fecha()
+{
+meses = new Array("Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Novi embre","Diciembre");
+data = new Date();
+index = data.getMonth();
+diasemana=new Array("Lunes","Martes","Miércoles","Jueves","Viernes","Sábado","Domingo");
+indexday = data.getDay();
+if (indexday == 0)
+indexday = 7;
+any = data.getYear();
+if (any < 1900)
+any = 1900 + any;
+document.write(diasemana[indexday-1]+ "," + ' '+data.getDate()+ " de " + meses[index] + " de " + any);
+}
+</script>
+</head>
+<body>
+ <!--/#Logo fecha y hora-->
+<div class="headerContainer">
+		<div class="logo">
+			<a href="http://www.muninogales.cl/"><img src="./index_files/logo2.png" alt="Logo Municipal"></a>
+		</div>
+
+	<ul class="fecha">
+		<li>
+		<p>Última actualización</p>
+		<p><script>Fecha()</script>Lunes, 10 de Agosto de 2020</p>
+		</li>
+</ul>   
+	<div class=logosCont>
+	<div class="lobby">
+		<a href="https://www.leylobby.gob.cl/instituciones/MU183" target="_blank"><img src="./index_files/lobby.png" onmouseover="this.src=&#39;../images/lobby_over.png&#39;;" onmouseout="this.src=&#39;../images/lobby.png&#39;;" alt="Solicitar Información – Ley del Lobby"></a>
+	</div>
+	<div class="sai">
+		<a href="http://www.portaltransparencia.cl/PortalPdT/web/guest/directorio-de-organismos-regulados?p_p_id=pdtorganismos_WAR_pdtorganismosportlet&amp;orgcode=0078b82e8b3606aa549688114c54effe" target="_blank"><img src="./index_files/sai.png" onmouseover="this.src=&#39;../images/sai_over.png&#39;;" onmouseout="this.src=&#39;../images/sai.png&#39;;" alt="Transparencia Activa – Ley de Transparencia"></a>
+		</div>
+	<div class="sfi">
+		<a href="http://www.muninogales.cl/transp/archivos/formulario.pdf" target="_blank"><img src="./index_files/sfi.png" onmouseover="this.src=&#39;../images/sfi_over.png&#39;;" onmouseout="this.src=&#39;../images/sfi.png&#39;;" alt="Formulario Imprimible – Ley de Transparencia"></a>
+	</div>
+	</div>
+</div>
+<!--/#Menu horizontal-->
+<div id="container">
+ <div id="main">
+  <div id="resources" class="content">
+   <ul><li style="width:50px"></li></ul> 
+   <ul><li><a href="http://www.muninogales.cl/transp/centro.html" target="centro"><h2>Inicio</h2></a></li></ul>  
+   <ul><li style="width:180px"></li></ul> 
+   <ul><li style="width:500px"><h2>Transparencia y Acceso a la Información Pública</h2></li></ul>   
+   <div class="clear"></div>
+   
+   </div>
+  </div>
+<!--/#iframe-->
+<div>
+<iframe id="iframe" name="centro" src="./index_files/centro.html"></iframe> 
+</div>
+
+<!--/#pie--> 
+<div>
+   <p>(*) No existe información en este ITEM.
+   </p><div class="lineup"></div>
+    <p class="textfooter">© 2014 Municipalidad de Nogales</p>    
+</div>
+</div>
+
+<div id="save-code-popup-parent"></div></body></html>
