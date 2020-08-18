@@ -6,5 +6,8 @@ app.get('/', function(req, res) {
   res.sendFile(path.join(__dirname, 'build', 'index.html'));
 });
 app.use('/transp', express.static('transp'));
+app.get('*', function(req, res){
+  res.redirect('/');
+});
 
-app.listen(80);
+app.listen(80,()=>console.log('Servidor Funcionando en el puerto 80'));
