@@ -10,4 +10,4 @@ app.get('*', function(req, res){
   res.redirect('/');
 });
 
-app.listen(80,()=>console.log('Servidor Funcionando en el puerto 80'));
+app.listen(8080,()=>console.log('Servidor Funcionando en el puerto 80'));
