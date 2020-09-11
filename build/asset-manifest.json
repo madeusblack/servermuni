@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.889552f7.chunk.css",
-    "main.js": "/static/js/main.d0a61b9a.chunk.js",
-    "main.js.map": "/static/js/main.d0a61b9a.chunk.js.map",
+    "main.js": "/static/js/main.96c8eeb8.chunk.js",
+    "main.js.map": "/static/js/main.96c8eeb8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.be772237.js",
     "runtime-main.js.map": "/static/js/runtime-main.be772237.js.map",
     "static/css/2.8f118048.chunk.css": "/static/css/2.8f118048.chunk.css",
-    "static/js/2.f8726811.chunk.js": "/static/js/2.f8726811.chunk.js",
-    "static/js/2.f8726811.chunk.js.map": "/static/js/2.f8726811.chunk.js.map",
+    "static/js/2.258865a2.chunk.js": "/static/js/2.258865a2.chunk.js",
+    "static/js/2.258865a2.chunk.js.map": "/static/js/2.258865a2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c7e44771a4b5e19802a8c5bfa5a93c40.js": "/precache-manifest.c7e44771a4b5e19802a8c5bfa5a93c40.js",
+    "precache-manifest.5c0a127665b42665b1712a05ac99ec6e.js": "/precache-manifest.5c0a127665b42665b1712a05ac99ec6e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.8f118048.chunk.css.map": "/static/css/2.8f118048.chunk.css.map",
     "static/css/main.889552f7.chunk.css.map": "/static/css/main.889552f7.chunk.css.map",
-    "static/js/2.f8726811.chunk.js.LICENSE.txt": "/static/js/2.f8726811.chunk.js.LICENSE.txt",
+    "static/js/2.258865a2.chunk.js.LICENSE.txt": "/static/js/2.258865a2.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.9ed6f665.jpg",
     "static/media/114.jpg": "/static/media/114.928ba69f.jpg",
     "static/media/115.jpg": "/static/media/115.abd74a71.jpg",
@@ -55,6 +55,8 @@
     "static/media/cp19.pdf": "/static/media/cp19.a57998b0.pdf",
     "static/media/cuenta1.jpg": "/static/media/cuenta1.3b5cb3c4.jpg",
     "static/media/cuentapublica.jpg": "/static/media/cuentapublica.04a92048.jpg",
+    "static/media/entregachips.jpg": "/static/media/entregachips.c8402df9.jpg",
+    "static/media/entregachips2.jpg": "/static/media/entregachips2.92c64b4e.jpg",
     "static/media/escalafon.pdf": "/static/media/escalafon.c7d52291.pdf",
     "static/media/facilidad.jpg": "/static/media/facilidad.dfd963b6.jpg",
     "static/media/fomento1.jpg": "/static/media/fomento1.76f66dae.jpg",
@@ -71,6 +73,12 @@
     "static/media/mosorio.jpg": "/static/media/mosorio.626063d7.jpg",
     "static/media/municipalidad.jpg": "/static/media/municipalidad.9ac6ee38.jpg",
     "static/media/noagricolas.pdf": "/static/media/noagricolas.25158083.pdf",
+    "static/media/pasamosagosto1.jpg": "/static/media/pasamosagosto1.67687801.jpg",
+    "static/media/pasamosagosto2.jpg": "/static/media/pasamosagosto2.e510aa15.jpg",
+    "static/media/pasamosagosto3.jpg": "/static/media/pasamosagosto3.680f1e1f.jpg",
+    "static/media/pasamosagosto4.jpg": "/static/media/pasamosagosto4.5f99498b.jpg",
+    "static/media/pasamosagosto5.jpg": "/static/media/pasamosagosto5.791c4da2.jpg",
+    "static/media/pasamosagostomini.jpg": "/static/media/pasamosagostomini.b912f698.jpg",
     "static/media/pasoapaso.png": "/static/media/pasoapaso.44c0a010.png",
     "static/media/patentesBorbaran.mp3": "/static/media/patentesBorbaran.6c56877d.mp3",
     "static/media/pobl2.jpg": "/static/media/pobl2.e120502a.jpg",
@@ -83,8 +91,8 @@
   "entrypoints": [
     "static/js/runtime-main.be772237.js",
     "static/css/2.8f118048.chunk.css",
-    "static/js/2.f8726811.chunk.js",
+    "static/js/2.258865a2.chunk.js",
     "static/css/main.889552f7.chunk.css",
-    "static/js/main.d0a61b9a.chunk.js"
+    "static/js/main.96c8eeb8.chunk.js"
   ]
 }

@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a3c313307905b10b9a5e87c4f424a58",
+    "revision": "fdd6cf2a153f4208407bf2e11e84c558",
     "url": "/index.html"
   },
   {
-    "revision": "d8ae2ddddac6958e72de",
+    "revision": "1ae1a8b21d3a3e8dc6b1",
     "url": "/static/css/2.8f118048.chunk.css"
   },
   {
-    "revision": "459b20cc9ed90b9796a2",
+    "revision": "9cdfd8eb73adeebe22f6",
     "url": "/static/css/main.889552f7.chunk.css"
   },
   {
-    "revision": "d8ae2ddddac6958e72de",
-    "url": "/static/js/2.f8726811.chunk.js"
+    "revision": "1ae1a8b21d3a3e8dc6b1",
+    "url": "/static/js/2.258865a2.chunk.js"
   },
   {
     "revision": "b1fadb0a9518dbe90bb4b488e02a936d",
-    "url": "/static/js/2.f8726811.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.258865a2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "459b20cc9ed90b9796a2",
-    "url": "/static/js/main.d0a61b9a.chunk.js"
+    "revision": "9cdfd8eb73adeebe22f6",
+    "url": "/static/js/main.96c8eeb8.chunk.js"
   },
   {
     "revision": "fc6e377c618a134f799f",
@@ -192,6 +192,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/cuentapublica.04a92048.jpg"
   },
   {
+    "revision": "c8402df91b47c20be0945744976876ed",
+    "url": "/static/media/entregachips.c8402df9.jpg"
+  },
+  {
+    "revision": "92c64b4e49151a019dfecf3f7ae4d752",
+    "url": "/static/media/entregachips2.92c64b4e.jpg"
+  },
+  {
     "revision": "c7d52291d428de0b1e47a2e833119c53",
     "url": "/static/media/escalafon.c7d52291.pdf"
   },
@@ -254,6 +262,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "25158083911ca59d4e69d12daddc4de7",
     "url": "/static/media/noagricolas.25158083.pdf"
+  },
+  {
+    "revision": "676878010fefe0dbfe2fcdd8503a76f3",
+    "url": "/static/media/pasamosagosto1.67687801.jpg"
+  },
+  {
+    "revision": "e510aa157135ba67bcd7bae62319ddb8",
+    "url": "/static/media/pasamosagosto2.e510aa15.jpg"
+  },
+  {
+    "revision": "680f1e1f68ac8702a9f1aaf9855137f0",
+    "url": "/static/media/pasamosagosto3.680f1e1f.jpg"
+  },
+  {
+    "revision": "5f99498bd6d55a8b50e265f7488a5148",
+    "url": "/static/media/pasamosagosto4.5f99498b.jpg"
+  },
+  {
+    "revision": "791c4da27787efe681a4c9a6e74aa718",
+    "url": "/static/media/pasamosagosto5.791c4da2.jpg"
+  },
+  {
+    "revision": "b912f698e6bc14599f47e7db1cd5f011",
+    "url": "/static/media/pasamosagostomini.b912f698.jpg"
   },
   {
     "revision": "44c0a0105e1d07e5a37b85e4a434aca1",
