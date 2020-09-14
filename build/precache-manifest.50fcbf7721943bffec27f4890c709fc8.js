@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "928ca2d251eabb107f1cc72221cb4a9c",
+    "revision": "8d629adc2b5a3810fdc528891e98fba1",
     "url": "/index.html"
   },
   {
-    "revision": "14d2d9e13b7297eb6c32",
+    "revision": "acf3019274a0ceb2a57e",
     "url": "/static/css/2.8f118048.chunk.css"
   },
   {
-    "revision": "f000fa567e3e4656b5a1",
+    "revision": "6592fc87bc427738b3ad",
     "url": "/static/css/main.dda21fe3.chunk.css"
   },
   {
-    "revision": "14d2d9e13b7297eb6c32",
-    "url": "/static/js/2.7a915919.chunk.js"
+    "revision": "acf3019274a0ceb2a57e",
+    "url": "/static/js/2.5b2626e5.chunk.js"
   },
   {
     "revision": "b1fadb0a9518dbe90bb4b488e02a936d",
-    "url": "/static/js/2.7a915919.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.5b2626e5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f000fa567e3e4656b5a1",
-    "url": "/static/js/main.ef7f9bc1.chunk.js"
+    "revision": "6592fc87bc427738b3ad",
+    "url": "/static/js/main.2dd3301d.chunk.js"
   },
   {
     "revision": "fc6e377c618a134f799f",
@@ -198,6 +198,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "92c64b4e49151a019dfecf3f7ae4d752",
     "url": "/static/media/entregachips2.92c64b4e.jpg"
+  },
+  {
+    "revision": "433de1994ff256afdf9a6cbf686dd392",
+    "url": "/static/media/entregapapas.433de199.jpg"
+  },
+  {
+    "revision": "c9846d199df82e35850f55fe145cd4ca",
+    "url": "/static/media/entregapapasalcaldesa.c9846d19.mp3"
+  },
+  {
+    "revision": "adad4f5d8d93fbd18beff73ad2c88fc2",
+    "url": "/static/media/entregapapasmini.adad4f5d.jpg"
   },
   {
     "revision": "c7d52291d428de0b1e47a2e833119c53",
