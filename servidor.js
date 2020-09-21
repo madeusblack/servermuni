@@ -12,6 +12,7 @@ app.get('/', function(req, res) {
 });
 app.use('/transp', express.static('transp'));
 app.use('/.well-known', express.static('well'));
+app.use('/videos', express.static('videos'));
 
 app.get('*', function(req, res){
   res.redirect('/');
