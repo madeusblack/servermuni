@@ -1,11 +1,12 @@
 const express = require('express');
 const path = require('path');
 const spdy = require('spdy');
+const compression = require('compression');
 const fs = require('fs');
 const http = require('http');
 const app = express();
 const CERTS_ROOT = './';
-
+app.use(compression());
 app.use(express.static(path.join(__dirname, 'build')));
 app.get('/', function(req, res) {
   res.sendFile(path.join(__dirname, 'build', 'index.html'));
