@@ -20,6 +20,11 @@ app.use('/videos', express.static('videos'));
 app.get('*', function(req, res){
   res.redirect('/');
 });
-
+const credentials = {
+  cert: fs.readFileSync(path.resolve(CERTS_ROOT, 'certificate.crt')),
+  key: fs.readFileSync(path.resolve(CERTS_ROOT, 'private.key')),
+};
 const httpServer = http.createServer(app);
+const httpsServer = https.createServer(credentials, app);
 httpServer.listen(8080);
+httpsServer.listen(8430);
