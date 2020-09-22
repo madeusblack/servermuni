@@ -4,6 +4,8 @@ const spdy = require('spdy');
 const compression = require('compression');
 const fs = require('fs');
 const http = require('http');
+const https = require('https')
+
 const app = express();
 const CERTS_ROOT = './';
 app.use(compression());
@@ -18,11 +20,6 @@ app.use('/videos', express.static('videos'));
 app.get('*', function(req, res){
   res.redirect('/');
 });
-const credentials = {
-  cert: fs.readFileSync(path.resolve(CERTS_ROOT, 'muninogales.cert')),
-  key: fs.readFileSync(path.resolve(CERTS_ROOT, 'muninogales.key')),
-};
+
 const httpServer = http.createServer(app);
-const httpsServer = spdy.createServer(credentials, app);
 httpServer.listen(8080);
-httpsServer.listen(8430);
