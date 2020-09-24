@@ -24,7 +24,10 @@ const credentials = {
   cert: fs.readFileSync(path.resolve(CERTS_ROOT, 'certificate.crt')),
   key: fs.readFileSync(path.resolve(CERTS_ROOT, 'private.key')),
 };
-const httpServer = http.createServer(app);
+const httpServer = 
+http.createServer(function (req, res) {
+  res.writeHead(301, { "Location": "https://" + req.headers['host'] + req.url });
+  res.end();
+}).listen(8080);
 const httpsServer = https.createServer(credentials, app);
-httpServer.listen(8080);
 httpsServer.listen(8430);
