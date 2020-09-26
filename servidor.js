@@ -4,13 +4,13 @@ const spdy = require('spdy');
 const compression = require('compression');
 const fs = require('fs');
 const http = require('http');
-const https = require('https')
 
 const app = express();
 const CERTS_ROOT = './';
 app.use(compression());
 app.use(express.static(path.join(__dirname, 'build')));
 app.get('/', function(req, res) {
+  
   res.sendFile(path.join(__dirname, 'build', 'index.html'));
 });
 app.use('/transp', express.static('transp'));
@@ -28,6 +28,7 @@ const httpServer =
 http.createServer(function (req, res) {
   res.writeHead(301, { "Location": "https://" + req.headers['host'] + req.url });
   res.end();
-}).listen(8080);
-const httpsServer = https.createServer(credentials, app);
+})
+const httpsServer = spdy.createServer(credentials, app);
+httpServer.listen(8080);
 httpsServer.listen(8430);

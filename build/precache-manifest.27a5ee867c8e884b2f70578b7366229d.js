@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "51f9e0b04eb00642f16fbffc760e7822",
+    "revision": "7b6335e323a2495075777ac63b1f1929",
     "url": "/index.html"
   },
   {
-    "revision": "61718e2b9573c8a36a82",
+    "revision": "3cf88c02db4d41351609",
     "url": "/static/css/2.8f118048.chunk.css"
   },
   {
-    "revision": "4e5e55fe9e120d3c44a3",
+    "revision": "8812750b027e9d51f142",
     "url": "/static/css/main.fa08e05e.chunk.css"
   },
   {
-    "revision": "61718e2b9573c8a36a82",
-    "url": "/static/js/2.dde5bdb5.chunk.js"
+    "revision": "3cf88c02db4d41351609",
+    "url": "/static/js/2.ad3f3c08.chunk.js"
   },
   {
     "revision": "038137378776d3782021381009b8dd7f",
-    "url": "/static/js/2.dde5bdb5.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.ad3f3c08.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4e5e55fe9e120d3c44a3",
-    "url": "/static/js/main.3849cdd1.chunk.js"
+    "revision": "8812750b027e9d51f142",
+    "url": "/static/js/main.a6d529f0.chunk.js"
   },
   {
     "revision": "fc6e377c618a134f799f",
@@ -32,8 +32,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/1.21efb744.jpg"
   },
   {
+    "revision": "c4e4ba84021dbb8b2e12475883568045",
+    "url": "/static/media/1.c4e4ba84.webp"
+  },
+  {
     "revision": "928ba69fce62a190f438104676978248",
     "url": "/static/media/114.928ba69f.jpg"
+  },
+  {
+    "revision": "f51ff28e350992f5ed78c7eb32e92c07",
+    "url": "/static/media/114.f51ff28e.webp"
+  },
+  {
+    "revision": "5355be6a59e175ceba3468381937d402",
+    "url": "/static/media/115.5355be6a.webp"
   },
   {
     "revision": "5f4374222708dea441897eb0a9e02247",
@@ -48,8 +60,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/120.cf20f6fd.jpg"
   },
   {
+    "revision": "ebc0ede6c30a2c31584bded43058c5c0",
+    "url": "/static/media/120.ebc0ede6.webp"
+  },
+  {
+    "revision": "5fe8a54422d1eae8622320dac2d1721d",
+    "url": "/static/media/122.5fe8a544.webp"
+  },
+  {
     "revision": "db9a9718b6dd40f13fe625b9035254bd",
     "url": "/static/media/122.db9a9718.jpg"
+  },
+  {
+    "revision": "05bd41b112f520268383aa90c0237858",
+    "url": "/static/media/123.05bd41b1.webp"
   },
   {
     "revision": "e76393b3f8209be3e72be18906e8d099",
@@ -60,8 +84,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/124.a0744d52.jpg"
   },
   {
+    "revision": "b70101ef5660cda287393b556b7b3342",
+    "url": "/static/media/124.b70101ef.webp"
+  },
+  {
     "revision": "8598b176e584325864c3581aa9977a5d",
     "url": "/static/media/125.8598b176.jpg"
+  },
+  {
+    "revision": "de87e76e7983e9d2e34a0093ebabc1f4",
+    "url": "/static/media/125.de87e76e.webp"
   },
   {
     "revision": "4537998afee521df000d7c61f53f83ec",
@@ -96,6 +128,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/49.4ce22013.jpg"
   },
   {
+    "revision": "c0b6b546ca7e31d3b9af01487f5b7b7c",
+    "url": "/static/media/49.c0b6b546.webp"
+  },
+  {
     "revision": "3fab6b5cb8ad1c6037e7ff5c8e20eadc",
     "url": "/static/media/4HD.3fab6b5c.mp4"
   },
@@ -106,6 +142,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7c7d5b55b807190c2a1ab44f7b148714",
     "url": "/static/media/56.7c7d5b55.jpg"
+  },
+  {
+    "revision": "a802b5a28e47186369738181e75b0664",
+    "url": "/static/media/56.a802b5a2.webp"
   },
   {
     "revision": "9201bb4fec9d2b20ed18fb631bb82621",
@@ -192,6 +232,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/comisaria.49c000b1.jpg"
   },
   {
+    "revision": "542f1d987e95bd1d1d66cb677ec147c4",
+    "url": "/static/media/comisaria.542f1d98.webp"
+  },
+  {
     "revision": "5c2798d6b6c71c5e1e8c387aa6564f6e",
     "url": "/static/media/comprobante.5c2798d6.pdf"
   },
@@ -244,8 +288,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/entregachips.05c1728b.jpg"
   },
   {
+    "revision": "dd6391d6615a1471e9ee2827204a4860",
+    "url": "/static/media/entregachips.dd6391d6.webp"
+  },
+  {
+    "revision": "365427892443f4c71843bcba99b65521",
+    "url": "/static/media/entregachips2.36542789.webp"
+  },
+  {
     "revision": "92c64b4e49151a019dfecf3f7ae4d752",
     "url": "/static/media/entregachips2.92c64b4e.jpg"
+  },
+  {
+    "revision": "96a8818f0e3f378546352420285e0e6e",
+    "url": "/static/media/entregapapas.96a8818f.webp"
   },
   {
     "revision": "cb863a887b82f19f327306abd3ff4c35",
@@ -254,6 +310,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c9846d199df82e35850f55fe145cd4ca",
     "url": "/static/media/entregapapasalcaldesa.c9846d19.mp3"
+  },
+  {
+    "revision": "4859b690e57c0ef629293fa5028dd76e",
+    "url": "/static/media/entregapapasmini.4859b690.webp"
   },
   {
     "revision": "adad4f5d8d93fbd18beff73ad2c88fc2",
@@ -268,12 +328,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/entregarinju.f88b838b.jpg"
   },
   {
+    "revision": "ff17a44397cc65a6ed497eebd421be0c",
+    "url": "/static/media/entregarinju.ff17a443.webp"
+  },
+  {
     "revision": "4fb69bb1019f626e73313a50bea79660",
     "url": "/static/media/entregarinju2.4fb69bb1.jpg"
   },
   {
+    "revision": "7e5e7e5a349e680ab2125e2cae382414",
+    "url": "/static/media/entregarinju2.7e5e7e5a.webp"
+  },
+  {
+    "revision": "6378aed9bfeb47ac32adb3f1275eb224",
+    "url": "/static/media/entregarinju3.6378aed9.webp"
+  },
+  {
     "revision": "ed86b0a7c866d920f10ae662f569ff01",
     "url": "/static/media/entregarinju3.ed86b0a7.jpg"
+  },
+  {
+    "revision": "400f123162a93bf286dd17c9078f2477",
+    "url": "/static/media/entregarinju4.400f1231.webp"
   },
   {
     "revision": "c9e4c9d8f77ef45c267000e5c8291fe7",
@@ -284,12 +360,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/entregarinju5.68f4a1ef.jpg"
   },
   {
+    "revision": "b974faa7ed0a5bcae933a0816032cdad",
+    "url": "/static/media/entregarinju5.b974faa7.webp"
+  },
+  {
     "revision": "41213acd1983b38efb16969432c3fe74",
     "url": "/static/media/entregarinju6.41213acd.jpg"
   },
   {
+    "revision": "dae2fc40b6390de25d3917e901bb66a4",
+    "url": "/static/media/entregarinju6.dae2fc40.webp"
+  },
+  {
+    "revision": "9bc542bd88a1d0b8af9065f97f03538d",
+    "url": "/static/media/entregarinju7.9bc542bd.webp"
+  },
+  {
     "revision": "d8fbe17f7db007d1b4a50a5e1a4a2270",
     "url": "/static/media/entregarinju7.d8fbe17f.jpg"
+  },
+  {
+    "revision": "590d0786afd93c27cf1a07543bce0e5f",
+    "url": "/static/media/entregarinju8.590d0786.webp"
   },
   {
     "revision": "e49384f0b2a63fb69730ba53183ee071",
@@ -298,6 +390,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1816f2e49c1a26183825ce16ce062cc9",
     "url": "/static/media/entregarinju9.1816f2e4.jpg"
+  },
+  {
+    "revision": "6927fde4556ec32c98ad2e249069153a",
+    "url": "/static/media/entregarinju9.6927fde4.webp"
   },
   {
     "revision": "5c9cc56c9b6123c82d51deff2827f92c",
@@ -312,8 +408,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/entregasubsidiocierre.52b191ec.jpg"
   },
   {
+    "revision": "e498cd46bac0c369d4309b38122b56a5",
+    "url": "/static/media/entregasubsidiocierre.e498cd46.webp"
+  },
+  {
     "revision": "c7d52291d428de0b1e47a2e833119c53",
     "url": "/static/media/escalafon.c7d52291.pdf"
+  },
+  {
+    "revision": "488f8efbcbad0de4530fcfd568a18651",
+    "url": "/static/media/facilidad.488f8efb.webp"
   },
   {
     "revision": "9fd0118b604cc4b29a7d300b34c8770f",
@@ -328,8 +432,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/hist3.a9607eb6.jpg"
   },
   {
+    "revision": "f8ec558fb95e6b75a1a0ce050d5e3156",
+    "url": "/static/media/instagram.f8ec558f.webp"
+  },
+  {
     "revision": "1c0f0644cfd320288d6aefc85449d24b",
     "url": "/static/media/intervencion1.1c0f0644.jpg"
+  },
+  {
+    "revision": "c4a893dce85a84b1153d9fc5650e238b",
+    "url": "/static/media/intervencion1.c4a893dc.webp"
+  },
+  {
+    "revision": "ce50e3408bf9f43d0f9dc8a08addb781",
+    "url": "/static/media/intervencion2.ce50e340.webp"
   },
   {
     "revision": "f0182df60d18fbd5509a340881d3df31",
@@ -338,6 +454,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "347ecbc926c834623632c31bdaeb19f0",
     "url": "/static/media/intervencion3.347ecbc9.jpg"
+  },
+  {
+    "revision": "dfd8ea6c1be375b2a8b0ec9d73ba91a2",
+    "url": "/static/media/intervencion3.dfd8ea6c.webp"
+  },
+  {
+    "revision": "62d3a7b93c36b6bfe2b3230d1f6f5ecb",
+    "url": "/static/media/intervencion4.62d3a7b9.webp"
   },
   {
     "revision": "a3085b8f13fcb0e003252175c8008b6f",
@@ -360,6 +484,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/kitaseocovid.2204f364.jpg"
   },
   {
+    "revision": "f86429094c0799cfbe66ae445f2ad798",
+    "url": "/static/media/kitaseocovid.f8642909.webp"
+  },
+  {
+    "revision": "cc035ac0ac3729cac2751c879b69f9bb",
+    "url": "/static/media/lobby.cc035ac0.webp"
+  },
+  {
+    "revision": "54b8aff525611831c19e40aaca9718e3",
+    "url": "/static/media/mail.54b8aff5.webp"
+  },
+  {
     "revision": "626063d74a39ea13ff4e321a0b742c39",
     "url": "/static/media/mosorio.626063d7.jpg"
   },
@@ -376,16 +512,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/pasamosagosto1.67687801.jpg"
   },
   {
+    "revision": "fa9b7d070b01f62abe0685c54649485b",
+    "url": "/static/media/pasamosagosto1.fa9b7d07.webp"
+  },
+  {
     "revision": "e510aa157135ba67bcd7bae62319ddb8",
     "url": "/static/media/pasamosagosto2.e510aa15.jpg"
+  },
+  {
+    "revision": "ee0f4d1040f0f21bcb31b5365c71a816",
+    "url": "/static/media/pasamosagosto2.ee0f4d10.webp"
   },
   {
     "revision": "680f1e1f68ac8702a9f1aaf9855137f0",
     "url": "/static/media/pasamosagosto3.680f1e1f.jpg"
   },
   {
+    "revision": "79483cabb1ddfc3c0e95f32c15a16b9f",
+    "url": "/static/media/pasamosagosto3.79483cab.webp"
+  },
+  {
     "revision": "5f99498bd6d55a8b50e265f7488a5148",
     "url": "/static/media/pasamosagosto4.5f99498b.jpg"
+  },
+  {
+    "revision": "b146c6106a94577e67c777aef77e9c22",
+    "url": "/static/media/pasamosagosto4.b146c610.webp"
+  },
+  {
+    "revision": "71bf1f648c4b301c3e7541a820fcea57",
+    "url": "/static/media/pasamosagosto5.71bf1f64.webp"
   },
   {
     "revision": "791c4da27787efe681a4c9a6e74aa718",
@@ -394,6 +550,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "106b3fb6774e978d6e8ad5eac3b952cc",
     "url": "/static/media/pasamosagostomini.106b3fb6.jpg"
+  },
+  {
+    "revision": "4ecd1c7aa922553cf1e6dc4eb94869e6",
+    "url": "/static/media/pasamosagostomini.4ecd1c7a.webp"
+  },
+  {
+    "revision": "0a9572d15c910fb859cdb8e5704550c2",
+    "url": "/static/media/pasoapaso.0a9572d1.webp"
   },
   {
     "revision": "1c5ce004ca21ca675bfc21963105e833",
@@ -412,27 +576,59 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/pobl2.e120502a.jpg"
   },
   {
+    "revision": "bf6611184c4b27d3569669ba4c9522e3",
+    "url": "/static/media/residuos.bf661118.webp"
+  },
+  {
     "revision": "ff0033184262eed3e0ea046796de34d3",
     "url": "/static/media/residuos.ff003318.jpg"
+  },
+  {
+    "revision": "619c2c6907bcbbd87d562ecc7bd14dce",
+    "url": "/static/media/sai.619c2c69.webp"
   },
   {
     "revision": "50ecaa8e345e483547c8bdc5057bc819",
     "url": "/static/media/sedeunion.50ecaa8e.jpg"
   },
   {
+    "revision": "d663ecdcdfb30083bd4f07bd3595f1ce",
+    "url": "/static/media/sedeunion.d663ecdc.webp"
+  },
+  {
+    "revision": "f73c474a6ad4a2b3abc556cb476efe8b",
+    "url": "/static/media/tai.f73c474a.webp"
+  },
+  {
     "revision": "c32412142b07780356e17202989801bc",
     "url": "/static/media/turi1.c3241214.jpg"
+  },
+  {
+    "revision": "6353833a9a27ef0e17b07971ad700c36",
+    "url": "/static/media/twitter.6353833a.webp"
   },
   {
     "revision": "881a7fda46bff58167b953e53e5862c6",
     "url": "/static/media/viviendas.881a7fda.jpg"
   },
   {
+    "revision": "c6d54eedcd2f64e48739882d0148ad9f",
+    "url": "/static/media/viviendas.c6d54eed.webp"
+  },
+  {
     "revision": "39d79a4ce77deb4b7ddd486404cb0b5e",
     "url": "/static/media/viviendas2.39d79a4c.jpg"
   },
   {
+    "revision": "e192c30590f6d454f260c679edf94c72",
+    "url": "/static/media/viviendas2.e192c305.webp"
+  },
+  {
     "revision": "81f66e6d0fe7e32cd2bba78b5b9ed7c0",
     "url": "/static/media/viviendasPiraino.81f66e6d.mp3"
+  },
+  {
+    "revision": "98242b50993161cab07c6c56d138ab2d",
+    "url": "/static/media/youtube.98242b50.webp"
   }
 ]);
