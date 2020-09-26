@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.fa08e05e.chunk.css",
-    "main.js": "/static/js/main.a6d529f0.chunk.js",
-    "main.js.map": "/static/js/main.a6d529f0.chunk.js.map",
+    "main.js": "/static/js/main.fc468e70.chunk.js",
+    "main.js.map": "/static/js/main.fc468e70.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.be772237.js",
     "runtime-main.js.map": "/static/js/runtime-main.be772237.js.map",
     "static/css/2.8f118048.chunk.css": "/static/css/2.8f118048.chunk.css",
     "static/js/2.ad3f3c08.chunk.js": "/static/js/2.ad3f3c08.chunk.js",
     "static/js/2.ad3f3c08.chunk.js.map": "/static/js/2.ad3f3c08.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.27a5ee867c8e884b2f70578b7366229d.js": "/precache-manifest.27a5ee867c8e884b2f70578b7366229d.js",
+    "precache-manifest.842453840edc8144b3a0448c30e17848.js": "/precache-manifest.842453840edc8144b3a0448c30e17848.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.8f118048.chunk.css.map": "/static/css/2.8f118048.chunk.css.map",
     "static/css/main.fa08e05e.chunk.css.map": "/static/css/main.fa08e05e.chunk.css.map",
@@ -44,10 +44,10 @@
     "static/media/4SD.mp4": "/static/media/4SD.06d16c9e.mp4",
     "static/media/56.jpg": "/static/media/56.7c7d5b55.jpg",
     "static/media/56.webp": "/static/media/56.a802b5a2.webp",
-    "static/media/IMG1.jpg": "/static/media/IMG1.9201bb4f.jpg",
-    "static/media/IMG2.jpg": "/static/media/IMG2.6ef30939.jpg",
-    "static/media/IMG3.jpg": "/static/media/IMG3.df06b5ab.jpg",
-    "static/media/IMG4.jpg": "/static/media/IMG4.a68a96f7.jpg",
+    "static/media/IMG1.jpg": "/static/media/IMG1.dc44c3be.jpg",
+    "static/media/IMG2.jpg": "/static/media/IMG2.efd3a845.jpg",
+    "static/media/IMG3.jpg": "/static/media/IMG3.27cba29f.jpg",
+    "static/media/IMG4.jpg": "/static/media/IMG4.8e66a8c7.jpg",
     "static/media/KitaseoCovidAlcaldesa.mp3": "/static/media/KitaseoCovidAlcaldesa.12aee6f0.mp3",
     "static/media/PDF.svg": "/static/media/PDF.5a9681c8.svg",
     "static/media/SopravalCajasAlcaldesa.mp3": "/static/media/SopravalCajasAlcaldesa.0115970f.mp3",
@@ -171,6 +171,6 @@
     "static/css/2.8f118048.chunk.css",
     "static/js/2.ad3f3c08.chunk.js",
     "static/css/main.fa08e05e.chunk.css",
-    "static/js/main.a6d529f0.chunk.js"
+    "static/js/main.fc468e70.chunk.js"
   ]
 }
