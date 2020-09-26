@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.95600f82.chunk.css",
-    "main.js": "/static/js/main.80a901a6.chunk.js",
-    "main.js.map": "/static/js/main.80a901a6.chunk.js.map",
+    "main.css": "/static/css/main.fa08e05e.chunk.css",
+    "main.js": "/static/js/main.3849cdd1.chunk.js",
+    "main.js.map": "/static/js/main.3849cdd1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.be772237.js",
     "runtime-main.js.map": "/static/js/runtime-main.be772237.js.map",
     "static/css/2.8f118048.chunk.css": "/static/css/2.8f118048.chunk.css",
     "static/js/2.dde5bdb5.chunk.js": "/static/js/2.dde5bdb5.chunk.js",
     "static/js/2.dde5bdb5.chunk.js.map": "/static/js/2.dde5bdb5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.dd2e707cea70be49bd83377c55b96c20.js": "/precache-manifest.dd2e707cea70be49bd83377c55b96c20.js",
+    "precache-manifest.9d86a4606864f66df70e0ed93eac3e0b.js": "/precache-manifest.9d86a4606864f66df70e0ed93eac3e0b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.8f118048.chunk.css.map": "/static/css/2.8f118048.chunk.css.map",
-    "static/css/main.95600f82.chunk.css.map": "/static/css/main.95600f82.chunk.css.map",
+    "static/css/main.fa08e05e.chunk.css.map": "/static/css/main.fa08e05e.chunk.css.map",
     "static/js/2.dde5bdb5.chunk.js.LICENSE.txt": "/static/js/2.dde5bdb5.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.21efb744.jpg",
     "static/media/114.jpg": "/static/media/114.928ba69f.jpg",
@@ -54,6 +54,7 @@
     "static/media/aportesPropiosBenito.mp3": "/static/media/aportesPropiosBenito.d9c43699.mp3",
     "static/media/basura.jpg": "/static/media/basura.328c9476.jpg",
     "static/media/censoComunalAlcaldesa.mp3": "/static/media/censoComunalAlcaldesa.60a4a86d.mp3",
+    "static/media/comisaria.jpg": "/static/media/comisaria.49c000b1.jpg",
     "static/media/comprobante.pdf": "/static/media/comprobante.5c2798d6.pdf",
     "static/media/comunicacion.pdf": "/static/media/comunicacion.02bfdbfc.pdf",
     "static/media/covidmunicipal.pdf": "/static/media/covidmunicipal.e254821a.pdf",
@@ -96,7 +97,6 @@
     "static/media/jpl.pdf": "/static/media/jpl.e242c34f.pdf",
     "static/media/jplcovid19.jpg": "/static/media/jplcovid19.9c9a074b.jpg",
     "static/media/kitaseocovid.jpg": "/static/media/kitaseocovid.2204f364.jpg",
-    "static/media/lobby.png": "/static/media/lobby.f1164535.png",
     "static/media/mosorio.jpg": "/static/media/mosorio.626063d7.jpg",
     "static/media/municipalidad.jpg": "/static/media/municipalidad.9ac6ee38.jpg",
     "static/media/noagricolas.pdf": "/static/media/noagricolas.25158083.pdf",
@@ -106,7 +106,7 @@
     "static/media/pasamosagosto4.jpg": "/static/media/pasamosagosto4.5f99498b.jpg",
     "static/media/pasamosagosto5.jpg": "/static/media/pasamosagosto5.791c4da2.jpg",
     "static/media/pasamosagostomini.jpg": "/static/media/pasamosagostomini.106b3fb6.jpg",
-    "static/media/pasoapaso.png": "/static/media/pasoapaso.44c0a010.png",
+    "static/media/pasoapaso.png": "/static/media/pasoapaso.1c5ce004.png",
     "static/media/patentesBorbaran.mp3": "/static/media/patentesBorbaran.6c56877d.mp3",
     "static/media/phone.png": "/static/media/phone.4f7444a4.png",
     "static/media/pobl2.jpg": "/static/media/pobl2.e120502a.jpg",
@@ -121,7 +121,7 @@
     "static/js/runtime-main.be772237.js",
     "static/css/2.8f118048.chunk.css",
     "static/js/2.dde5bdb5.chunk.js",
-    "static/css/main.95600f82.chunk.css",
-    "static/js/main.80a901a6.chunk.js"
+    "static/css/main.fa08e05e.chunk.css",
+    "static/js/main.3849cdd1.chunk.js"
   ]
 }

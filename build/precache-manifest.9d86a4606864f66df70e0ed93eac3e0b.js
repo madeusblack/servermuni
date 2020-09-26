@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65fa38b94321eff69466d3582671e20b",
+    "revision": "51f9e0b04eb00642f16fbffc760e7822",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.8f118048.chunk.css"
   },
   {
-    "revision": "d7286f8ab63d0ea11902",
-    "url": "/static/css/main.95600f82.chunk.css"
+    "revision": "4e5e55fe9e120d3c44a3",
+    "url": "/static/css/main.fa08e05e.chunk.css"
   },
   {
     "revision": "61718e2b9573c8a36a82",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.dde5bdb5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d7286f8ab63d0ea11902",
-    "url": "/static/js/main.80a901a6.chunk.js"
+    "revision": "4e5e55fe9e120d3c44a3",
+    "url": "/static/js/main.3849cdd1.chunk.js"
   },
   {
     "revision": "fc6e377c618a134f799f",
@@ -186,6 +186,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "60a4a86de8a59a13adf6e868149b0c5a",
     "url": "/static/media/censoComunalAlcaldesa.60a4a86d.mp3"
+  },
+  {
+    "revision": "49c000b1b643cf943d365b3ef5a31dca",
+    "url": "/static/media/comisaria.49c000b1.jpg"
   },
   {
     "revision": "5c2798d6b6c71c5e1e8c387aa6564f6e",
@@ -356,10 +360,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/kitaseocovid.2204f364.jpg"
   },
   {
-    "revision": "f11645356311bf17d92f888de1639269",
-    "url": "/static/media/lobby.f1164535.png"
-  },
-  {
     "revision": "626063d74a39ea13ff4e321a0b742c39",
     "url": "/static/media/mosorio.626063d7.jpg"
   },
@@ -396,8 +396,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/pasamosagostomini.106b3fb6.jpg"
   },
   {
-    "revision": "44c0a0105e1d07e5a37b85e4a434aca1",
-    "url": "/static/media/pasoapaso.44c0a010.png"
+    "revision": "1c5ce004ca21ca675bfc21963105e833",
+    "url": "/static/media/pasoapaso.1c5ce004.png"
   },
   {
     "revision": "6c56877d94f1b67967b1b1e16bb6a4da",
