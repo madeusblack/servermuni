@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "223967cf2b71edd5ce39cc6f361cb8da",
+    "revision": "9db2cb60763f4cc8ea4f8ecb0236cc74",
     "url": "/index.html"
   },
   {
-    "revision": "3cf88c02db4d41351609",
+    "revision": "82b521df72a05bc14433",
     "url": "/static/css/2.8f118048.chunk.css"
   },
   {
-    "revision": "ef80ba534fcca8af5369",
-    "url": "/static/css/main.fa08e05e.chunk.css"
+    "revision": "8085476f3988b577ae25",
+    "url": "/static/css/main.26ae74f0.chunk.css"
   },
   {
-    "revision": "3cf88c02db4d41351609",
-    "url": "/static/js/2.ad3f3c08.chunk.js"
+    "revision": "82b521df72a05bc14433",
+    "url": "/static/js/2.013bf74a.chunk.js"
   },
   {
     "revision": "038137378776d3782021381009b8dd7f",
-    "url": "/static/js/2.ad3f3c08.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.013bf74a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ef80ba534fcca8af5369",
-    "url": "/static/js/main.fc468e70.chunk.js"
+    "revision": "8085476f3988b577ae25",
+    "url": "/static/js/main.4e7f5adc.chunk.js"
   },
   {
     "revision": "fc6e377c618a134f799f",
@@ -88,12 +88,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/124.b70101ef.webp"
   },
   {
-    "revision": "8598b176e584325864c3581aa9977a5d",
-    "url": "/static/media/125.8598b176.jpg"
+    "revision": "a6e9fe10b7b5926cf83900d907c3f85e",
+    "url": "/static/media/125.a6e9fe10.webp"
   },
   {
-    "revision": "de87e76e7983e9d2e34a0093ebabc1f4",
-    "url": "/static/media/125.de87e76e.webp"
+    "revision": "f510fe10aea82075080ec7f24dcda8ef",
+    "url": "/static/media/125.f510fe10.png"
   },
   {
     "revision": "4537998afee521df000d7c61f53f83ec",
@@ -492,6 +492,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/lobby.cc035ac0.webp"
   },
   {
+    "revision": "6e105cc359f7e77bd93c664036b9428a",
+    "url": "/static/media/luminaria.6e105cc3.jpg"
+  },
+  {
+    "revision": "7d8ec824560a33790a70bf44cb92a0e9",
+    "url": "/static/media/luminaria.7d8ec824.webp"
+  },
+  {
     "revision": "54b8aff525611831c19e40aaca9718e3",
     "url": "/static/media/mail.54b8aff5.webp"
   },
@@ -568,8 +576,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/patentesBorbaran.6c56877d.mp3"
   },
   {
-    "revision": "4f7444a45d4eba68933e78757c6da391",
-    "url": "/static/media/phone.4f7444a4.png"
+    "revision": "3e4738077b20e345a399326e25f36385",
+    "url": "/static/media/phone.3e473807.svg"
   },
   {
     "revision": "e120502a8db4fde5421ec223edbb3774",
