@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "98072a4ff46c290e991920658ce61a1d",
+    "revision": "9179e91a28190635e4bbd2c1f892b796",
     "url": "/index.html"
   },
   {
-    "revision": "82b521df72a05bc14433",
+    "revision": "6918672ff85c0bdf36f6",
     "url": "/static/css/2.8f118048.chunk.css"
   },
   {
-    "revision": "f85ed1a65745803f78fe",
-    "url": "/static/css/main.26ae74f0.chunk.css"
+    "revision": "4a784e3423310484fd74",
+    "url": "/static/css/main.9552ecdf.chunk.css"
   },
   {
-    "revision": "82b521df72a05bc14433",
-    "url": "/static/js/2.013bf74a.chunk.js"
+    "revision": "6918672ff85c0bdf36f6",
+    "url": "/static/js/2.c96cb4b9.chunk.js"
   },
   {
     "revision": "038137378776d3782021381009b8dd7f",
-    "url": "/static/js/2.013bf74a.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.c96cb4b9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f85ed1a65745803f78fe",
-    "url": "/static/js/main.84c54806.chunk.js"
+    "revision": "4a784e3423310484fd74",
+    "url": "/static/js/main.cd8ed5b6.chunk.js"
   },
   {
     "revision": "fc6e377c618a134f799f",
@@ -228,6 +228,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/censoComunalAlcaldesa.60a4a86d.mp3"
   },
   {
+    "revision": "a6bdfab9c4aea2b9b98f166ed45c94e4",
+    "url": "/static/media/chileatiende.a6bdfab9.webp"
+  },
+  {
     "revision": "49c000b1b643cf943d365b3ef5a31dca",
     "url": "/static/media/comisaria.49c000b1.jpg"
   },
@@ -282,6 +286,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "04a920489c799a344d79a6c06f93a75c",
     "url": "/static/media/cuentapublica.04a92048.jpg"
+  },
+  {
+    "revision": "383bad74162b2dc1fd888af0274dd0ba",
+    "url": "/static/media/cuentapublica.383bad74.webp"
   },
   {
     "revision": "05c1728b361957dc5e35cc90009aa892",
@@ -432,6 +440,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/hist3.a9607eb6.jpg"
   },
   {
+    "revision": "745ef7ed381011a582f6a9598592de65",
+    "url": "/static/media/ine.745ef7ed.webp"
+  },
+  {
+    "revision": "c72a0b193c4dcaa46abfd23f0b27b03e",
+    "url": "/static/media/ine.c72a0b19.png"
+  },
+  {
     "revision": "f8ec558fb95e6b75a1a0ce050d5e3156",
     "url": "/static/media/instagram.f8ec558f.webp"
   },
@@ -466,6 +482,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a3085b8f13fcb0e003252175c8008b6f",
     "url": "/static/media/intervencion4.a3085b8f.jpg"
+  },
+  {
+    "revision": "9fec09076101ff9a958373396dd88216",
+    "url": "/static/media/jefasdehogar.9fec0907.webp"
   },
   {
     "revision": "f86bf2ac99f65bded4aa5ff0e018e9e4",
@@ -514,6 +534,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "25158083911ca59d4e69d12daddc4de7",
     "url": "/static/media/noagricolas.25158083.pdf"
+  },
+  {
+    "revision": "28ea4330ae54c2c316168224eaa43718",
+    "url": "/static/media/omil.28ea4330.webp"
   },
   {
     "revision": "676878010fefe0dbfe2fcdd8503a76f3",
@@ -576,6 +600,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/patentesBorbaran.6c56877d.mp3"
   },
   {
+    "revision": "ec461bf08f4e42b8eed47810112d78f2",
+    "url": "/static/media/permisos.ec461bf0.webp"
+  },
+  {
     "revision": "3e4738077b20e345a399326e25f36385",
     "url": "/static/media/phone.3e473807.svg"
   },
@@ -604,6 +632,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/sedeunion.d663ecdc.webp"
   },
   {
+    "revision": "0d6d1e4acb00302ba67fdfb8f270d509",
+    "url": "/static/media/sinpapeleo.0d6d1e4a.webp"
+  },
+  {
     "revision": "f73c474a6ad4a2b3abc556cb476efe8b",
     "url": "/static/media/tai.f73c474a.webp"
   },
@@ -614,6 +646,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6353833a9a27ef0e17b07971ad700c36",
     "url": "/static/media/twitter.6353833a.webp"
+  },
+  {
+    "revision": "a38aaf7bf25aae55c9a70908ddc34518",
+    "url": "/static/media/valida.a38aaf7b.webp"
   },
   {
     "revision": "881a7fda46bff58167b953e53e5862c6",
