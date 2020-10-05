@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.9552ecdf.chunk.css",
-    "main.js": "/static/js/main.cd8ed5b6.chunk.js",
-    "main.js.map": "/static/js/main.cd8ed5b6.chunk.js.map",
+    "main.css": "/static/css/main.23d50aca.chunk.css",
+    "main.js": "/static/js/main.fa2ad465.chunk.js",
+    "main.js.map": "/static/js/main.fa2ad465.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.be772237.js",
     "runtime-main.js.map": "/static/js/runtime-main.be772237.js.map",
     "static/css/2.8f118048.chunk.css": "/static/css/2.8f118048.chunk.css",
-    "static/js/2.c96cb4b9.chunk.js": "/static/js/2.c96cb4b9.chunk.js",
-    "static/js/2.c96cb4b9.chunk.js.map": "/static/js/2.c96cb4b9.chunk.js.map",
+    "static/js/2.b37c6214.chunk.js": "/static/js/2.b37c6214.chunk.js",
+    "static/js/2.b37c6214.chunk.js.map": "/static/js/2.b37c6214.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0f9a7a0d562e714907ff06f33c30eb6f.js": "/precache-manifest.0f9a7a0d562e714907ff06f33c30eb6f.js",
+    "precache-manifest.14f06024e882fea72543cd2291446a9a.js": "/precache-manifest.14f06024e882fea72543cd2291446a9a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.8f118048.chunk.css.map": "/static/css/2.8f118048.chunk.css.map",
-    "static/css/main.9552ecdf.chunk.css.map": "/static/css/main.9552ecdf.chunk.css.map",
-    "static/js/2.c96cb4b9.chunk.js.LICENSE.txt": "/static/js/2.c96cb4b9.chunk.js.LICENSE.txt",
+    "static/css/main.23d50aca.chunk.css.map": "/static/css/main.23d50aca.chunk.css.map",
+    "static/js/2.b37c6214.chunk.js.LICENSE.txt": "/static/js/2.b37c6214.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.21efb744.jpg",
     "static/media/1.webp": "/static/media/1.c4e4ba84.webp",
     "static/media/114.jpg": "/static/media/114.928ba69f.jpg",
@@ -80,6 +80,8 @@
     "static/media/cuenta1.jpg": "/static/media/cuenta1.3b5cb3c4.jpg",
     "static/media/cuentapublica.jpg": "/static/media/cuentapublica.04a92048.jpg",
     "static/media/cuentapublica.webp": "/static/media/cuentapublica.383bad74.webp",
+    "static/media/emergencia.png": "/static/media/emergencia.68972675.png",
+    "static/media/emergencia.webp": "/static/media/emergencia.b174dee0.webp",
     "static/media/entregachips.jpg": "/static/media/entregachips.05c1728b.jpg",
     "static/media/entregachips.webp": "/static/media/entregachips.dd6391d6.webp",
     "static/media/entregachips2.webp": "/static/media/entregachips2.36542789.webp",
@@ -180,8 +182,8 @@
   "entrypoints": [
     "static/js/runtime-main.be772237.js",
     "static/css/2.8f118048.chunk.css",
-    "static/js/2.c96cb4b9.chunk.js",
-    "static/css/main.9552ecdf.chunk.css",
-    "static/js/main.cd8ed5b6.chunk.js"
+    "static/js/2.b37c6214.chunk.js",
+    "static/css/main.23d50aca.chunk.css",
+    "static/js/main.fa2ad465.chunk.js"
   ]
 }
