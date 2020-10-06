@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "606f05ab83022603beb028666ecfdca9",
+    "revision": "8cbaf02298df2072b0136fd5e6717ac9",
     "url": "/index.html"
   },
   {
-    "revision": "56a3b081550b4cd0bf00",
+    "revision": "569ee8ab96ec860df3f6",
     "url": "/static/css/2.8f118048.chunk.css"
   },
   {
-    "revision": "04f5a589c7b8417c5c47",
+    "revision": "fb9d718a709c4ab3b206",
     "url": "/static/css/main.23d50aca.chunk.css"
   },
   {
-    "revision": "56a3b081550b4cd0bf00",
-    "url": "/static/js/2.b37c6214.chunk.js"
+    "revision": "569ee8ab96ec860df3f6",
+    "url": "/static/js/2.d7423858.chunk.js"
   },
   {
     "revision": "038137378776d3782021381009b8dd7f",
-    "url": "/static/js/2.b37c6214.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.d7423858.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "04f5a589c7b8417c5c47",
-    "url": "/static/js/main.36bca7e9.chunk.js"
+    "revision": "fb9d718a709c4ab3b206",
+    "url": "/static/js/main.22eece8d.chunk.js"
   },
   {
     "revision": "fc6e377c618a134f799f",
@@ -618,6 +618,62 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e120502a8db4fde5421ec223edbb3774",
     "url": "/static/media/pobl2.e120502a.jpg"
+  },
+  {
+    "revision": "3c8f88d7a5eb4107a0256afa5cba5f2a",
+    "url": "/static/media/quieromibarrio.3c8f88d7.webp"
+  },
+  {
+    "revision": "5f7d86fa0d1aec71d56ed83430c31d36",
+    "url": "/static/media/quieromibarrio.5f7d86fa.jpg"
+  },
+  {
+    "revision": "3b0b474192717cf45ea5faa526ec3712",
+    "url": "/static/media/quieromibarrio2.3b0b4741.jpg"
+  },
+  {
+    "revision": "e1cb20267fecf43d516c3951523c98a7",
+    "url": "/static/media/quieromibarrio2.e1cb2026.webp"
+  },
+  {
+    "revision": "a34fc9006420af58f0972ce581e56497",
+    "url": "/static/media/quieromibarrio3.a34fc900.jpg"
+  },
+  {
+    "revision": "a58710c78f054a0682cfc853d10c53a2",
+    "url": "/static/media/quieromibarrio3.a58710c7.webp"
+  },
+  {
+    "revision": "136400f74d56c162774de9f3e303e58a",
+    "url": "/static/media/quieromibarrio4.136400f7.jpg"
+  },
+  {
+    "revision": "521e90f37de5647f50b638992da52f7e",
+    "url": "/static/media/quieromibarrio4.521e90f3.webp"
+  },
+  {
+    "revision": "538b5754697c2280e7b27d712e8ffb96",
+    "url": "/static/media/quieromibarrio5.538b5754.jpg"
+  },
+  {
+    "revision": "ee2fb481042b6664c14198dbae0bcfed",
+    "url": "/static/media/quieromibarrio5.ee2fb481.webp"
+  },
+  {
+    "revision": "3a837fcb1b9b2d144ce51f3ce1090e69",
+    "url": "/static/media/quieromibarrio6.3a837fcb.webp"
+  },
+  {
+    "revision": "b1ceffd6f101c65f79ced24dc7bf2fb8",
+    "url": "/static/media/quieromibarrio6.b1ceffd6.jpg"
+  },
+  {
+    "revision": "538b5754697c2280e7b27d712e8ffb96",
+    "url": "/static/media/quieromibarriomini.538b5754.jpg"
+  },
+  {
+    "revision": "ee2fb481042b6664c14198dbae0bcfed",
+    "url": "/static/media/quieromibarriomini.ee2fb481.webp"
   },
   {
     "revision": "bf6611184c4b27d3569669ba4c9522e3",
