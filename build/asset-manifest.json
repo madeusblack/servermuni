@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.dad890b9.chunk.css",
-    "main.js": "/static/js/main.c24aa7f4.chunk.js",
-    "main.js.map": "/static/js/main.c24aa7f4.chunk.js.map",
+    "main.js": "/static/js/main.e3f4a32e.chunk.js",
+    "main.js.map": "/static/js/main.e3f4a32e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.be772237.js",
     "runtime-main.js.map": "/static/js/runtime-main.be772237.js.map",
     "static/css/2.8f118048.chunk.css": "/static/css/2.8f118048.chunk.css",
-    "static/js/2.145dfd11.chunk.js": "/static/js/2.145dfd11.chunk.js",
-    "static/js/2.145dfd11.chunk.js.map": "/static/js/2.145dfd11.chunk.js.map",
+    "static/js/2.6f2673ce.chunk.js": "/static/js/2.6f2673ce.chunk.js",
+    "static/js/2.6f2673ce.chunk.js.map": "/static/js/2.6f2673ce.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e08f48340f079353640e0fcfad93c06d.js": "/precache-manifest.e08f48340f079353640e0fcfad93c06d.js",
+    "precache-manifest.8af5a7fb7c8d4d101056a6847ebb9020.js": "/precache-manifest.8af5a7fb7c8d4d101056a6847ebb9020.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.8f118048.chunk.css.map": "/static/css/2.8f118048.chunk.css.map",
     "static/css/main.dad890b9.chunk.css.map": "/static/css/main.dad890b9.chunk.css.map",
-    "static/js/2.145dfd11.chunk.js.LICENSE.txt": "/static/js/2.145dfd11.chunk.js.LICENSE.txt",
+    "static/js/2.6f2673ce.chunk.js.LICENSE.txt": "/static/js/2.6f2673ce.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.21efb744.jpg",
     "static/media/1.webp": "/static/media/1.c4e4ba84.webp",
     "static/media/114.jpg": "/static/media/114.928ba69f.jpg",
@@ -65,6 +65,9 @@
     "static/media/aportesPropiosAlcaldesa.mp3": "/static/media/aportesPropiosAlcaldesa.9862aedf.mp3",
     "static/media/aportesPropiosBenito.mp3": "/static/media/aportesPropiosBenito.d9c43699.mp3",
     "static/media/basura.jpg": "/static/media/basura.328c9476.jpg",
+    "static/media/cachureos.webp": "/static/media/cachureos.4deccf73.webp",
+    "static/media/cachureos.jpg": "/static/media/cachureos.afe50fb2.jpg",
+    "static/media/calendariocachureos.jpg": "/static/media/calendariocachureos.a3c4d03a.jpg",
     "static/media/censoComunalAlcaldesa.mp3": "/static/media/censoComunalAlcaldesa.60a4a86d.mp3",
     "static/media/chileatiende.webp": "/static/media/chileatiende.a6bdfab9.webp",
     "static/media/comisaria.jpg": "/static/media/comisaria.49c000b1.jpg",
@@ -202,8 +205,8 @@
   "entrypoints": [
     "static/js/runtime-main.be772237.js",
     "static/css/2.8f118048.chunk.css",
-    "static/js/2.145dfd11.chunk.js",
+    "static/js/2.6f2673ce.chunk.js",
     "static/css/main.dad890b9.chunk.css",
-    "static/js/main.c24aa7f4.chunk.js"
+    "static/js/main.e3f4a32e.chunk.js"
   ]
 }
