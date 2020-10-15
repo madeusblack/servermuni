@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba3848a49f4aa478e2a221bda52f169c",
+    "revision": "98e81c493941267bdb5d0e4cb2845064",
     "url": "/index.html"
   },
   {
-    "revision": "56e322922e307ed89dd4",
+    "revision": "b052289f9ab90fd5381b",
     "url": "/static/css/2.8f118048.chunk.css"
   },
   {
-    "revision": "255e3ea1b18f6ad5c4c3",
-    "url": "/static/css/main.998a3d99.chunk.css"
+    "revision": "5bffd336059374739bb2",
+    "url": "/static/css/main.a3c51567.chunk.css"
   },
   {
-    "revision": "56e322922e307ed89dd4",
-    "url": "/static/js/2.3f660ff6.chunk.js"
+    "revision": "b052289f9ab90fd5381b",
+    "url": "/static/js/2.145dfd11.chunk.js"
   },
   {
     "revision": "038137378776d3782021381009b8dd7f",
-    "url": "/static/js/2.3f660ff6.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.145dfd11.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "255e3ea1b18f6ad5c4c3",
-    "url": "/static/js/main.494ba968.chunk.js"
+    "revision": "5bffd336059374739bb2",
+    "url": "/static/js/main.90c2b1a4.chunk.js"
   },
   {
     "revision": "fc6e377c618a134f799f",
@@ -622,6 +622,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3e4738077b20e345a399326e25f36385",
     "url": "/static/media/phone.3e473807.svg"
+  },
+  {
+    "revision": "b6597434eb6a63590de73617203b38ac",
+    "url": "/static/media/plebiscito.b6597434.webp"
+  },
+  {
+    "revision": "c3e02f1fca5ef6ee31829f25cc9990cc",
+    "url": "/static/media/plebiscito.c3e02f1f.jpg"
   },
   {
     "revision": "e120502a8db4fde5421ec223edbb3774",

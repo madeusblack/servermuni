@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.998a3d99.chunk.css",
-    "main.js": "/static/js/main.494ba968.chunk.js",
-    "main.js.map": "/static/js/main.494ba968.chunk.js.map",
+    "main.css": "/static/css/main.a3c51567.chunk.css",
+    "main.js": "/static/js/main.90c2b1a4.chunk.js",
+    "main.js.map": "/static/js/main.90c2b1a4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.be772237.js",
     "runtime-main.js.map": "/static/js/runtime-main.be772237.js.map",
     "static/css/2.8f118048.chunk.css": "/static/css/2.8f118048.chunk.css",
-    "static/js/2.3f660ff6.chunk.js": "/static/js/2.3f660ff6.chunk.js",
-    "static/js/2.3f660ff6.chunk.js.map": "/static/js/2.3f660ff6.chunk.js.map",
+    "static/js/2.145dfd11.chunk.js": "/static/js/2.145dfd11.chunk.js",
+    "static/js/2.145dfd11.chunk.js.map": "/static/js/2.145dfd11.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5b6b1bf21e59597c7b377ed9828f7aa2.js": "/precache-manifest.5b6b1bf21e59597c7b377ed9828f7aa2.js",
+    "precache-manifest.b932741c7374a157f19d86396c69621f.js": "/precache-manifest.b932741c7374a157f19d86396c69621f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.8f118048.chunk.css.map": "/static/css/2.8f118048.chunk.css.map",
-    "static/css/main.998a3d99.chunk.css.map": "/static/css/main.998a3d99.chunk.css.map",
-    "static/js/2.3f660ff6.chunk.js.LICENSE.txt": "/static/js/2.3f660ff6.chunk.js.LICENSE.txt",
+    "static/css/main.a3c51567.chunk.css.map": "/static/css/main.a3c51567.chunk.css.map",
+    "static/js/2.145dfd11.chunk.js.LICENSE.txt": "/static/js/2.145dfd11.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.21efb744.jpg",
     "static/media/1.webp": "/static/media/1.c4e4ba84.webp",
     "static/media/114.jpg": "/static/media/114.928ba69f.jpg",
@@ -163,6 +163,8 @@
     "static/media/patentesBorbaran.mp3": "/static/media/patentesBorbaran.6c56877d.mp3",
     "static/media/permisos.webp": "/static/media/permisos.ec461bf0.webp",
     "static/media/phone.svg": "/static/media/phone.3e473807.svg",
+    "static/media/plebiscito.webp": "/static/media/plebiscito.b6597434.webp",
+    "static/media/plebiscito.jpg": "/static/media/plebiscito.c3e02f1f.jpg",
     "static/media/pobl2.jpg": "/static/media/pobl2.e120502a.jpg",
     "static/media/quieromibarrio.webp": "/static/media/quieromibarrio.3c8f88d7.webp",
     "static/media/quieromibarrio.jpg": "/static/media/quieromibarrio.5f7d86fa.jpg",
@@ -200,8 +202,8 @@
   "entrypoints": [
     "static/js/runtime-main.be772237.js",
     "static/css/2.8f118048.chunk.css",
-    "static/js/2.3f660ff6.chunk.js",
-    "static/css/main.998a3d99.chunk.css",
-    "static/js/main.494ba968.chunk.js"
+    "static/js/2.145dfd11.chunk.js",
+    "static/css/main.a3c51567.chunk.css",
+    "static/js/main.90c2b1a4.chunk.js"
   ]
 }
