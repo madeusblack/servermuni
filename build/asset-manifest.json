@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.998a3d99.chunk.css",
-    "main.js": "/static/js/main.0d3eb414.chunk.js",
-    "main.js.map": "/static/js/main.0d3eb414.chunk.js.map",
+    "main.js": "/static/js/main.494ba968.chunk.js",
+    "main.js.map": "/static/js/main.494ba968.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.be772237.js",
     "runtime-main.js.map": "/static/js/runtime-main.be772237.js.map",
     "static/css/2.8f118048.chunk.css": "/static/css/2.8f118048.chunk.css",
-    "static/js/2.658d0855.chunk.js": "/static/js/2.658d0855.chunk.js",
-    "static/js/2.658d0855.chunk.js.map": "/static/js/2.658d0855.chunk.js.map",
+    "static/js/2.3f660ff6.chunk.js": "/static/js/2.3f660ff6.chunk.js",
+    "static/js/2.3f660ff6.chunk.js.map": "/static/js/2.3f660ff6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a6e2b4dadfcea36daeff8496bdc92f61.js": "/precache-manifest.a6e2b4dadfcea36daeff8496bdc92f61.js",
+    "precache-manifest.5b6b1bf21e59597c7b377ed9828f7aa2.js": "/precache-manifest.5b6b1bf21e59597c7b377ed9828f7aa2.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.8f118048.chunk.css.map": "/static/css/2.8f118048.chunk.css.map",
     "static/css/main.998a3d99.chunk.css.map": "/static/css/main.998a3d99.chunk.css.map",
-    "static/js/2.658d0855.chunk.js.LICENSE.txt": "/static/js/2.658d0855.chunk.js.LICENSE.txt",
+    "static/js/2.3f660ff6.chunk.js.LICENSE.txt": "/static/js/2.3f660ff6.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.21efb744.jpg",
     "static/media/1.webp": "/static/media/1.c4e4ba84.webp",
     "static/media/114.jpg": "/static/media/114.928ba69f.jpg",
@@ -181,6 +181,8 @@
     "static/media/residuos.webp": "/static/media/residuos.bf661118.webp",
     "static/media/residuos.jpg": "/static/media/residuos.ff003318.jpg",
     "static/media/sai.webp": "/static/media/sai.619c2c69.webp",
+    "static/media/sedeestrellaroja.jpg": "/static/media/sedeestrellaroja.8ee6367e.jpg",
+    "static/media/sedeestrellaroja.webp": "/static/media/sedeestrellaroja.91a77f72.webp",
     "static/media/sedeunion.jpg": "/static/media/sedeunion.50ecaa8e.jpg",
     "static/media/sedeunion.webp": "/static/media/sedeunion.d663ecdc.webp",
     "static/media/sinpapeleo.webp": "/static/media/sinpapeleo.0d6d1e4a.webp",
@@ -198,8 +200,8 @@
   "entrypoints": [
     "static/js/runtime-main.be772237.js",
     "static/css/2.8f118048.chunk.css",
-    "static/js/2.658d0855.chunk.js",
+    "static/js/2.3f660ff6.chunk.js",
     "static/css/main.998a3d99.chunk.css",
-    "static/js/main.0d3eb414.chunk.js"
+    "static/js/main.494ba968.chunk.js"
   ]
 }
