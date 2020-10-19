@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.dad890b9.chunk.css",
-    "main.js": "/static/js/main.e3f4a32e.chunk.js",
-    "main.js.map": "/static/js/main.e3f4a32e.chunk.js.map",
+    "main.css": "/static/css/main.0bc51fff.chunk.css",
+    "main.js": "/static/js/main.0ea193df.chunk.js",
+    "main.js.map": "/static/js/main.0ea193df.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.be772237.js",
     "runtime-main.js.map": "/static/js/runtime-main.be772237.js.map",
     "static/css/2.8f118048.chunk.css": "/static/css/2.8f118048.chunk.css",
-    "static/js/2.6f2673ce.chunk.js": "/static/js/2.6f2673ce.chunk.js",
-    "static/js/2.6f2673ce.chunk.js.map": "/static/js/2.6f2673ce.chunk.js.map",
+    "static/js/2.db5b701c.chunk.js": "/static/js/2.db5b701c.chunk.js",
+    "static/js/2.db5b701c.chunk.js.map": "/static/js/2.db5b701c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8af5a7fb7c8d4d101056a6847ebb9020.js": "/precache-manifest.8af5a7fb7c8d4d101056a6847ebb9020.js",
+    "precache-manifest.d36f3762edf9e1a7b33031e242908afc.js": "/precache-manifest.d36f3762edf9e1a7b33031e242908afc.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.8f118048.chunk.css.map": "/static/css/2.8f118048.chunk.css.map",
-    "static/css/main.dad890b9.chunk.css.map": "/static/css/main.dad890b9.chunk.css.map",
-    "static/js/2.6f2673ce.chunk.js.LICENSE.txt": "/static/js/2.6f2673ce.chunk.js.LICENSE.txt",
+    "static/css/main.0bc51fff.chunk.css.map": "/static/css/main.0bc51fff.chunk.css.map",
+    "static/js/2.db5b701c.chunk.js.LICENSE.txt": "/static/js/2.db5b701c.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.21efb744.jpg",
     "static/media/1.webp": "/static/media/1.c4e4ba84.webp",
     "static/media/114.jpg": "/static/media/114.928ba69f.jpg",
@@ -195,6 +195,8 @@
     "static/media/turi1.jpg": "/static/media/turi1.c3241214.jpg",
     "static/media/twitter.webp": "/static/media/twitter.6353833a.webp",
     "static/media/valida.webp": "/static/media/valida.a38aaf7b.webp",
+    "static/media/veterinaria.webp": "/static/media/veterinaria.2843ee98.webp",
+    "static/media/veterinaria.jpg": "/static/media/veterinaria.4be2ed94.jpg",
     "static/media/viviendas.jpg": "/static/media/viviendas.881a7fda.jpg",
     "static/media/viviendas.webp": "/static/media/viviendas.c6d54eed.webp",
     "static/media/viviendas2.jpg": "/static/media/viviendas2.39d79a4c.jpg",
@@ -205,8 +207,8 @@
   "entrypoints": [
     "static/js/runtime-main.be772237.js",
     "static/css/2.8f118048.chunk.css",
-    "static/js/2.6f2673ce.chunk.js",
-    "static/css/main.dad890b9.chunk.css",
-    "static/js/main.e3f4a32e.chunk.js"
+    "static/js/2.db5b701c.chunk.js",
+    "static/css/main.0bc51fff.chunk.css",
+    "static/js/main.0ea193df.chunk.js"
   ]
 }
