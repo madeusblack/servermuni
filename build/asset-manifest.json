@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.e682c93e.chunk.css",
-    "main.js": "/static/js/main.a25d2af1.chunk.js",
-    "main.js.map": "/static/js/main.a25d2af1.chunk.js.map",
+    "main.js": "/static/js/main.277a2b15.chunk.js",
+    "main.js.map": "/static/js/main.277a2b15.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f702c1fe.js",
     "runtime-main.js.map": "/static/js/runtime-main.f702c1fe.js.map",
     "static/css/2.8f118048.chunk.css": "/static/css/2.8f118048.chunk.css",
@@ -11,7 +11,7 @@
     "static/js/3.a1bed9f7.chunk.js": "/static/js/3.a1bed9f7.chunk.js",
     "static/js/3.a1bed9f7.chunk.js.map": "/static/js/3.a1bed9f7.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.12106e33e8f813ced425272276cf333c.js": "/precache-manifest.12106e33e8f813ced425272276cf333c.js",
+    "precache-manifest.b8226be920f9a1f30019ba5fddf6e8f6.js": "/precache-manifest.b8226be920f9a1f30019ba5fddf6e8f6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.8f118048.chunk.css.map": "/static/css/2.8f118048.chunk.css.map",
     "static/css/main.e682c93e.chunk.css.map": "/static/css/main.e682c93e.chunk.css.map",
@@ -37,9 +37,6 @@
     "static/media/2.jpg": "/static/media/2.efd3a845.jpg",
     "static/media/2HD.mp4": "/static/media/2HD.913f16b6.mp4",
     "static/media/2SD.mp4": "/static/media/2SD.cf791ede.mp4",
-    "static/media/3.jpg": "/static/media/3.27cba29f.jpg",
-    "static/media/3HD.mp4": "/static/media/3HD.43af4e7f.mp4",
-    "static/media/3SD.mp4": "/static/media/3SD.89be6986.mp4",
     "static/media/NotFound.scss": "/static/media/404.9be34b5e.jpg",
     "static/media/49.jpg": "/static/media/49.4ce22013.jpg",
     "static/media/49.webp": "/static/media/49.c0b6b546.webp",
@@ -123,6 +120,7 @@
     "static/media/facilidad.webp": "/static/media/facilidad.488f8efb.webp",
     "static/media/facilidad.jpg": "/static/media/facilidad.9fd0118b.jpg",
     "static/media/fomento1.jpg": "/static/media/fomento1.76f66dae.jpg",
+    "static/media/halloween.jpg": "/static/media/halloween.4c8767fd.jpg",
     "static/media/halloween1.jpg": "/static/media/halloween1.7e6c6d85.jpg",
     "static/media/halloween1.webp": "/static/media/halloween1.a9d266f1.webp",
     "static/media/halloween10.webp": "/static/media/halloween10.382e0a03.webp",
@@ -147,6 +145,8 @@
     "static/media/halloween8.webp": "/static/media/halloween8.e1b48525.webp",
     "static/media/halloween9.webp": "/static/media/halloween9.b5a1715b.webp",
     "static/media/halloween9.jpg": "/static/media/halloween9.f5987189.jpg",
+    "static/media/halloweenHD.mp4": "/static/media/halloweenHD.5c2a27a6.mp4",
+    "static/media/halloweenSD.mp4": "/static/media/halloweenSD.8250a436.mp4",
     "static/media/halloweenmini.webp": "/static/media/halloweenmini.382e0a03.webp",
     "static/media/halloweenmini.jpg": "/static/media/halloweenmini.6d3d35fa.jpg",
     "static/media/hist3.jpg": "/static/media/hist3.a9607eb6.jpg",
@@ -235,6 +235,6 @@
     "static/css/2.8f118048.chunk.css",
     "static/js/2.35e0417a.chunk.js",
     "static/css/main.e682c93e.chunk.css",
-    "static/js/main.a25d2af1.chunk.js"
+    "static/js/main.277a2b15.chunk.js"
   ]
 }
