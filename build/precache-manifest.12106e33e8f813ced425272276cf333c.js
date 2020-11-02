@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "80a56503c35df881b2254b1f6ca9617c",
+    "revision": "8c415985570c5fd4d25c5d9f6af8d830",
     "url": "/index.html"
   },
   {
-    "revision": "ab443410f58955bc37a4",
+    "revision": "5882d5ccc58c4cfeca67",
     "url": "/static/css/2.8f118048.chunk.css"
   },
   {
-    "revision": "ca3c93d06b3f63dccd58",
-    "url": "/static/css/main.55d0a2f2.chunk.css"
+    "revision": "f2787d06d80748d10710",
+    "url": "/static/css/main.e682c93e.chunk.css"
   },
   {
-    "revision": "ab443410f58955bc37a4",
-    "url": "/static/js/2.9c0625db.chunk.js"
+    "revision": "5882d5ccc58c4cfeca67",
+    "url": "/static/js/2.35e0417a.chunk.js"
   },
   {
     "revision": "54fd6816419f7824e2804745930c9117",
-    "url": "/static/js/2.9c0625db.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.35e0417a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8db4fb115cd75b2c1c65",
-    "url": "/static/js/3.9457c32c.chunk.js"
+    "revision": "2ca4d12c7e779faac69b",
+    "url": "/static/js/3.a1bed9f7.chunk.js"
   },
   {
     "revision": "455f9f3ae849b1b7c9d5b5f2d351830a",
-    "url": "/static/js/3.9457c32c.chunk.js.LICENSE.txt"
+    "url": "/static/js/3.a1bed9f7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ca3c93d06b3f63dccd58",
-    "url": "/static/js/main.960ddc95.chunk.js"
+    "revision": "f2787d06d80748d10710",
+    "url": "/static/js/main.a25d2af1.chunk.js"
   },
   {
-    "revision": "55b1948202269dae971d",
-    "url": "/static/js/runtime-main.083f150e.js"
+    "revision": "bcab4436cf979a86abc0",
+    "url": "/static/js/runtime-main.f702c1fe.js"
   },
   {
     "revision": "21efb744b464416fa406571d1d01ac73",
@@ -462,6 +462,110 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "76f66daec905920abd7eefb7b3e1c124",
     "url": "/static/media/fomento1.76f66dae.jpg"
+  },
+  {
+    "revision": "7e6c6d85ebc6640fccdf7d02ba09c424",
+    "url": "/static/media/halloween1.7e6c6d85.jpg"
+  },
+  {
+    "revision": "a9d266f183fd4de60384becbd4ae0bb6",
+    "url": "/static/media/halloween1.a9d266f1.webp"
+  },
+  {
+    "revision": "382e0a0334b9ffaad2258319b7ec94d1",
+    "url": "/static/media/halloween10.382e0a03.webp"
+  },
+  {
+    "revision": "6d3d35faca8dbbbe5f6284a94db1c43e",
+    "url": "/static/media/halloween10.6d3d35fa.jpg"
+  },
+  {
+    "revision": "02f57dd23d5dec375b4cfb643d3c19b3",
+    "url": "/static/media/halloween11.02f57dd2.jpg"
+  },
+  {
+    "revision": "486f83e6fb9ee044d04c300abde51048",
+    "url": "/static/media/halloween11.486f83e6.webp"
+  },
+  {
+    "revision": "44d23f88767c5bedc4da35cf892710de",
+    "url": "/static/media/halloween12.44d23f88.webp"
+  },
+  {
+    "revision": "e9f594871f4c3c5b2130a9f1d90f6c4e",
+    "url": "/static/media/halloween12.e9f59487.jpg"
+  },
+  {
+    "revision": "8ea310e0ab1c8a3cfb66c941f4fe97db",
+    "url": "/static/media/halloween2.8ea310e0.webp"
+  },
+  {
+    "revision": "ae55a57fa2349443b6011624feffaa9d",
+    "url": "/static/media/halloween2.ae55a57f.jpg"
+  },
+  {
+    "revision": "5f7b1af0946cf3d60b70c3dfcc54da34",
+    "url": "/static/media/halloween3.5f7b1af0.webp"
+  },
+  {
+    "revision": "6f82e7434c2d1dd641b8a85a914a7330",
+    "url": "/static/media/halloween3.6f82e743.jpg"
+  },
+  {
+    "revision": "9a71d0b5bde32371df3e53fb05324015",
+    "url": "/static/media/halloween4.9a71d0b5.webp"
+  },
+  {
+    "revision": "fd2c6626e34bbd0841b8ff267bcd42f5",
+    "url": "/static/media/halloween4.fd2c6626.jpg"
+  },
+  {
+    "revision": "27a4287c7594accc6d1f77b7c618ea2b",
+    "url": "/static/media/halloween5.27a4287c.webp"
+  },
+  {
+    "revision": "9fe8cbf757486203e7ecaf3ba07ea821",
+    "url": "/static/media/halloween5.9fe8cbf7.jpg"
+  },
+  {
+    "revision": "750d078378f306cb2e58febf8388aa09",
+    "url": "/static/media/halloween6.750d0783.jpg"
+  },
+  {
+    "revision": "ef9437414af2676cece4db687280b610",
+    "url": "/static/media/halloween6.ef943741.webp"
+  },
+  {
+    "revision": "4a523f4bb12919c83cb9f834fd726caf",
+    "url": "/static/media/halloween7.4a523f4b.webp"
+  },
+  {
+    "revision": "986645e6f85748cd98ab1f0fa36ae682",
+    "url": "/static/media/halloween7.986645e6.jpg"
+  },
+  {
+    "revision": "8420264185df5e963f6503dbfb330a53",
+    "url": "/static/media/halloween8.84202641.jpg"
+  },
+  {
+    "revision": "e1b48525a78dc2d9883f1f1e75d7c8e1",
+    "url": "/static/media/halloween8.e1b48525.webp"
+  },
+  {
+    "revision": "b5a1715b0d1256599d694ff8da046be4",
+    "url": "/static/media/halloween9.b5a1715b.webp"
+  },
+  {
+    "revision": "f5987189cf16e8b752c7440957be41eb",
+    "url": "/static/media/halloween9.f5987189.jpg"
+  },
+  {
+    "revision": "382e0a0334b9ffaad2258319b7ec94d1",
+    "url": "/static/media/halloweenmini.382e0a03.webp"
+  },
+  {
+    "revision": "6d3d35faca8dbbbe5f6284a94db1c43e",
+    "url": "/static/media/halloweenmini.6d3d35fa.jpg"
   },
   {
     "revision": "a9607eb6bb2f17d06ccab9ed030904b8",
