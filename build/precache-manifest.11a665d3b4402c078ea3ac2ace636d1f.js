@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d028d6a811e5e0826b75bdb5957412b8",
+    "revision": "79a4a42131a3e9a9bbe73b2697a440bc",
     "url": "/index.html"
   },
   {
-    "revision": "5882d5ccc58c4cfeca67",
+    "revision": "547723de40f6d2517ced",
     "url": "/static/css/2.8f118048.chunk.css"
   },
   {
-    "revision": "abdafb08fa27ee988dad",
+    "revision": "a6b915a27167512b874c",
     "url": "/static/css/main.e682c93e.chunk.css"
   },
   {
-    "revision": "5882d5ccc58c4cfeca67",
-    "url": "/static/js/2.35e0417a.chunk.js"
+    "revision": "547723de40f6d2517ced",
+    "url": "/static/js/2.6b77ff85.chunk.js"
   },
   {
     "revision": "54fd6816419f7824e2804745930c9117",
-    "url": "/static/js/2.35e0417a.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.6b77ff85.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2ca4d12c7e779faac69b",
-    "url": "/static/js/3.a1bed9f7.chunk.js"
+    "revision": "2f4aa15323fa7933ebe3",
+    "url": "/static/js/3.1b108cea.chunk.js"
   },
   {
     "revision": "455f9f3ae849b1b7c9d5b5f2d351830a",
-    "url": "/static/js/3.a1bed9f7.chunk.js.LICENSE.txt"
+    "url": "/static/js/3.1b108cea.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "abdafb08fa27ee988dad",
-    "url": "/static/js/main.277a2b15.chunk.js"
+    "revision": "a6b915a27167512b874c",
+    "url": "/static/js/main.752ee346.chunk.js"
   },
   {
-    "revision": "bcab4436cf979a86abc0",
-    "url": "/static/js/runtime-main.f702c1fe.js"
+    "revision": "d3b15147632ac1c27d58",
+    "url": "/static/js/runtime-main.5590fe97.js"
   },
   {
     "revision": "21efb744b464416fa406571d1d01ac73",
@@ -582,6 +582,38 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f8ec558fb95e6b75a1a0ce050d5e3156",
     "url": "/static/media/instagram.f8ec558f.webp"
+  },
+  {
+    "revision": "135944e812d1b784d7e21909e46c4927",
+    "url": "/static/media/instluminarias.135944e8.webp"
+  },
+  {
+    "revision": "a222ee0b7474283490c068323b78d496",
+    "url": "/static/media/instluminarias.a222ee0b.jpg"
+  },
+  {
+    "revision": "924cfb54cfddb061a5452e1617b5c704",
+    "url": "/static/media/instluminarias2.924cfb54.webp"
+  },
+  {
+    "revision": "be6af0ca198d57a4308c3cb5e0fbc94b",
+    "url": "/static/media/instluminarias2.be6af0ca.jpg"
+  },
+  {
+    "revision": "390785943fd4dc38d40a58fcfb8da78d",
+    "url": "/static/media/instluminarias3.39078594.jpg"
+  },
+  {
+    "revision": "57dac8bd31ca2645292c32b3e22d30bb",
+    "url": "/static/media/instluminarias3.57dac8bd.webp"
+  },
+  {
+    "revision": "390785943fd4dc38d40a58fcfb8da78d",
+    "url": "/static/media/instluminariasmini.39078594.jpg"
+  },
+  {
+    "revision": "57dac8bd31ca2645292c32b3e22d30bb",
+    "url": "/static/media/instluminariasmini.57dac8bd.webp"
   },
   {
     "revision": "1c0f0644cfd320288d6aefc85449d24b",
