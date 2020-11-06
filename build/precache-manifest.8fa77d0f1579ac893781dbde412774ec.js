@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "79a4a42131a3e9a9bbe73b2697a440bc",
+    "revision": "9f04481451e1d15d507d6df8eeb76afa",
     "url": "/index.html"
   },
   {
-    "revision": "547723de40f6d2517ced",
+    "revision": "fb06f64dd09bfec1fc79",
     "url": "/static/css/2.8f118048.chunk.css"
   },
   {
-    "revision": "a6b915a27167512b874c",
+    "revision": "f00169c02a67307fa1ba",
     "url": "/static/css/main.e682c93e.chunk.css"
   },
   {
-    "revision": "547723de40f6d2517ced",
-    "url": "/static/js/2.6b77ff85.chunk.js"
+    "revision": "fb06f64dd09bfec1fc79",
+    "url": "/static/js/2.ebf1226a.chunk.js"
   },
   {
     "revision": "54fd6816419f7824e2804745930c9117",
-    "url": "/static/js/2.6b77ff85.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.ebf1226a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2f4aa15323fa7933ebe3",
-    "url": "/static/js/3.1b108cea.chunk.js"
+    "revision": "b7270f75473039acef1c",
+    "url": "/static/js/3.7f252725.chunk.js"
   },
   {
     "revision": "455f9f3ae849b1b7c9d5b5f2d351830a",
-    "url": "/static/js/3.1b108cea.chunk.js.LICENSE.txt"
+    "url": "/static/js/3.7f252725.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a6b915a27167512b874c",
-    "url": "/static/js/main.752ee346.chunk.js"
+    "revision": "f00169c02a67307fa1ba",
+    "url": "/static/js/main.1ec5089a.chunk.js"
   },
   {
-    "revision": "d3b15147632ac1c27d58",
-    "url": "/static/js/runtime-main.5590fe97.js"
+    "revision": "015055723ade71245442",
+    "url": "/static/js/runtime-main.9d099a8e.js"
   },
   {
     "revision": "21efb744b464416fa406571d1d01ac73",
@@ -292,12 +292,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/cuentapublica.383bad74.webp"
   },
   {
-    "revision": "6e19730ec9bdfb9f8a17c8f3fb7dbb34",
-    "url": "/static/media/deportes.6e19730e.webp"
+    "revision": "689ce4078266e5e5b9ed11bf4b0c1747",
+    "url": "/static/media/deportes.689ce407.jpg"
   },
   {
-    "revision": "9273e20246b0a7a721400f04bd7b2014",
-    "url": "/static/media/deportes.9273e202.jpg"
+    "revision": "69061f9676b19c4913b547e8e11c2e9f",
+    "url": "/static/media/deportes.69061f96.webp"
   },
   {
     "revision": "6897267508f8df22f46361f1f5c46441",
@@ -882,6 +882,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6353833a9a27ef0e17b07971ad700c36",
     "url": "/static/media/twitter.6353833a.webp"
+  },
+  {
+    "revision": "36480bcdf512b9c3c596ddb75a3deeb5",
+    "url": "/static/media/uldaCentenario.36480bcd.jpg"
+  },
+  {
+    "revision": "d515df713be02fe78b3fef64a4b5a672",
+    "url": "/static/media/uldaCentenario.d515df71.webp"
   },
   {
     "revision": "a38aaf7bf25aae55c9a70908ddc34518",
