@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b16c689be8a84eedd865ea603657e0e0",
+    "revision": "e46f506cfdecf3d46c9be730286b1bd7",
     "url": "/index.html"
   },
   {
-    "revision": "fb06f64dd09bfec1fc79",
+    "revision": "f2a6fefedce99d930a7d",
     "url": "/static/css/2.8f118048.chunk.css"
   },
   {
-    "revision": "334cdbea95a3dd1eb590",
-    "url": "/static/css/main.e682c93e.chunk.css"
+    "revision": "0aec8bdd7ddee252bd46",
+    "url": "/static/css/main.be232613.chunk.css"
   },
   {
-    "revision": "fb06f64dd09bfec1fc79",
-    "url": "/static/js/2.ebf1226a.chunk.js"
+    "revision": "f2a6fefedce99d930a7d",
+    "url": "/static/js/2.16aeef1c.chunk.js"
   },
   {
     "revision": "54fd6816419f7824e2804745930c9117",
-    "url": "/static/js/2.ebf1226a.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.16aeef1c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b7270f75473039acef1c",
-    "url": "/static/js/3.7f252725.chunk.js"
+    "revision": "8b059cbdbe083cbbdec7",
+    "url": "/static/js/3.d454000b.chunk.js"
   },
   {
     "revision": "455f9f3ae849b1b7c9d5b5f2d351830a",
-    "url": "/static/js/3.7f252725.chunk.js.LICENSE.txt"
+    "url": "/static/js/3.d454000b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "334cdbea95a3dd1eb590",
-    "url": "/static/js/main.a40465a3.chunk.js"
+    "revision": "0aec8bdd7ddee252bd46",
+    "url": "/static/js/main.1d96620e.chunk.js"
   },
   {
-    "revision": "015055723ade71245442",
-    "url": "/static/js/runtime-main.9d099a8e.js"
+    "revision": "70ac194991bd18619723",
+    "url": "/static/js/runtime-main.1e0915e6.js"
   },
   {
     "revision": "21efb744b464416fa406571d1d01ac73",
@@ -158,6 +158,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "44ad7e0f3252e64296a23821d5d954aa",
     "url": "/static/media/ViviendasAlcaldesa.44ad7e0f.mp3"
+  },
+  {
+    "revision": "c51fc44022cfdb8b1b1e2a077fbdf932",
+    "url": "/static/media/afiche1920.c51fc440.webp"
+  },
+  {
+    "revision": "ed33938fa1c53926a984a462dde3aa83",
+    "url": "/static/media/afiche1920.ed33938f.jpg"
   },
   {
     "revision": "3de8e1b9c8ec2c6f6d0c321ac325b848",
@@ -660,8 +668,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/jpl.e242c34f.pdf"
   },
   {
-    "revision": "9c9a074b4fffc4dce91974c4562b948c",
-    "url": "/static/media/jplcovid19.9c9a074b.jpg"
+    "revision": "032d95b9e6f475e452aaaa6c33b97760",
+    "url": "/static/media/jplcovid19.032d95b9.jpg"
   },
   {
     "revision": "2204f364080ca3d500752ac659833480",
