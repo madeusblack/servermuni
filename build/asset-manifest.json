@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.be232613.chunk.css",
-    "main.js": "/static/js/main.fe13c578.chunk.js",
-    "main.js.map": "/static/js/main.fe13c578.chunk.js.map",
+    "main.js": "/static/js/main.c32728e8.chunk.js",
+    "main.js.map": "/static/js/main.c32728e8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1e0915e6.js",
     "runtime-main.js.map": "/static/js/runtime-main.1e0915e6.js.map",
     "static/css/2.8f118048.chunk.css": "/static/css/2.8f118048.chunk.css",
@@ -11,7 +11,7 @@
     "static/js/3.d454000b.chunk.js": "/static/js/3.d454000b.chunk.js",
     "static/js/3.d454000b.chunk.js.map": "/static/js/3.d454000b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6f902884d5c583cf93f9df42c3c57d84.js": "/precache-manifest.6f902884d5c583cf93f9df42c3c57d84.js",
+    "precache-manifest.2c5c8df22e98291a16627ffabc940fad.js": "/precache-manifest.2c5c8df22e98291a16627ffabc940fad.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.8f118048.chunk.css.map": "/static/css/2.8f118048.chunk.css.map",
     "static/css/main.be232613.chunk.css.map": "/static/css/main.be232613.chunk.css.map",
@@ -47,8 +47,8 @@
     "static/media/SopravalCajasAlcaldesa.mp3": "/static/media/SopravalCajasAlcaldesa.0115970f.mp3",
     "static/media/SopravalCajasLucas.mp3": "/static/media/SopravalCajasLucas.906b6cf3.mp3",
     "static/media/ViviendasAlcaldesa.mp3": "/static/media/ViviendasAlcaldesa.44ad7e0f.mp3",
-    "static/media/afiche1920.webp": "/static/media/afiche1920.c51fc440.webp",
-    "static/media/afiche1920.jpg": "/static/media/afiche1920.ed33938f.jpg",
+    "static/media/afiche1920.jpg": "/static/media/afiche1920.738ca85c.jpg",
+    "static/media/afiche1920.webp": "/static/media/afiche1920.9947e062.webp",
     "static/media/agricolas.pdf": "/static/media/agricolas.3de8e1b9.pdf",
     "static/media/aljibesAlcaldesa.mp3": "/static/media/aljibesAlcaldesa.fca6af8b.mp3",
     "static/media/aljibesCamila.mp3": "/static/media/aljibesCamila.27f76787.mp3",
@@ -247,6 +247,6 @@
     "static/css/2.8f118048.chunk.css",
     "static/js/2.16aeef1c.chunk.js",
     "static/css/main.be232613.chunk.css",
-    "static/js/main.fe13c578.chunk.js"
+    "static/js/main.c32728e8.chunk.js"
   ]
 }

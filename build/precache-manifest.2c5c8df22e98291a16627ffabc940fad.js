@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "03e6e705c877b1b19b7843b61a3a07ee",
+    "revision": "2119eab35d48c5af3575bbcefd8dd1af",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.8f118048.chunk.css"
   },
   {
-    "revision": "b306df305fa4790f3372",
+    "revision": "a94e1181bc378ab41f7c",
     "url": "/static/css/main.be232613.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/3.d454000b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b306df305fa4790f3372",
-    "url": "/static/js/main.fe13c578.chunk.js"
+    "revision": "a94e1181bc378ab41f7c",
+    "url": "/static/js/main.c32728e8.chunk.js"
   },
   {
     "revision": "70ac194991bd18619723",
@@ -160,12 +160,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ViviendasAlcaldesa.44ad7e0f.mp3"
   },
   {
-    "revision": "c51fc44022cfdb8b1b1e2a077fbdf932",
-    "url": "/static/media/afiche1920.c51fc440.webp"
+    "revision": "738ca85c20a66366f66957a76b6926fe",
+    "url": "/static/media/afiche1920.738ca85c.jpg"
   },
   {
-    "revision": "ed33938fa1c53926a984a462dde3aa83",
-    "url": "/static/media/afiche1920.ed33938f.jpg"
+    "revision": "9947e0625a39d7c614e7852f51b522b5",
+    "url": "/static/media/afiche1920.9947e062.webp"
   },
   {
     "revision": "3de8e1b9c8ec2c6f6d0c321ac325b848",
