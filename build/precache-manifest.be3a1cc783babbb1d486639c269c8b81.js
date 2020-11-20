@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2119eab35d48c5af3575bbcefd8dd1af",
+    "revision": "d5b43b17d86d342c5eb2e201e73a35e9",
     "url": "/index.html"
   },
   {
-    "revision": "f2a6fefedce99d930a7d",
+    "revision": "fb06f64dd09bfec1fc79",
     "url": "/static/css/2.8f118048.chunk.css"
   },
   {
-    "revision": "a94e1181bc378ab41f7c",
+    "revision": "3210bde143dec032c89d",
     "url": "/static/css/main.be232613.chunk.css"
   },
   {
-    "revision": "f2a6fefedce99d930a7d",
-    "url": "/static/js/2.16aeef1c.chunk.js"
+    "revision": "fb06f64dd09bfec1fc79",
+    "url": "/static/js/2.ebf1226a.chunk.js"
   },
   {
     "revision": "54fd6816419f7824e2804745930c9117",
-    "url": "/static/js/2.16aeef1c.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.ebf1226a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8b059cbdbe083cbbdec7",
-    "url": "/static/js/3.d454000b.chunk.js"
+    "revision": "b7270f75473039acef1c",
+    "url": "/static/js/3.7f252725.chunk.js"
   },
   {
     "revision": "455f9f3ae849b1b7c9d5b5f2d351830a",
-    "url": "/static/js/3.d454000b.chunk.js.LICENSE.txt"
+    "url": "/static/js/3.7f252725.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a94e1181bc378ab41f7c",
-    "url": "/static/js/main.c32728e8.chunk.js"
+    "revision": "3210bde143dec032c89d",
+    "url": "/static/js/main.f430c8c8.chunk.js"
   },
   {
-    "revision": "70ac194991bd18619723",
-    "url": "/static/js/runtime-main.1e0915e6.js"
+    "revision": "015055723ade71245442",
+    "url": "/static/js/runtime-main.9d099a8e.js"
   },
   {
     "revision": "21efb744b464416fa406571d1d01ac73",
@@ -46,22 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dc44c3be693f35c096ccc03a3dfd3a41",
     "url": "/static/media/1.dc44c3be.jpg"
-  },
-  {
-    "revision": "928ba69fce62a190f438104676978248",
-    "url": "/static/media/114.928ba69f.jpg"
-  },
-  {
-    "revision": "f51ff28e350992f5ed78c7eb32e92c07",
-    "url": "/static/media/114.f51ff28e.webp"
-  },
-  {
-    "revision": "5355be6a59e175ceba3468381937d402",
-    "url": "/static/media/115.5355be6a.webp"
-  },
-  {
-    "revision": "5f4374222708dea441897eb0a9e02247",
-    "url": "/static/media/115.5f437422.jpg"
   },
   {
     "revision": "64d0acf04c3c95d9a248be1e73b951ff",
@@ -90,14 +74,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e76393b3f8209be3e72be18906e8d099",
     "url": "/static/media/123.e76393b3.jpg"
-  },
-  {
-    "revision": "a0744d52b50edb0f4920d8adca6c18bf",
-    "url": "/static/media/124.a0744d52.jpg"
-  },
-  {
-    "revision": "b70101ef5660cda287393b556b7b3342",
-    "url": "/static/media/124.b70101ef.webp"
   },
   {
     "revision": "4537998afee521df000d7c61f53f83ec",
@@ -130,14 +106,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c0b6b546ca7e31d3b9af01487f5b7b7c",
     "url": "/static/media/49.c0b6b546.webp"
-  },
-  {
-    "revision": "7c7d5b55b807190c2a1ab44f7b148714",
-    "url": "/static/media/56.7c7d5b55.jpg"
-  },
-  {
-    "revision": "a802b5a28e47186369738181e75b0664",
-    "url": "/static/media/56.a802b5a2.webp"
   },
   {
     "revision": "12aee6f0353924c88bc5860e76afbb34",
@@ -204,8 +172,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/aportesPropiosBenito.d9c43699.mp3"
   },
   {
+    "revision": "118cd4a197ae45518bad8c4890a9bfb9",
+    "url": "/static/media/atletismo.118cd4a1.jpg"
+  },
+  {
+    "revision": "330787350f78618132ed88a323274c5a",
+    "url": "/static/media/atletismo.33078735.webp"
+  },
+  {
     "revision": "328c94765a213d0fd298434f8fd3e8a1",
     "url": "/static/media/basura.328c9476.jpg"
+  },
+  {
+    "revision": "37beb0bc77b7159f9f0adbd919dd3015",
+    "url": "/static/media/boxeo.37beb0bc.webp"
+  },
+  {
+    "revision": "cd2b0a070a046e07ba94fe5befb18436",
+    "url": "/static/media/boxeo.cd2b0a07.jpg"
   },
   {
     "revision": "4deccf735696cf1f46ddfac646770c82",
@@ -238,6 +222,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a6bdfab9c4aea2b9b98f166ed45c94e4",
     "url": "/static/media/chileatiende.a6bdfab9.webp"
+  },
+  {
+    "revision": "15affabc1be68b544a830c249cd27b03",
+    "url": "/static/media/ciclismo.15affabc.jpg"
+  },
+  {
+    "revision": "87df7f2026dde57ee4651a89f0c458ad",
+    "url": "/static/media/ciclismo.87df7f20.webp"
   },
   {
     "revision": "49c000b1b643cf943d365b3ef5a31dca",
@@ -298,14 +290,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "383bad74162b2dc1fd888af0274dd0ba",
     "url": "/static/media/cuentapublica.383bad74.webp"
-  },
-  {
-    "revision": "689ce4078266e5e5b9ed11bf4b0c1747",
-    "url": "/static/media/deportes.689ce407.jpg"
-  },
-  {
-    "revision": "69061f9676b19c4913b547e8e11c2e9f",
-    "url": "/static/media/deportes.69061f96.webp"
   },
   {
     "revision": "6897267508f8df22f46361f1f5c46441",
@@ -934,5 +918,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "98242b50993161cab07c6c56d138ab2d",
     "url": "/static/media/youtube.98242b50.webp"
+  },
+  {
+    "revision": "3a900f14a3ef4bb0a18fea8920c95266",
+    "url": "/static/media/zumba.3a900f14.webp"
+  },
+  {
+    "revision": "afc9947c7f7f2196c2862cc6f28405fa",
+    "url": "/static/media/zumba.afc9947c.jpg"
   }
 ]);
