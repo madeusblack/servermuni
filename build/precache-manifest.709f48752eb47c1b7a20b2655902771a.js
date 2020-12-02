@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "87e1b42be0e11b9dbafc83274237c3e8",
+    "revision": "35467db465dbe00c9bda6e1c67c44121",
     "url": "/index.html"
   },
   {
-    "revision": "80016e0b0c336049a328",
+    "revision": "0f9de19ed212c47ce17c",
     "url": "/static/css/2.8f118048.chunk.css"
   },
   {
-    "revision": "fe9825da343983cbd422",
+    "revision": "df787219c1507675b788",
     "url": "/static/css/main.be232613.chunk.css"
   },
   {
-    "revision": "80016e0b0c336049a328",
-    "url": "/static/js/2.218d0c80.chunk.js"
+    "revision": "0f9de19ed212c47ce17c",
+    "url": "/static/js/2.9ea71c81.chunk.js"
   },
   {
     "revision": "54fd6816419f7824e2804745930c9117",
-    "url": "/static/js/2.218d0c80.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.9ea71c81.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "86b4897bd0c0ee8c8120",
-    "url": "/static/js/3.ee679175.chunk.js"
+    "revision": "bef35943f230d7c2ce7a",
+    "url": "/static/js/3.bb76ed78.chunk.js"
   },
   {
     "revision": "455f9f3ae849b1b7c9d5b5f2d351830a",
-    "url": "/static/js/3.ee679175.chunk.js.LICENSE.txt"
+    "url": "/static/js/3.bb76ed78.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fe9825da343983cbd422",
-    "url": "/static/js/main.6402e3b9.chunk.js"
+    "revision": "df787219c1507675b788",
+    "url": "/static/js/main.a0e5e4cd.chunk.js"
   },
   {
-    "revision": "77ea84267d9e57e3aae8",
-    "url": "/static/js/runtime-main.ac42bd2f.js"
+    "revision": "ffc41684ab68b9e6e206",
+    "url": "/static/js/runtime-main.70da4697.js"
   },
   {
     "revision": "21efb744b464416fa406571d1d01ac73",
@@ -224,12 +224,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/chileatiende.a6bdfab9.webp"
   },
   {
-    "revision": "15affabc1be68b544a830c249cd27b03",
-    "url": "/static/media/ciclismo.15affabc.jpg"
+    "revision": "a3440b3c77f9ac4ecbadfad42de52a56",
+    "url": "/static/media/ciclismo.a3440b3c.webp"
   },
   {
-    "revision": "87df7f2026dde57ee4651a89f0c458ad",
-    "url": "/static/media/ciclismo.87df7f20.webp"
+    "revision": "cc3531a43c34775392e7e711492fb2a5",
+    "url": "/static/media/ciclismo.cc3531a4.jpg"
   },
   {
     "revision": "49c000b1b643cf943d365b3ef5a31dca",
@@ -570,6 +570,42 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a9607eb6bb2f17d06ccab9ed030904b8",
     "url": "/static/media/hist3.a9607eb6.jpg"
+  },
+  {
+    "revision": "659831e84ee487da0fcbfef9324b4db2",
+    "url": "/static/media/hospital.659831e8.jpg"
+  },
+  {
+    "revision": "e074f8164d098040dc19b3bbe80b2bdb",
+    "url": "/static/media/hospital.e074f816.webp"
+  },
+  {
+    "revision": "c46ba78ecafd83dc11b2c7d98615c5b1",
+    "url": "/static/media/hospital2.c46ba78e.webp"
+  },
+  {
+    "revision": "cd86a4f258b62704952dc1545e8e9abe",
+    "url": "/static/media/hospital2.cd86a4f2.jpg"
+  },
+  {
+    "revision": "5c944f2457f2445970f95baf17ba30d2",
+    "url": "/static/media/hospital3.5c944f24.webp"
+  },
+  {
+    "revision": "f174b4e2347badcd08e50c17fe66b5a2",
+    "url": "/static/media/hospital3.f174b4e2.jpg"
+  },
+  {
+    "revision": "b745801b2bd6b8ff3a4b1a4c44513f4e",
+    "url": "/static/media/hospital4.b745801b.webp"
+  },
+  {
+    "revision": "f9ed64141d08cf48c4cd47cadcf434d9",
+    "url": "/static/media/hospital4.f9ed6414.jpg"
+  },
+  {
+    "revision": "beabcee54045f42b1fc5d2156a6c8ff7",
+    "url": "/static/media/hospitalAlcaldesa.beabcee5.mp3"
   },
   {
     "revision": "745ef7ed381011a582f6a9598592de65",
