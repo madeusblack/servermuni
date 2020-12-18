@@ -23,8 +23,8 @@ app.get('*', function(req, res){
   res.redirect('/');
 });
 const credentials = {
-  cert: fs.readFileSync(path.resolve(CERTS_ROOT, 'certificate.crt')),
-  key: fs.readFileSync(path.resolve(CERTS_ROOT, 'private.key')),
+  key: fs.readFileSync('/etc/letsencrypt/live/to/privkey.pem', 'utf8'),
+  cert: fs.readFileSync('/etc/letsencrypt/live/to/fullchain.pem', 'utf8'),
 };
 const httpServer = 
 http.createServer(function (req, res) {
