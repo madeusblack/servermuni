@@ -23,9 +23,8 @@ app.get('*', function(req, res){
   res.redirect('/');
 });
 const credentials = {
-      key: fs.readFileSync('/etc/letsencrypt/live/muninogales.cl/key.pem', 'utf8'),
-      cert: fs.readFileSync('/etc/letsencrypt/live/muninogales.cl/cert.pem', 'utf8'),
-      ca: fs.readFileSync('/etc/letsencrypt/live/muninogales.cl/chain.pem', 'utf8'),
+  cert: fs.readFileSync(path.resolve(CERTS_ROOT, 'certificate.crt')),
+  key: fs.readFileSync(path.resolve(CERTS_ROOT, 'private.key')),
 };
 const httpServer = 
 http.createServer(function (req, res) {
