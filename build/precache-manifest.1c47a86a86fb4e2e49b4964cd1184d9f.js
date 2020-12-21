@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a549180f16a459884477c9bb03ea5ee",
+    "revision": "e638ffe06bebe28787c4919d8b0df84d",
     "url": "/index.html"
   },
   {
-    "revision": "34da1fcd882622ef106d",
+    "revision": "d4323ae53ca78d504491",
     "url": "/static/css/2.8f118048.chunk.css"
   },
   {
-    "revision": "181db94f40df55505d2c",
-    "url": "/static/css/main.d239107c.chunk.css"
+    "revision": "8d283c3a6dd64e12070d",
+    "url": "/static/css/main.f42bba3f.chunk.css"
   },
   {
-    "revision": "34da1fcd882622ef106d",
-    "url": "/static/js/2.2584b9b1.chunk.js"
+    "revision": "d4323ae53ca78d504491",
+    "url": "/static/js/2.9a79dc79.chunk.js"
   },
   {
     "revision": "54fd6816419f7824e2804745930c9117",
-    "url": "/static/js/2.2584b9b1.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.9a79dc79.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8275457e0e1aa7d4be29",
-    "url": "/static/js/3.ef070aa9.chunk.js"
+    "revision": "bfb0c85d8824273565da",
+    "url": "/static/js/3.f3808087.chunk.js"
   },
   {
     "revision": "455f9f3ae849b1b7c9d5b5f2d351830a",
-    "url": "/static/js/3.ef070aa9.chunk.js.LICENSE.txt"
+    "url": "/static/js/3.f3808087.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "181db94f40df55505d2c",
-    "url": "/static/js/main.e539680c.chunk.js"
+    "revision": "8d283c3a6dd64e12070d",
+    "url": "/static/js/main.9ad6c12a.chunk.js"
   },
   {
-    "revision": "aac95e94e94e96a3e3e5",
-    "url": "/static/js/runtime-main.599ceb27.js"
+    "revision": "55d622168f4fbb17eeb4",
+    "url": "/static/js/runtime-main.7b6aa306.js"
   },
   {
     "revision": "21efb744b464416fa406571d1d01ac73",
@@ -706,6 +706,70 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f86429094c0799cfbe66ae445f2ad798",
     "url": "/static/media/kitaseocovid.f8642909.webp"
+  },
+  {
+    "revision": "0257107f5a23138b8ef538935f1f2058",
+    "url": "/static/media/licenciatura.0257107f.webp"
+  },
+  {
+    "revision": "f903719ce55959d870e324a8a5642164",
+    "url": "/static/media/licenciatura.f903719c.jpg"
+  },
+  {
+    "revision": "1e3e88b51df8720b2f070e793d3f95ed",
+    "url": "/static/media/licenciatura2.1e3e88b5.jpg"
+  },
+  {
+    "revision": "d9be4c3d281ef08375439b7ae2c4d024",
+    "url": "/static/media/licenciatura2.d9be4c3d.webp"
+  },
+  {
+    "revision": "723b7ef936fc1a88a5f2b547595eb076",
+    "url": "/static/media/licenciatura3.723b7ef9.jpg"
+  },
+  {
+    "revision": "e4f51867b1efb973460069ce6d38c949",
+    "url": "/static/media/licenciatura3.e4f51867.webp"
+  },
+  {
+    "revision": "38a270db6c5b922125c52f4ea1e89855",
+    "url": "/static/media/licenciatura4.38a270db.jpg"
+  },
+  {
+    "revision": "c08d9a768349652c605a0ea84c278480",
+    "url": "/static/media/licenciatura4.c08d9a76.webp"
+  },
+  {
+    "revision": "1fbf2c00d061313734c8cf494be86127",
+    "url": "/static/media/licenciatura5.1fbf2c00.jpg"
+  },
+  {
+    "revision": "a8c7f50c61b10847588f968d83dcae3f",
+    "url": "/static/media/licenciatura5.a8c7f50c.webp"
+  },
+  {
+    "revision": "a978b800cb7f016ccef7fec5fa914368",
+    "url": "/static/media/licenciatura6.a978b800.jpg"
+  },
+  {
+    "revision": "abbbd8413f7768cf44e918988b2be1c8",
+    "url": "/static/media/licenciatura6.abbbd841.webp"
+  },
+  {
+    "revision": "266cdfa28d1cca76a004e2f2cf741d8f",
+    "url": "/static/media/licenciaturaMini.266cdfa2.jpg"
+  },
+  {
+    "revision": "757b0c558a3aa74cec86e676d4c584d1",
+    "url": "/static/media/licenciaturaMini.757b0c55.webp"
+  },
+  {
+    "revision": "7fc68971d6e19057493c7d0768570b99",
+    "url": "/static/media/licenciaturaalcaldesa.7fc68971.mp3"
+  },
+  {
+    "revision": "b6b012d3d7551074f7ccbc4b3ce03269",
+    "url": "/static/media/licenciaturadaem.b6b012d3.mp3"
   },
   {
     "revision": "cc035ac0ac3729cac2751c879b69f9bb",
