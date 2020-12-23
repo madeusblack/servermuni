@@ -10,14 +10,13 @@ const CERTS_ROOT = './';
 app.use(compression());
 
 app.use(express.static(path.join(__dirname, 'build')));
-app.get('/', function(req, res) {
-  
-  res.sendFile(path.join(__dirname, 'build', 'index.html'));
+app.use('/transp', express.static('transp'));
+
+app.get('*', function(req, res) {
+  res.sendFile(path.join(__dirname+'/build/index.html'));
 });
 app.use('/.well-known/acme-challenge', express.static('.well-known/acme-challenge'));
 
-app.use('/transp', express.static('transp'));
-app.use('/videos', express.static('videos'));
 
 app.get('*', function(req, res){
   res.redirect('/');
