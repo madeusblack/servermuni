@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "48d7ce81e8e9dc61df269583f39f5bf4",
+    "revision": "41f430f26ba6ccc71793c35306543faa",
     "url": "/index.html"
   },
   {
-    "revision": "ed2af5b348bbb838b4b3",
+    "revision": "cfaf626ddd6d88db0ff6",
     "url": "/static/css/2.8f118048.chunk.css"
   },
   {
-    "revision": "593d42851c42a12fa882",
-    "url": "/static/css/main.63877966.chunk.css"
+    "revision": "ec1090652949b1823d13",
+    "url": "/static/css/main.ec3fa512.chunk.css"
   },
   {
-    "revision": "ed2af5b348bbb838b4b3",
-    "url": "/static/js/2.2f134934.chunk.js"
+    "revision": "cfaf626ddd6d88db0ff6",
+    "url": "/static/js/2.acf3dc4c.chunk.js"
   },
   {
     "revision": "54fd6816419f7824e2804745930c9117",
-    "url": "/static/js/2.2f134934.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.acf3dc4c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7dea5bff64ccc678a61b",
-    "url": "/static/js/3.d4251e3d.chunk.js"
+    "revision": "a8c943c0a852a6926148",
+    "url": "/static/js/3.69c008e7.chunk.js"
   },
   {
     "revision": "455f9f3ae849b1b7c9d5b5f2d351830a",
-    "url": "/static/js/3.d4251e3d.chunk.js.LICENSE.txt"
+    "url": "/static/js/3.69c008e7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "593d42851c42a12fa882",
-    "url": "/static/js/main.a8174e11.chunk.js"
+    "revision": "ec1090652949b1823d13",
+    "url": "/static/js/main.4e498ffb.chunk.js"
   },
   {
-    "revision": "680684e9927b41de5fb6",
-    "url": "/static/js/runtime-main.9a78d819.js"
+    "revision": "895a8c6ad08d8988ebac",
+    "url": "/static/js/runtime-main.fc035ea2.js"
   },
   {
     "revision": "21efb744b464416fa406571d1d01ac73",
@@ -624,8 +624,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ine.c72a0b19.png"
   },
   {
-    "revision": "f8ec558fb95e6b75a1a0ce050d5e3156",
-    "url": "/static/media/instagram.f8ec558f.webp"
+    "revision": "c9b542c91e8ef706f135ea9aea3a7fe1",
+    "url": "/static/media/instagram.c9b542c9.svg"
   },
   {
     "revision": "135944e812d1b784d7e21909e46c4927",
@@ -792,8 +792,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/luminaria.7d8ec824.webp"
   },
   {
-    "revision": "54b8aff525611831c19e40aaca9718e3",
-    "url": "/static/media/mail.54b8aff5.webp"
+    "revision": "d238b902bb772249ad0234f29b81072a",
+    "url": "/static/media/mail.d238b902.svg"
   },
   {
     "revision": "626063d74a39ea13ff4e321a0b742c39",
@@ -1192,8 +1192,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/turi1.c3241214.jpg"
   },
   {
-    "revision": "6353833a9a27ef0e17b07971ad700c36",
-    "url": "/static/media/twitter.6353833a.webp"
+    "revision": "8f662cde3e6a9aca24b77c1639d9423e",
+    "url": "/static/media/twitter.8f662cde.svg"
   },
   {
     "revision": "36480bcdf512b9c3c596ddb75a3deeb5",
@@ -1236,8 +1236,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/viviendasPiraino.81f66e6d.mp3"
   },
   {
-    "revision": "98242b50993161cab07c6c56d138ab2d",
-    "url": "/static/media/youtube.98242b50.webp"
+    "revision": "8eeda1aee992c415a4de57396653e3c9",
+    "url": "/static/media/youtube.8eeda1ae.svg"
   },
   {
     "revision": "3a900f14a3ef4bb0a18fea8920c95266",
