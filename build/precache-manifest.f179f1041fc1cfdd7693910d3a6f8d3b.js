@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c85369711a8f8f95990cd08a60f2584",
+    "revision": "540b191771d90b502e12b5d4c098a539",
     "url": "/index.html"
   },
   {
-    "revision": "504f5382cfae4db1a767",
+    "revision": "c50af27fe31b7fe0d405",
     "url": "/static/css/3.8f118048.chunk.css"
   },
   {
-    "revision": "bfdfe1c42ffea94d93d3",
+    "revision": "3ca12ce88669da9bd392",
     "url": "/static/css/main.9f4a92b7.chunk.css"
   },
   {
-    "revision": "8fd27f29812a1a0a5dbe",
-    "url": "/static/js/2.75fd34eb.chunk.js"
+    "revision": "c51c4a36f852d8cd95c2",
+    "url": "/static/js/2.3d5b38e7.chunk.js"
   },
   {
     "revision": "455f9f3ae849b1b7c9d5b5f2d351830a",
-    "url": "/static/js/2.75fd34eb.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.3d5b38e7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "504f5382cfae4db1a767",
-    "url": "/static/js/3.16c75697.chunk.js"
+    "revision": "c50af27fe31b7fe0d405",
+    "url": "/static/js/3.fbdf4b49.chunk.js"
   },
   {
     "revision": "54fd6816419f7824e2804745930c9117",
-    "url": "/static/js/3.16c75697.chunk.js.LICENSE.txt"
+    "url": "/static/js/3.fbdf4b49.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bfdfe1c42ffea94d93d3",
-    "url": "/static/js/main.a39fe6c6.chunk.js"
+    "revision": "3ca12ce88669da9bd392",
+    "url": "/static/js/main.07e54343.chunk.js"
   },
   {
-    "revision": "b0f00ce4802f980667a7",
-    "url": "/static/js/runtime-main.5c94adef.js"
+    "revision": "296a353b11b0d04f9b91",
+    "url": "/static/js/runtime-main.58705b4a.js"
   },
   {
     "revision": "21efb744b464416fa406571d1d01ac73",
@@ -218,6 +218,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "02bfdbfca119cdbf6da6c5e6193b0173",
     "url": "/static/media/comunicacion.02bfdbfc.pdf"
+  },
+  {
+    "revision": "a57df40c90c7f8521c58b035738ff84e",
+    "url": "/static/media/covid1.a57df40c.webp"
+  },
+  {
+    "revision": "b029692bd7fba1bf8b24fadacdad6ae9",
+    "url": "/static/media/covid1.b029692b.jpg"
+  },
+  {
+    "revision": "847c49e78a884d011b3bd8cb84b679c4",
+    "url": "/static/media/covid2.847c49e7.webp"
+  },
+  {
+    "revision": "86062e3d3a9d5fcdfddccea609168948",
+    "url": "/static/media/covid2.86062e3d.jpg"
   },
   {
     "revision": "e254821a85538a210409dbc175c36d3d",
