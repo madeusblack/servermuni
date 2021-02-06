@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "540b191771d90b502e12b5d4c098a539",
+    "revision": "39ac16878636c410b362078d350dfd8f",
     "url": "/index.html"
   },
   {
-    "revision": "c50af27fe31b7fe0d405",
-    "url": "/static/css/3.8f118048.chunk.css"
+    "revision": "d64f54e8c302b71d2a86",
+    "url": "/static/css/2.8f118048.chunk.css"
   },
   {
-    "revision": "3ca12ce88669da9bd392",
-    "url": "/static/css/main.9f4a92b7.chunk.css"
+    "revision": "db6d099844d59665dd78",
+    "url": "/static/css/main.eae3dee0.chunk.css"
   },
   {
-    "revision": "c51c4a36f852d8cd95c2",
-    "url": "/static/js/2.3d5b38e7.chunk.js"
-  },
-  {
-    "revision": "455f9f3ae849b1b7c9d5b5f2d351830a",
-    "url": "/static/js/2.3d5b38e7.chunk.js.LICENSE.txt"
-  },
-  {
-    "revision": "c50af27fe31b7fe0d405",
-    "url": "/static/js/3.fbdf4b49.chunk.js"
+    "revision": "d64f54e8c302b71d2a86",
+    "url": "/static/js/2.a4a963aa.chunk.js"
   },
   {
     "revision": "54fd6816419f7824e2804745930c9117",
-    "url": "/static/js/3.fbdf4b49.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.a4a963aa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3ca12ce88669da9bd392",
-    "url": "/static/js/main.07e54343.chunk.js"
+    "revision": "6dfdd73cf1dd82b3dae4",
+    "url": "/static/js/3.24a46946.chunk.js"
   },
   {
-    "revision": "296a353b11b0d04f9b91",
-    "url": "/static/js/runtime-main.58705b4a.js"
+    "revision": "455f9f3ae849b1b7c9d5b5f2d351830a",
+    "url": "/static/js/3.24a46946.chunk.js.LICENSE.txt"
+  },
+  {
+    "revision": "db6d099844d59665dd78",
+    "url": "/static/js/main.4a392b05.chunk.js"
+  },
+  {
+    "revision": "c8812e00de4ad055e370",
+    "url": "/static/js/runtime-main.f4af7b24.js"
   },
   {
     "revision": "21efb744b464416fa406571d1d01ac73",
@@ -220,6 +220,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/comunicacion.02bfdbfc.pdf"
   },
   {
+    "revision": "743eab80d862a7873ac28cc37ceeedf2",
+    "url": "/static/media/covid.743eab80.jpeg"
+  },
+  {
+    "revision": "83832bafb75d4ef2151104117f9b0942",
+    "url": "/static/media/covid.83832baf.webp"
+  },
+  {
+    "revision": "9f6c4e41021a71436160e46c948efd7c",
+    "url": "/static/media/covid.9f6c4e41.webp"
+  },
+  {
+    "revision": "fed8464f7b0292bb47e5687f528e2528",
+    "url": "/static/media/covid.fed8464f.jpg"
+  },
+  {
     "revision": "a57df40c90c7f8521c58b035738ff84e",
     "url": "/static/media/covid1.a57df40c.webp"
   },
@@ -280,28 +296,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/cuentapublica.383bad74.webp"
   },
   {
-    "revision": "63a09844218df6a803bae7a8cac4dd21",
-    "url": "/static/media/emergencia.63a09844.webp"
-  },
-  {
     "revision": "6897267508f8df22f46361f1f5c46441",
     "url": "/static/media/emergencia.68972675.png"
   },
   {
-    "revision": "a678fbf54c239c77332fb032b73bb642",
-    "url": "/static/media/emergencia.a678fbf5.jpg"
-  },
-  {
     "revision": "b174dee03e709a7f591199b7cbb280c2",
     "url": "/static/media/emergencia.b174dee0.webp"
-  },
-  {
-    "revision": "2b63256bcdee471783a5078a4decc9d2",
-    "url": "/static/media/emprendedores.2b63256b.webp"
-  },
-  {
-    "revision": "e6fd02dbe686adace68cd2e1e2edda30",
-    "url": "/static/media/emprendedores.e6fd02db.jpg"
   },
   {
     "revision": "c9846d199df82e35850f55fe145cd4ca",
@@ -736,14 +736,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/phone.3e473807.svg"
   },
   {
-    "revision": "7d5b8cfb1a13d339465b96d3d805ba70",
-    "url": "/static/media/planta.7d5b8cfb.webp"
-  },
-  {
-    "revision": "9cf87e2432572223ace60d769b2f10da",
-    "url": "/static/media/planta.9cf87e24.jpg"
-  },
-  {
     "revision": "b6597434eb6a63590de73617203b38ac",
     "url": "/static/media/plebiscito.b6597434.webp"
   },
@@ -810,14 +802,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee2fb481042b6664c14198dbae0bcfed",
     "url": "/static/media/quieromibarriomini.ee2fb481.webp"
-  },
-  {
-    "revision": "3cc4b54104e98de452fb8364ad5a0d73",
-    "url": "/static/media/reciclaje.3cc4b541.jpg"
-  },
-  {
-    "revision": "6993148c80c6888097d9b6a5a2c39a5e",
-    "url": "/static/media/reciclaje.6993148c.webp"
   },
   {
     "revision": "bf6611184c4b27d3569669ba4c9522e3",
