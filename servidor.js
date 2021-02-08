@@ -11,6 +11,7 @@ app.use(compression());
 
 app.use(express.static(path.join(__dirname, 'build')));
 app.use('/transp', express.static('transp'));
+app.use('/media', express.static('media'));
 
 app.get('*', function(req, res) {
   res.sendFile(path.join(__dirname+'/build/index.html'));
