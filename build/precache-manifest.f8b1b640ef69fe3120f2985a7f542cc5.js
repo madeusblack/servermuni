@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43ba3b75d9b4a274156532e37fb3ec07",
+    "revision": "aa53c596b7bf2727605d04a1bc9f2ef5",
     "url": "/index.html"
   },
   {
-    "revision": "3804c5df6cbd90dd925a",
+    "revision": "b7b4d26e5c30cf7c63e0",
     "url": "/static/css/2.8f118048.chunk.css"
   },
   {
-    "revision": "cee91e6b67d8f761cf6e",
-    "url": "/static/css/main.84397ca6.chunk.css"
+    "revision": "3c8091ae726507efc1b7",
+    "url": "/static/css/main.1b8bc4e2.chunk.css"
   },
   {
-    "revision": "3804c5df6cbd90dd925a",
-    "url": "/static/js/2.a5559dbe.chunk.js"
+    "revision": "b7b4d26e5c30cf7c63e0",
+    "url": "/static/js/2.e3c6fc99.chunk.js"
   },
   {
     "revision": "54fd6816419f7824e2804745930c9117",
-    "url": "/static/js/2.a5559dbe.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.e3c6fc99.chunk.js.LICENSE.txt"
   },
   {
     "revision": "79a9da5d69ebe30957f9",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/3.580fb786.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cee91e6b67d8f761cf6e",
-    "url": "/static/js/main.8d82fa18.chunk.js"
+    "revision": "3c8091ae726507efc1b7",
+    "url": "/static/js/main.c6c0f5e6.chunk.js"
   },
   {
     "revision": "1f2fbe4f21fd13fac130",
@@ -220,20 +220,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/comunicacion.02bfdbfc.pdf"
   },
   {
-    "revision": "83832bafb75d4ef2151104117f9b0942",
-    "url": "/static/media/covid.83832baf.webp"
-  },
-  {
     "revision": "90d62c655c180bbdb3a422a40929e22a",
     "url": "/static/media/covid.90d62c65.jpeg"
   },
   {
     "revision": "9c5fab19eb4b0665fe432bbb5051808c",
     "url": "/static/media/covid.9c5fab19.webp"
-  },
-  {
-    "revision": "fed8464f7b0292bb47e5687f528e2528",
-    "url": "/static/media/covid.fed8464f.jpg"
   },
   {
     "revision": "e254821a85538a210409dbc175c36d3d",
@@ -718,6 +710,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "81f66e6d0fe7e32cd2bba78b5b9ed7c0",
     "url": "/static/media/viviendasPiraino.81f66e6d.mp3"
+  },
+  {
+    "revision": "1644c057f3f6cda2d504142700c278f0",
+    "url": "/static/media/youtube.1644c057.webp"
+  },
+  {
+    "revision": "391e7f66bbd67f0c66939346c9a54f79",
+    "url": "/static/media/youtube.391e7f66.jpg"
   },
   {
     "revision": "8eeda1aee992c415a4de57396653e3c9",

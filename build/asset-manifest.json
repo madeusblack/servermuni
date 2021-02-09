@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.84397ca6.chunk.css",
-    "main.js": "/static/js/main.8d82fa18.chunk.js",
-    "main.js.map": "/static/js/main.8d82fa18.chunk.js.map",
+    "main.css": "/static/css/main.1b8bc4e2.chunk.css",
+    "main.js": "/static/js/main.c6c0f5e6.chunk.js",
+    "main.js.map": "/static/js/main.c6c0f5e6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d5556204.js",
     "runtime-main.js.map": "/static/js/runtime-main.d5556204.js.map",
     "static/css/2.8f118048.chunk.css": "/static/css/2.8f118048.chunk.css",
-    "static/js/2.a5559dbe.chunk.js": "/static/js/2.a5559dbe.chunk.js",
-    "static/js/2.a5559dbe.chunk.js.map": "/static/js/2.a5559dbe.chunk.js.map",
+    "static/js/2.e3c6fc99.chunk.js": "/static/js/2.e3c6fc99.chunk.js",
+    "static/js/2.e3c6fc99.chunk.js.map": "/static/js/2.e3c6fc99.chunk.js.map",
     "static/js/3.580fb786.chunk.js": "/static/js/3.580fb786.chunk.js",
     "static/js/3.580fb786.chunk.js.map": "/static/js/3.580fb786.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c5c15d7dc3ba9f87680dfe0b85f5e8d4.js": "/precache-manifest.c5c15d7dc3ba9f87680dfe0b85f5e8d4.js",
+    "precache-manifest.f8b1b640ef69fe3120f2985a7f542cc5.js": "/precache-manifest.f8b1b640ef69fe3120f2985a7f542cc5.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.8f118048.chunk.css.map": "/static/css/2.8f118048.chunk.css.map",
-    "static/css/main.84397ca6.chunk.css.map": "/static/css/main.84397ca6.chunk.css.map",
-    "static/js/2.a5559dbe.chunk.js.LICENSE.txt": "/static/js/2.a5559dbe.chunk.js.LICENSE.txt",
+    "static/css/main.1b8bc4e2.chunk.css.map": "/static/css/main.1b8bc4e2.chunk.css.map",
+    "static/js/2.e3c6fc99.chunk.js.LICENSE.txt": "/static/js/2.e3c6fc99.chunk.js.LICENSE.txt",
     "static/js/3.580fb786.chunk.js.LICENSE.txt": "/static/js/3.580fb786.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.21efb744.jpg",
     "static/media/1.webp": "/static/media/1.c4e4ba84.webp",
@@ -63,9 +63,8 @@
     "static/media/comisaria.webp": "/static/media/comisaria.542f1d98.webp",
     "static/media/comprobante.pdf": "/static/media/comprobante.5c2798d6.pdf",
     "static/media/comunicacion.pdf": "/static/media/comunicacion.02bfdbfc.pdf",
-    "static/media/covid.webp": "/static/media/covid.9c5fab19.webp",
     "static/media/covid.jpeg": "/static/media/covid.90d62c65.jpeg",
-    "static/media/covid.jpg": "/static/media/covid.fed8464f.jpg",
+    "static/media/covid.webp": "/static/media/covid.9c5fab19.webp",
     "static/media/covidmunicipal.pdf": "/static/media/covidmunicipal.e254821a.pdf",
     "static/media/cp13.pdf": "/static/media/cp13.5cf5b241.pdf",
     "static/media/cp14.pdf": "/static/media/cp14.3eb695d4.pdf",
@@ -181,6 +180,8 @@
     "static/media/veterinaria.webp": "/static/media/veterinaria.2843ee98.webp",
     "static/media/veterinaria.jpg": "/static/media/veterinaria.4be2ed94.jpg",
     "static/media/viviendasPiraino.mp3": "/static/media/viviendasPiraino.81f66e6d.mp3",
+    "static/media/youtube.webp": "/static/media/youtube.1644c057.webp",
+    "static/media/youtube.jpg": "/static/media/youtube.391e7f66.jpg",
     "static/media/youtube.svg": "/static/media/youtube.8eeda1ae.svg",
     "static/media/zumba.webp": "/static/media/zumba.3a900f14.webp",
     "static/media/zumba.jpg": "/static/media/zumba.afc9947c.jpg"
@@ -188,8 +189,8 @@
   "entrypoints": [
     "static/js/runtime-main.d5556204.js",
     "static/css/2.8f118048.chunk.css",
-    "static/js/2.a5559dbe.chunk.js",
-    "static/css/main.84397ca6.chunk.css",
-    "static/js/main.8d82fa18.chunk.js"
+    "static/js/2.e3c6fc99.chunk.js",
+    "static/css/main.1b8bc4e2.chunk.css",
+    "static/js/main.c6c0f5e6.chunk.js"
   ]
 }
