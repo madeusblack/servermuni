@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75b67bdee91406404b9ec7230f8350a8",
+    "revision": "43ba3b75d9b4a274156532e37fb3ec07",
     "url": "/index.html"
   },
   {
-    "revision": "4e42c899e2a7eb9a3828",
+    "revision": "3804c5df6cbd90dd925a",
     "url": "/static/css/2.8f118048.chunk.css"
   },
   {
-    "revision": "aed6d59106c99de2f069",
-    "url": "/static/css/main.20bc7293.chunk.css"
+    "revision": "cee91e6b67d8f761cf6e",
+    "url": "/static/css/main.84397ca6.chunk.css"
   },
   {
-    "revision": "4e42c899e2a7eb9a3828",
-    "url": "/static/js/2.a4bdead7.chunk.js"
+    "revision": "3804c5df6cbd90dd925a",
+    "url": "/static/js/2.a5559dbe.chunk.js"
   },
   {
     "revision": "54fd6816419f7824e2804745930c9117",
-    "url": "/static/js/2.a4bdead7.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.a5559dbe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c92c19846396e905dd0e",
-    "url": "/static/js/3.bc8c672f.chunk.js"
+    "revision": "79a9da5d69ebe30957f9",
+    "url": "/static/js/3.580fb786.chunk.js"
   },
   {
     "revision": "455f9f3ae849b1b7c9d5b5f2d351830a",
-    "url": "/static/js/3.bc8c672f.chunk.js.LICENSE.txt"
+    "url": "/static/js/3.580fb786.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aed6d59106c99de2f069",
-    "url": "/static/js/main.79ca6e05.chunk.js"
+    "revision": "cee91e6b67d8f761cf6e",
+    "url": "/static/js/main.8d82fa18.chunk.js"
   },
   {
-    "revision": "6b399710a7b04eb6f234",
-    "url": "/static/js/runtime-main.047fe18e.js"
+    "revision": "1f2fbe4f21fd13fac130",
+    "url": "/static/js/runtime-main.d5556204.js"
   },
   {
     "revision": "21efb744b464416fa406571d1d01ac73",
@@ -312,14 +312,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/feriapoligono.357fc95d.jpg"
   },
   {
-    "revision": "550e5288ce5e73a1b22a2e726735bbf3",
-    "url": "/static/media/feriapoligono.550e5288.webp"
-  },
-  {
-    "revision": "7444c9347f5b7515481030d9b8170eed",
-    "url": "/static/media/feriapoligono2.7444c934.webp"
-  },
-  {
     "revision": "906c571589c45a48b82eb5847a194d91",
     "url": "/static/media/feriapoligono2.906c5715.jpg"
   },
@@ -328,24 +320,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/feriapoligono3.beff56e5.jpg"
   },
   {
-    "revision": "cb47e8a9769d3e4dc61eb9a652e200a2",
-    "url": "/static/media/feriapoligono3.cb47e8a9.webp"
-  },
-  {
-    "revision": "66f167668c467dcb60b3c78634fffd68",
-    "url": "/static/media/feriapoligono4.66f16766.webp"
-  },
-  {
     "revision": "7353e1bd3efbbc96ee8108002a4b5864",
     "url": "/static/media/feriapoligono4.7353e1bd.jpg"
   },
   {
     "revision": "2aa1458b0cc0c0ba2182b0df05d046f0",
     "url": "/static/media/fiestasclandestinas.2aa1458b.jpg"
-  },
-  {
-    "revision": "589f2ed2bfa89e0231e502426a0dbcd2",
-    "url": "/static/media/fiestasclandestinas.589f2ed2.webp"
   },
   {
     "revision": "76f66daec905920abd7eefb7b3e1c124",
@@ -360,28 +340,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/hospital.659831e8.jpg"
   },
   {
-    "revision": "e074f8164d098040dc19b3bbe80b2bdb",
-    "url": "/static/media/hospital.e074f816.webp"
-  },
-  {
-    "revision": "c46ba78ecafd83dc11b2c7d98615c5b1",
-    "url": "/static/media/hospital2.c46ba78e.webp"
-  },
-  {
     "revision": "cd86a4f258b62704952dc1545e8e9abe",
     "url": "/static/media/hospital2.cd86a4f2.jpg"
   },
   {
-    "revision": "5c944f2457f2445970f95baf17ba30d2",
-    "url": "/static/media/hospital3.5c944f24.webp"
-  },
-  {
     "revision": "f174b4e2347badcd08e50c17fe66b5a2",
     "url": "/static/media/hospital3.f174b4e2.jpg"
-  },
-  {
-    "revision": "b745801b2bd6b8ff3a4b1a4c44513f4e",
-    "url": "/static/media/hospital4.b745801b.webp"
   },
   {
     "revision": "f9ed64141d08cf48c4cd47cadcf434d9",
@@ -420,10 +384,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/jplcovid19.032d95b9.jpg"
   },
   {
-    "revision": "0257107f5a23138b8ef538935f1f2058",
-    "url": "/static/media/licenciatura.0257107f.webp"
-  },
-  {
     "revision": "f903719ce55959d870e324a8a5642164",
     "url": "/static/media/licenciatura.f903719c.jpg"
   },
@@ -432,48 +392,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/licenciatura2.1e3e88b5.jpg"
   },
   {
-    "revision": "d9be4c3d281ef08375439b7ae2c4d024",
-    "url": "/static/media/licenciatura2.d9be4c3d.webp"
-  },
-  {
     "revision": "723b7ef936fc1a88a5f2b547595eb076",
     "url": "/static/media/licenciatura3.723b7ef9.jpg"
-  },
-  {
-    "revision": "e4f51867b1efb973460069ce6d38c949",
-    "url": "/static/media/licenciatura3.e4f51867.webp"
   },
   {
     "revision": "38a270db6c5b922125c52f4ea1e89855",
     "url": "/static/media/licenciatura4.38a270db.jpg"
   },
   {
-    "revision": "c08d9a768349652c605a0ea84c278480",
-    "url": "/static/media/licenciatura4.c08d9a76.webp"
-  },
-  {
     "revision": "1fbf2c00d061313734c8cf494be86127",
     "url": "/static/media/licenciatura5.1fbf2c00.jpg"
-  },
-  {
-    "revision": "a8c7f50c61b10847588f968d83dcae3f",
-    "url": "/static/media/licenciatura5.a8c7f50c.webp"
   },
   {
     "revision": "a978b800cb7f016ccef7fec5fa914368",
     "url": "/static/media/licenciatura6.a978b800.jpg"
   },
   {
-    "revision": "abbbd8413f7768cf44e918988b2be1c8",
-    "url": "/static/media/licenciatura6.abbbd841.webp"
-  },
-  {
     "revision": "266cdfa28d1cca76a004e2f2cf741d8f",
     "url": "/static/media/licenciaturaMini.266cdfa2.jpg"
-  },
-  {
-    "revision": "757b0c558a3aa74cec86e676d4c584d1",
-    "url": "/static/media/licenciaturaMini.757b0c55.webp"
   },
   {
     "revision": "7fc68971d6e19057493c7d0768570b99",
@@ -492,10 +428,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/luminaria.6e105cc3.jpg"
   },
   {
-    "revision": "7d8ec824560a33790a70bf44cb92a0e9",
-    "url": "/static/media/luminaria.7d8ec824.webp"
-  },
-  {
     "revision": "d238b902bb772249ad0234f29b81072a",
     "url": "/static/media/mail.d238b902.svg"
   },
@@ -506,10 +438,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9ac6ee386e0bc1bdf1ba20b9a540cde3",
     "url": "/static/media/municipalidad.9ac6ee38.jpg"
-  },
-  {
-    "revision": "2ececc1314590fa9dbc7b459f906f3c9",
-    "url": "/static/media/navidad.2ececc13.webp"
   },
   {
     "revision": "51f41d2c00c3186d3fdea5648d7b78f5",
@@ -524,24 +452,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/navidad.9548e718.jpg"
   },
   {
-    "revision": "1118bb87bbe2842553e99d169c829b94",
-    "url": "/static/media/navidad10.1118bb87.webp"
-  },
-  {
     "revision": "f3f1c1fce7b063b7321ef82585e822ba",
     "url": "/static/media/navidad10.f3f1c1fc.jpg"
   },
   {
     "revision": "91b9c0a94363801eff37083ed18a4c60",
     "url": "/static/media/navidad11.91b9c0a9.jpg"
-  },
-  {
-    "revision": "d008c9e2d51af0d548526672b579ab7b",
-    "url": "/static/media/navidad11.d008c9e2.webp"
-  },
-  {
-    "revision": "078f394a7d78e59e0172767e458e48f0",
-    "url": "/static/media/navidad12.078f394a.webp"
   },
   {
     "revision": "3a372957c262b4b5c561f8576107f309",
@@ -552,36 +468,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/navidad13.734af5d6.jpg"
   },
   {
-    "revision": "ffa87857df621b90af7a73815e47738b",
-    "url": "/static/media/navidad13.ffa87857.webp"
-  },
-  {
-    "revision": "7e9ecebe4bf7671b4bdfc12406326035",
-    "url": "/static/media/navidad14.7e9ecebe.webp"
-  },
-  {
     "revision": "c405ae89a2157e75d94461bb56615cc7",
     "url": "/static/media/navidad14.c405ae89.jpg"
-  },
-  {
-    "revision": "1d0f1ec0345937da9d4be31d8c374fcb",
-    "url": "/static/media/navidad15.1d0f1ec0.webp"
   },
   {
     "revision": "48335c849c437981bf6f469e0132bcba",
     "url": "/static/media/navidad15.48335c84.jpg"
   },
   {
-    "revision": "0b3d62c55683015821fa6d60091a6a67",
-    "url": "/static/media/navidad16.0b3d62c5.webp"
-  },
-  {
     "revision": "9e56e0ae8082c9c2100dd2d5876e30da",
     "url": "/static/media/navidad16.9e56e0ae.jpg"
-  },
-  {
-    "revision": "54727c286063dd224a3d48267ebb098f",
-    "url": "/static/media/navidad17.54727c28.webp"
   },
   {
     "revision": "8e6124ca0e89fbbd93998bb1c72dffb9",
@@ -592,20 +488,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/navidad2.0d24115e.mp4"
   },
   {
-    "revision": "54731d74d3d1275158023e88bd006ebc",
-    "url": "/static/media/navidad2.54731d74.webp"
-  },
-  {
     "revision": "5c4ce5b66f12cf84b65921c541414bd9",
     "url": "/static/media/navidad2.5c4ce5b6.jpg"
   },
   {
     "revision": "b6c5fa4685d5161297019e6e4d49bf88",
     "url": "/static/media/navidad2.b6c5fa46.jpg"
-  },
-  {
-    "revision": "3c161d8b525e18566d0876a767e0bda4",
-    "url": "/static/media/navidad3.3c161d8b.webp"
   },
   {
     "revision": "48d7bc5f977c7eddf2dedbcc82312dec",
@@ -628,10 +516,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/navidad4.bb9fafe2.jpg"
   },
   {
-    "revision": "d9137b7536c8b6d4d0493c93bc2f49d0",
-    "url": "/static/media/navidad4.d9137b75.webp"
-  },
-  {
     "revision": "e95580eebda7d90543a7a1dbb76f3fd4",
     "url": "/static/media/navidad4.e95580ee.jpg"
   },
@@ -646,14 +530,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a966e67d6f67d300beaf5f17a8a195e5",
     "url": "/static/media/navidad5.a966e67d.jpg"
-  },
-  {
-    "revision": "e59368c4e9c41b68199370265cf56d7f",
-    "url": "/static/media/navidad5.e59368c4.webp"
-  },
-  {
-    "revision": "13c8747126107d0d56c6ef0ff08a491f",
-    "url": "/static/media/navidad6.13c87471.webp"
   },
   {
     "revision": "5cb81838bf4f2149fdd7fef8b638119f",
@@ -672,24 +548,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/navidad7.0181bd67.jpg"
   },
   {
-    "revision": "99bc9dd803b79f10bbe95d73f79349d1",
-    "url": "/static/media/navidad7.99bc9dd8.webp"
-  },
-  {
     "revision": "06baabf995264fea13bb546bb4488db7",
     "url": "/static/media/navidad8.06baabf9.jpg"
   },
   {
-    "revision": "392f92190a7592fe18d24618eb738223",
-    "url": "/static/media/navidad8.392f9219.webp"
-  },
-  {
     "revision": "7da860ac468850288695518f2f9d1140",
     "url": "/static/media/navidad9.7da860ac.jpg"
-  },
-  {
-    "revision": "f53018b3d9aa9515b531f892a148eb7d",
-    "url": "/static/media/navidad9.f53018b3.webp"
   },
   {
     "revision": "25158083911ca59d4e69d12daddc4de7",
@@ -732,10 +596,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/pobl2.e120502a.jpg"
   },
   {
-    "revision": "3c8f88d7a5eb4107a0256afa5cba5f2a",
-    "url": "/static/media/quieromibarrio.3c8f88d7.webp"
-  },
-  {
     "revision": "5f7d86fa0d1aec71d56ed83430c31d36",
     "url": "/static/media/quieromibarrio.5f7d86fa.jpg"
   },
@@ -744,36 +604,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/quieromibarrio2.3b0b4741.jpg"
   },
   {
-    "revision": "e1cb20267fecf43d516c3951523c98a7",
-    "url": "/static/media/quieromibarrio2.e1cb2026.webp"
-  },
-  {
     "revision": "a34fc9006420af58f0972ce581e56497",
     "url": "/static/media/quieromibarrio3.a34fc900.jpg"
-  },
-  {
-    "revision": "a58710c78f054a0682cfc853d10c53a2",
-    "url": "/static/media/quieromibarrio3.a58710c7.webp"
   },
   {
     "revision": "136400f74d56c162774de9f3e303e58a",
     "url": "/static/media/quieromibarrio4.136400f7.jpg"
   },
   {
-    "revision": "521e90f37de5647f50b638992da52f7e",
-    "url": "/static/media/quieromibarrio4.521e90f3.webp"
-  },
-  {
     "revision": "538b5754697c2280e7b27d712e8ffb96",
     "url": "/static/media/quieromibarrio5.538b5754.jpg"
-  },
-  {
-    "revision": "ee2fb481042b6664c14198dbae0bcfed",
-    "url": "/static/media/quieromibarrio5.ee2fb481.webp"
-  },
-  {
-    "revision": "3a837fcb1b9b2d144ce51f3ce1090e69",
-    "url": "/static/media/quieromibarrio6.3a837fcb.webp"
   },
   {
     "revision": "b1ceffd6f101c65f79ced24dc7bf2fb8",
@@ -782,10 +622,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "538b5754697c2280e7b27d712e8ffb96",
     "url": "/static/media/quieromibarriomini.538b5754.jpg"
-  },
-  {
-    "revision": "ee2fb481042b6664c14198dbae0bcfed",
-    "url": "/static/media/quieromibarriomini.ee2fb481.webp"
   },
   {
     "revision": "bf6611184c4b27d3569669ba4c9522e3",
@@ -804,48 +640,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/semanaCiencia.8e9a84a9.jpg"
   },
   {
-    "revision": "9ebb4c1dfeaf39bc611117b54b439003",
-    "url": "/static/media/semanaCiencia.9ebb4c1d.webp"
-  },
-  {
     "revision": "0d6d1e4acb00302ba67fdfb8f270d509",
     "url": "/static/media/sinpapeleo.0d6d1e4a.webp"
-  },
-  {
-    "revision": "4f7a2ea59a1e6762296fa58cb018c9da",
-    "url": "/static/media/sonricletas.4f7a2ea5.webp"
   },
   {
     "revision": "5359e4064577b2ab3f50d26953c8719f",
     "url": "/static/media/sonricletas.5359e406.jpg"
   },
   {
-    "revision": "1045d37b1848f21e85c16fa21289152a",
-    "url": "/static/media/sonricletas2.1045d37b.webp"
-  },
-  {
     "revision": "61870f687049d67c8fbf659de87aca92",
     "url": "/static/media/sonricletas2.61870f68.jpg"
-  },
-  {
-    "revision": "36c83a0fe4dc7cab2a4dca70343f303f",
-    "url": "/static/media/sonricletas3.36c83a0f.webp"
   },
   {
     "revision": "7dfd75e4c10cb346a6299a5bc5f6d59a",
     "url": "/static/media/sonricletas3.7dfd75e4.jpg"
   },
   {
-    "revision": "627e5a29c39e450cf874acb2415d63b1",
-    "url": "/static/media/sonricletas4.627e5a29.webp"
-  },
-  {
     "revision": "73c3738430e7e096aad6d07ba9aaac23",
     "url": "/static/media/sonricletas4.73c37384.jpg"
-  },
-  {
-    "revision": "7a13400895865e938e21667ad9359d24",
-    "url": "/static/media/sonricletas5.7a134008.webp"
   },
   {
     "revision": "8cbb4a8bea1759c8fe5cc7d597400daa",
@@ -856,28 +668,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/sonricletas6.8abd4154.jpg"
   },
   {
-    "revision": "f956e3ea5938194133ca1d30d2862ea1",
-    "url": "/static/media/sonricletas6.f956e3ea.webp"
-  },
-  {
-    "revision": "3aa328f180722e42f0020157cf9ac73f",
-    "url": "/static/media/sonricletas7.3aa328f1.webp"
-  },
-  {
     "revision": "e534f73a6614b9cc7491155421eb1157",
     "url": "/static/media/sonricletas7.e534f73a.jpg"
   },
   {
-    "revision": "43215194d915f22c8eb36d7b9c7b1df3",
-    "url": "/static/media/sonricletas8.43215194.webp"
-  },
-  {
     "revision": "aca0dddd5cb35e24a6614e8a9a2a228b",
     "url": "/static/media/sonricletas8.aca0dddd.jpg"
-  },
-  {
-    "revision": "50ee0e021e69711dc3b357ec5927fc83",
-    "url": "/static/media/sonricletas9.50ee0e02.webp"
   },
   {
     "revision": "9e4ae0d92e5f816ee281f74bf80a196f",
@@ -902,10 +698,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "36480bcdf512b9c3c596ddb75a3deeb5",
     "url": "/static/media/uldaCentenario.36480bcd.jpg"
-  },
-  {
-    "revision": "d515df713be02fe78b3fef64a4b5a672",
-    "url": "/static/media/uldaCentenario.d515df71.webp"
   },
   {
     "revision": "3ac78a1408c6faa34ebab54fbf18230b",
