@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.1b8bc4e2.chunk.css",
-    "main.js": "/static/js/main.c6c0f5e6.chunk.js",
-    "main.js.map": "/static/js/main.c6c0f5e6.chunk.js.map",
+    "main.js": "/static/js/main.7f2f9c5d.chunk.js",
+    "main.js.map": "/static/js/main.7f2f9c5d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d5556204.js",
     "runtime-main.js.map": "/static/js/runtime-main.d5556204.js.map",
     "static/css/2.8f118048.chunk.css": "/static/css/2.8f118048.chunk.css",
@@ -11,7 +11,7 @@
     "static/js/3.580fb786.chunk.js": "/static/js/3.580fb786.chunk.js",
     "static/js/3.580fb786.chunk.js.map": "/static/js/3.580fb786.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f8b1b640ef69fe3120f2985a7f542cc5.js": "/precache-manifest.f8b1b640ef69fe3120f2985a7f542cc5.js",
+    "precache-manifest.55317858ce81d46f40dfa808f2b60c3c.js": "/precache-manifest.55317858ce81d46f40dfa808f2b60c3c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.8f118048.chunk.css.map": "/static/css/2.8f118048.chunk.css.map",
     "static/css/main.1b8bc4e2.chunk.css.map": "/static/css/main.1b8bc4e2.chunk.css.map",
@@ -180,9 +180,9 @@
     "static/media/veterinaria.webp": "/static/media/veterinaria.2843ee98.webp",
     "static/media/veterinaria.jpg": "/static/media/veterinaria.4be2ed94.jpg",
     "static/media/viviendasPiraino.mp3": "/static/media/viviendasPiraino.81f66e6d.mp3",
-    "static/media/youtube.webp": "/static/media/youtube.1644c057.webp",
-    "static/media/youtube.jpg": "/static/media/youtube.391e7f66.jpg",
     "static/media/youtube.svg": "/static/media/youtube.8eeda1ae.svg",
+    "static/media/youtube.webp": "/static/media/youtube.d1711f2b.webp",
+    "static/media/youtube.jpg": "/static/media/youtube.fe05bb1f.jpg",
     "static/media/zumba.webp": "/static/media/zumba.3a900f14.webp",
     "static/media/zumba.jpg": "/static/media/zumba.afc9947c.jpg"
   },
@@ -191,6 +191,6 @@
     "static/css/2.8f118048.chunk.css",
     "static/js/2.e3c6fc99.chunk.js",
     "static/css/main.1b8bc4e2.chunk.css",
-    "static/js/main.c6c0f5e6.chunk.js"
+    "static/js/main.7f2f9c5d.chunk.js"
   ]
 }

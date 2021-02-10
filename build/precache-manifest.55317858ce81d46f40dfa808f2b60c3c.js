@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aa53c596b7bf2727605d04a1bc9f2ef5",
+    "revision": "0299f1a29ed97458286776ceceb8e1f8",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.8f118048.chunk.css"
   },
   {
-    "revision": "3c8091ae726507efc1b7",
+    "revision": "594ef0807c53a74ccf6a",
     "url": "/static/css/main.1b8bc4e2.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/3.580fb786.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3c8091ae726507efc1b7",
-    "url": "/static/js/main.c6c0f5e6.chunk.js"
+    "revision": "594ef0807c53a74ccf6a",
+    "url": "/static/js/main.7f2f9c5d.chunk.js"
   },
   {
     "revision": "1f2fbe4f21fd13fac130",
@@ -712,16 +712,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/viviendasPiraino.81f66e6d.mp3"
   },
   {
-    "revision": "1644c057f3f6cda2d504142700c278f0",
-    "url": "/static/media/youtube.1644c057.webp"
-  },
-  {
-    "revision": "391e7f66bbd67f0c66939346c9a54f79",
-    "url": "/static/media/youtube.391e7f66.jpg"
-  },
-  {
     "revision": "8eeda1aee992c415a4de57396653e3c9",
     "url": "/static/media/youtube.8eeda1ae.svg"
+  },
+  {
+    "revision": "d1711f2b7b1e78ed8ef4c55d8d00332e",
+    "url": "/static/media/youtube.d1711f2b.webp"
+  },
+  {
+    "revision": "fe05bb1f30e4e17cf45057eb04ce29c9",
+    "url": "/static/media/youtube.fe05bb1f.jpg"
   },
   {
     "revision": "3a900f14a3ef4bb0a18fea8920c95266",
