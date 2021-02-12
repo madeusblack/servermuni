@@ -1,0 +1,24 @@
+.postContainer{
+  color: black;
+  display: flex;
+  flex-direction: column;
+
+  padding: 0em 1em;
+  align-items: center;
+
+  .wp-block-image{
+    width: 60%;
+    border-radius: 22px;
+    display: flex;
+    justify-content: center;
+    img{
+      width: 100%;
+    }
+  }
+  div{
+    display: flex;
+    align-items: center;
+    padding: 0 2em;
+    flex-direction: column;
+  }
+}

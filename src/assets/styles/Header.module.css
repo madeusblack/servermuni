@@ -1,0 +1,126 @@
+:root {
+    --base-color:rgba(115,150,105,1) ;
+    --font-color:hsl(0, 0%, 100%);
+    --hover-color:rgb(209, 145, 66);
+  }
+*{
+    -webkit-font-smoothing: antialiased;
+}
+html,body{
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    color:var(--font-color);
+    overflow-x:hidden;
+}
+.headerContainer{
+    background: linear-gradient(180deg, rgba(115,150,105,1) 96%, rgba(234,70,48,0) 100%);
+}
+.upperHeader{
+    display: grid;
+    grid-template-columns:20vw 60vw ;
+    grid-template-rows: 50% 50%;
+    justify-content: space-between;
+}
+.Left{
+    grid-row: span 2;
+    align-self: start;
+}
+.icon{
+    max-width: 33px;
+    min-width: 25px;
+}
+.upperRight{
+    display: flex;
+    align-items: center;
+    margin-right: 1em;
+    justify-content: flex-end;
+}
+.upperRight p{
+    color: var(--font-color);
+    font-size: larger;
+}
+.upperRight a{
+    margin: 0 0 0 0.5em;
+    position: relative;
+    -webkit-filter: grayscale(80%);
+    filter: grayscale(80%);
+    transition: 450ms;
+}
+.upperRight a:hover{
+    -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
+}
+.lowerRight{
+    display: flex;
+    margin-right:1em;
+    justify-content: flex-end;
+}
+.lowerRight a{
+    margin: 1em 0.2em 2em 0.2em;
+
+}
+.headerLink{
+    
+    width: 100%;
+}
+.headerLink:hover{
+    -webkit-filter: brightness(110%) saturate(150%);
+    filter: brightness(120%) saturate(150%);
+}
+
+.lowerHeader{
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.lowerHeader a{
+    text-decoration: none;
+
+    color:var(--font-color);
+    line-height: 2.2em;
+    padding: 10px;
+    transition: 450ms;
+    font-size: larger;
+}
+.lowerHeader a:hover{
+    border-radius: 15px;
+    background-color:var(--hover-color) ;
+}
+
+
+@media (max-width: 800px) {
+    .upperHeader{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .lowerHeader{
+        display: none;
+    }
+    .Left{
+        grid-row: span 2;
+        align-self: center;
+    }
+    .upperRight{
+        margin: 0;
+    }
+    .lowerRight{
+        display: grid;
+        grid-template-columns: repeat(3, 31vw);
+        row-gap: 0.1em;
+        column-gap: 0.2rem;
+        margin: 0;
+    }
+    .lowerRight img{
+        width: 31vw;
+        height: 10vh;
+    }
+    .upperRight a{
+        -webkit-filter: grayscale(0%);
+        filter: grayscale(0%);
+    }
+}

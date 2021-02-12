@@ -1,0 +1,31 @@
+.highlightedContainer{
+  display: flex;
+  flex-direction: column;
+}
+.highlightedTitle{
+  background: linear-gradient(90deg, rgb(54, 114, 114) 10%, rgba(186,255,250,0) 70%);
+  color: white;
+  height: 20px;
+  border-radius: 22px;
+  padding: 5px;
+  padding-left: 10px;
+}
+.highlightedImage{
+  -webkit-filter: grayscale(90%);
+  filter: grayscale(90%);
+  width: 100%;
+  border-radius: 0.5rem;
+  margin: 2px;
+  transition: 450ms;
+}
+.highlightedImage:hover{
+  -webkit-filter: contrast(90%) brightness(110%) saturate(150%) hue-rotate(-10deg);
+  filter: contrast(90%) brightness(120%) saturate(150%) hue-rotate(-10deg);
+  background-color: rgb(180, 180, 180);
+}
+@media (max-width: 800px) {
+  .highlightedContainer{
+  margin: 0.2em;
+  }
+
+}

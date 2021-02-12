@@ -1,0 +1,32 @@
+.container{
+  width: 32vw;
+  margin-top: 2em;
+
+  position: relative;
+  color: black;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+}
+.image{
+  width: 100%;
+  margin-left: 1em;
+}
+.title{
+    background: linear-gradient(90deg, rgb(15, 25, 85) 70%, white 100%);
+  width: 100%;
+  color: white;
+  height: 20px;
+  border-radius: 22px;
+  padding: 5px;
+  padding-left: 10px;
+
+}
+@media (max-width: 800px) {
+  .container{
+      display: flex;
+      width: 90vw;
+      margin: 0.2em;
+      flex-direction: column;
+  }
+}

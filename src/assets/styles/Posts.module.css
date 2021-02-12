@@ -1,0 +1,53 @@
+.postsWrapper{
+    grid-row: span 4;
+    margin-top: 2em;
+    padding: 0 10px;
+    column-gap: 10px;
+    color: black;
+}
+.news{
+  display: flex;
+  background: linear-gradient(90deg, rgb(0, 99, 124) 0%, rgba(186, 255, 250, 0) 100%);
+  width: 90%;
+  color: white;
+  align-items: center;
+  height: 20px;
+  border-radius: 22px;
+  padding: 5px;
+  padding-left: 10px;
+  grid-column: span 2;
+}
+.postList{
+  display: grid;
+  grid-template-columns: 30vw 30vw;
+  column-gap: 2vw;
+}
+.postImage{
+  width: 100%;
+  border-radius: 22px 22px 0 0;
+}
+.postNav{
+  display: flex;
+}
+.postContainer{
+    margin: 1em 0;
+    display: flex;
+    padding: 0 0 1em 0;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 7px 6px 10px -1px rgba(0,0,0,0.75);
+    border-radius: 1.235rem;
+    transition: 450ms;
+}
+.postContainer:hover{
+  box-shadow: 2px 2px 4px -1px rgba(0,0,0,0.75);
+  transition: ease-in-out;
+}
+
+@media (max-width: 800px) {
+  .postList{
+    display: flex;
+    flex-direction: column;
+    padding: 0 0.2em;
+  }
+}

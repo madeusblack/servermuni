@@ -1,0 +1,26 @@
+.juzgadoTitle{
+  background: linear-gradient(90deg,#3a38be 0%, rgba(255,255,255,0) 80%);
+  color: white;
+  font-weight: lighter;
+  padding: 0.3em;
+  height: 1.2em;
+}
+.juzgadoInfoa{
+  background-color: #3a38cc ;
+  padding: 0.7em;
+  margin: 0.5em 0;
+
+}
+.juzgadoInfob{
+  background-color: #3ab62f ;
+  padding: 0.7em;
+  margin: 0.5em 0;
+
+}
+.linkJuzgado{
+  text-decoration: none;
+  color: rgb(223, 253, 255)
+}
+.linkJuzgado:hover{
+  text-decoration: underline;
+}

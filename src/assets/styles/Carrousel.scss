@@ -1,0 +1,28 @@
+
+.image{
+    margin-top:4px;
+    height: 55vh;
+    width: 100%;
+    background-color: blanchedalmond;
+}
+
+.carrousell{
+    margin-left: 5px;
+    display: flex;
+    height: 55vh;
+    width: 100%;
+}
+
+@media (max-width: 800px) {
+    .carrousell{
+        height: 60vh;
+        width:100%;
+    }
+
+    .image{
+        height: 60vh;
+        width:100%;
+
+    }
+
+}
