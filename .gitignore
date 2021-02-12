@@ -9,7 +9,11 @@
 /coverage
 
 # production
-/build
+yarn-error.log*
+certificate.crt
+private.key
+certificado.pem
+key.pem
 
 # misc
 .DS_Store
