@@ -27,8 +27,17 @@
   border-radius: 22px 22px 0 0;
 }
 .postNav{
+  margin-top: 3em;
   display: flex;
+  justify-content: space-around;
+  width: 80%;
+  height: 4em;
+  align-items: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  justify-self: flex-end;
 }
+
 .postContainer{
     margin: 1em 0;
     display: flex;
@@ -38,6 +47,18 @@
     box-shadow: 7px 6px 10px -1px rgba(0,0,0,0.75);
     border-radius: 1.235rem;
     transition: 450ms;
+}
+.postTitle{
+margin: 5px 12px;
+color: black;
+
+}
+.newsText{
+  text-decoration: none;
+}
+.newsText:hover{
+  text-decoration: underline black;
+
 }
 .postContainer:hover{
   box-shadow: 2px 2px 4px -1px rgba(0,0,0,0.75);

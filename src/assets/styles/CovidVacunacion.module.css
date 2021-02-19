@@ -1,16 +1,14 @@
 .container{
-  width: 32vw;
   margin-top: 2em;
-
   position: relative;
   color: black;
   flex-direction: column;
   display: flex;
   align-items: center;
+  padding-right: 10px;
 }
 .image{
   width: 100%;
-  margin-left: 1em;
 }
 .title{
     background: linear-gradient(90deg, rgb(15, 25, 85) 70%, white 100%);

@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import axios from 'axios';
+import '../../assets/styles/Buttons.scss';
 import classes from '../../assets/styles/Posts.module.css';
 
 export default function Posts() {
@@ -36,7 +37,7 @@ export default function Posts() {
           posts.length &&
           posts.map((post, index) => {
             return (
-              <Link className='newsText' to={`/post/${post.id}`}>
+              <Link className={classes.newsText} to={`/post/${post.id}`}>
 
                 <div key={post.id} className={classes.postContainer}>
 
@@ -51,7 +52,7 @@ export default function Posts() {
                     </>
                   ) :
                     null}
-                  <h2>{post.title.rendered}</h2>
+                  <h3 className={classes.postTitle}>{post.title.rendered}</h3>
 
                 </div>
 
@@ -60,7 +61,7 @@ export default function Posts() {
           })}
       </div>
       <div className={classes.postNav}>
-        <button onClick={handlePrevPage}>Noticias mas Recientes</button>
+        <button className="pulse" onClick={handlePrevPage}>Noticias mas Recientes</button>
         <p>
           Página
           {' '}
@@ -70,7 +71,7 @@ export default function Posts() {
           {' '}
           {nrofpages}
         </p>
-        <button onClick={handleNextPage}>Noticias Anteriores</button>
+        <button className="pulse" onClick={handleNextPage}>Noticias Anteriores</button>
       </div>
     </div>
   );
