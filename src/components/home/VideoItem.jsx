@@ -1,17 +1,12 @@
-/* eslint-disable global-require */
-/* eslint-disable import/no-dynamic-require */
-/* eslint-disable jsx-a11y/label-has-associated-control */
 import React from 'react';
+import videoMiniature from '../../assets/static/videos/youtube.jpg';
+import videoMiniatureWebp from '../../assets/static/videos/youtube.webp';
 import '../../assets/styles/ContenedorYoutube.scss';
 
-const VideoItem = ({ title, fileName, link }) => {
-  const videoMiniature = require(`../../assets/static/videos/${fileName}.jpg`);
-  const videoMiniatureWebp = require(`../../assets/static/videos/${fileName}.webp`);
-
+const VideoItem = ({ title, link }) => {
   return (
     <div className='videoContainer'>
       <a href={link} className='videoTitle' target='_blank' rel='noopener noreferrer'>
-
         <h3>{title}</h3>
         <svg version='1.1' className='playButton' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' enableBackground='new 0 0 512 512'>
           <g>
@@ -21,7 +16,6 @@ const VideoItem = ({ title, fileName, link }) => {
             </g>
           </g>
         </svg>
-
         <picture>
           <source srcSet={videoMiniatureWebp} type='image/webp' />
           <source srcSet={videoMiniature} type='image/jpeg' />

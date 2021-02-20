@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <div className={styles.footer}>
       <div className={styles.footerMunicipalidad}>
-        <h4>MUNICIPALIDAD DE NOGALES</h4>
+        <h4 className={styles.title}>MUNICIPALIDAD DE NOGALES</h4>
         <p>DIRECCIÓN:
           <a className={styles.highlighted} href='https://www.google.com/maps/place/Pedro+Felix+Vicu%C3%B1a+199,+Nogales,+Valpara%C3%ADso/data=!4m2!3m1!1s0x9689cac8fdefdc5b:0xdd83d807f7488275?sa=X&ved=2ahUKEwj30sHSr8HqAhVJErkGHehGDl4Q8gEwAHoECAsQAQ'> PEDRO FELIX VICUÑA 199</a>
         </p>
@@ -21,7 +21,7 @@ const Footer = () => {
         </div>
       </div>
       <div className={secondaryClass}>
-        <h4>DIRECCIÓN DE DESARROLLO COMUNITARIO</h4>
+        <h4 className={styles.title}>DIRECCIÓN DE DESARROLLO COMUNITARIO</h4>
         <p>DIRECCIÓN:
           <a className={styles.highlighted} target='blank' href='https://www.google.com/maps/place/Dideco+Nogales/@-32.7359484,-71.2006857,19z/data=!3m1!4b1!4m5!3m4!1s0x9689cb7c4e2576bb:0xd7821611f63ac568!8m2!3d-32.7359495!4d-71.2001385'> SIMÓN BOLIVAR 12</a>
         </p>
@@ -34,7 +34,7 @@ const Footer = () => {
         </div>
       </div>
       <div className={secondaryClass}>
-        <h4>CENTRO CÍVICO EL MELÓN</h4>
+        <h4 className={styles.title}>CENTRO CÍVICO EL MELÓN</h4>
         <p>DIRECCIÓN:
           <a className={styles.highlighted} target='blank' href="https://www.google.cl/maps/place/32%C2%B041'25.6%22S+71%C2%B012'43.8%22W/@-32.6904307,-71.2132663,18z/data=!3m1!4b1!4m9!1m2!2m1!1sCENTRO+CIVICO+EL+MELON!3m5!1s0x0:0x0!7e2!8m2!3d-32.6904334!4d-71.2121716"> RAMÓN FREIRE 3</a>
         </p>
@@ -48,7 +48,7 @@ const Footer = () => {
         </div>
       </div>
       <div className={secondaryClass}>
-        <h4>AGUA POTABLE RURAL EL MELÓN</h4>
+        <h4 className={styles.title}>AGUA POTABLE RURAL EL MELÓN</h4>
         <p>DIRECCIÓN:
           <a className={styles.highlighted} target='blank' href="https://www.google.com/maps/place/32%C2%B041'30.5%22S+71%C2%B012'43.3%22W/@-32.6918129,-71.2125722,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d-32.6918137!4d-71.2120248"> RAMÓN FREIRE 43</a>
         </p>
@@ -60,7 +60,7 @@ const Footer = () => {
         </div>
       </div>
       <div className={secondaryClass}>
-        <h4>DEPARTAMENTO DE EDUCACIÓN</h4>
+        <h4 className={styles.title}>DEPARTAMENTO DE EDUCACIÓN</h4>
         <p>DIRECCIÓN:
           <a className={styles.highlighted} target='blank' href='https://www.google.cl/maps/place/Pedro+Felix+Vicu%C3%B1a+431,+Nogales,+Valpara%C3%ADso/@-32.737093,-71.2026333,17z/data=!3m1!4b1!4m5!3m4!1s0x9689cacec5690089:0xc1fbc1ace515971e!8m2!3d-32.7370975!4d-71.2004446'> PEDRO FELIX VICUÑA 431</a>
         </p>
@@ -72,7 +72,7 @@ const Footer = () => {
         </div>
       </div>
       <div className={secondaryClass}>
-        <h4>DEPARTAMENTO DE TRÁNSITO</h4>
+        <h4 className={styles.title}>DEPARTAMENTO DE TRÁNSITO</h4>
         <p>DIRECCIÓN:
           <a className={styles.highlighted} href='https://www.google.com/maps/place/Pedro+Felix+Vicu%C3%B1a+199,+Nogales,+Valpara%C3%ADso/data=!4m2!3m1!1s0x9689cac8fdefdc5b:0xdd83d807f7488275?sa=X&ved=2ahUKEwj30sHSr8HqAhVJErkGHehGDl4Q8gEwAHoECAsQAQ'> PEDRO FELIX VICUÑA 199</a>
         </p>

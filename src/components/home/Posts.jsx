@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import axios from 'axios';
+import moment from 'moment';
 import '../../assets/styles/Buttons.scss';
 import classes from '../../assets/styles/Posts.module.css';
 
@@ -36,9 +37,9 @@ export default function Posts() {
         {posts &&
           posts.length &&
           posts.map((post, index) => {
+            const date = moment().utc(post.date).format('ll');
             return (
-              <Link className={classes.newsText} to={`/post/${post.id}`}>
-
+              <Link key={`link-${post.id}`} className={classes.newsText} to={`/post/${post.id}`}>
                 <div key={post.id} className={classes.postContainer}>
 
                   {post.featured_media ? (
@@ -52,8 +53,9 @@ export default function Posts() {
                     </>
                   ) :
                     null}
-                  <h3 className={classes.postTitle}>{post.title.rendered}</h3>
+                  <h6 key={`date-${post.id}`} className={classes.date}>{date}</h6>
 
+                  <h3 key={`title-${post.id}`} className={classes.postTitle}>{post.title.rendered}</h3>
                 </div>
 
               </Link>
@@ -61,7 +63,7 @@ export default function Posts() {
           })}
       </div>
       <div className={classes.postNav}>
-        <button className="pulse" onClick={handlePrevPage}>Noticias mas Recientes</button>
+        <button className='pulse' type='button' onClick={handlePrevPage}>Noticias mas Recientes</button>
         <p>
           Página
           {' '}
@@ -71,7 +73,7 @@ export default function Posts() {
           {' '}
           {nrofpages}
         </p>
-        <button className="pulse" onClick={handleNextPage}>Noticias Anteriores</button>
+        <button className='pulse' type='button' onClick={handleNextPage}>Noticias Anteriores</button>
       </div>
     </div>
   );

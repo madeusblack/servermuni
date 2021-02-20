@@ -4,9 +4,7 @@
 /* eslint-disable import/no-dynamic-require */
 /* eslint-disable global-require */
 /* eslint-disable jsx-a11y/label-has-associated-control */
-import React, { useEffect } from 'react';
-import { connect, useDispatch } from 'react-redux';
-import { getVideoSource } from '../actions';
+import React from 'react';
 import classes from '../assets/styles/ContainerNoticias.module.css';
 
 const ContainerNoticias = (props) => {
@@ -21,13 +19,7 @@ const ContainerNoticias = (props) => {
     imagenesPost,
     videosPost,
   } = props.reading;
-  const dispatch = useDispatch();
-  const { id } = props.match.params;
   const hasPlaying = Object.keys(props.reading).length > 0;
-
-  useEffect(() => {
-    dispatch(getVideoSource(id));
-  }, [dispatch, id]);
 
   return hasPlaying ? (
     <div className={galery ? classes.containerGalery : classes.ContainerNoticia}>
@@ -108,12 +100,5 @@ const ContainerNoticias = (props) => {
     </div>
   ) : <h1>no encontrado</h1>;
 };
-const mapStateToProps = (state) => {
-  return {
-    reading: state.reading,
-  };
-};
-const mapDispatchToProps = {
-  getVideoSource,
-};
-export default connect(mapStateToProps, mapDispatchToProps)(ContainerNoticias);
+
+export default ContainerNoticias;

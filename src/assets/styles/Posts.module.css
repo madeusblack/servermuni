@@ -22,6 +22,10 @@
   grid-template-columns: 30vw 30vw;
   column-gap: 2vw;
 }
+.date{
+  color: black;
+  margin-left: 1em;
+}
 .postImage{
   width: 100%;
   border-radius: 22px 22px 0 0;

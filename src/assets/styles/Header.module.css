@@ -16,6 +16,7 @@ html,body{
 }
 .headerContainer{
     background: linear-gradient(180deg, rgba(115,150,105,1) 96%, rgba(234,70,48,0) 100%);
+padding-bottom: 1em;
 }
 .upperHeader{
     display: grid;

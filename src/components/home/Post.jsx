@@ -7,19 +7,17 @@ class Post extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      posts: [],
       title: '',
       content: '',
     };
   }
 
   componentDidMount = async () => {
+    const { match } = this.props;
     await axios.get(
-      `https://madeusblack.000webhostapp.com/wp-json/wp/v2/posts/${this.props.match.params.id}`,
+      `https://madeusblack.000webhostapp.com/wp-json/wp/v2/posts/${match.params.id}`,
     ).then((post) => {
-      console.log(post.data.title.rendered);
       this.setState({
-        posts: post.data,
         title: post.data.title.rendered,
         content: post.data.content.rendered,
       });
@@ -29,10 +27,11 @@ class Post extends React.Component {
   }
 
   render() {
+    const { title, content } = this.state;
     return (
-      <div className='postContainer' >
-        <h1>{this.state.title}</h1>
-        <div dangerouslySetInnerHTML={{ __html: this.state.content }} />
+      <div className='postContainer'>
+        <h1>{title}</h1>
+        <div dangerouslySetInnerHTML={{ __html: content }} />
       </div>
     );
   }
