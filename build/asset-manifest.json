@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.80810a94.chunk.css",
-    "main.js": "/static/js/main.bd07027d.chunk.js",
-    "main.js.map": "/static/js/main.bd07027d.chunk.js.map",
+    "main.css": "/static/css/main.3b25a5c1.chunk.css",
+    "main.js": "/static/js/main.6300a935.chunk.js",
+    "main.js.map": "/static/js/main.6300a935.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9ae41a06.js",
     "runtime-main.js.map": "/static/js/runtime-main.9ae41a06.js.map",
     "static/css/2.8f118048.chunk.css": "/static/css/2.8f118048.chunk.css",
@@ -11,10 +11,10 @@
     "static/js/3.cd15a881.chunk.js": "/static/js/3.cd15a881.chunk.js",
     "static/js/3.cd15a881.chunk.js.map": "/static/js/3.cd15a881.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.82e10d5a825c8ccb04156b1bd2432821.js": "/precache-manifest.82e10d5a825c8ccb04156b1bd2432821.js",
+    "precache-manifest.f7b90536af5f8324b98cc3322c43fe80.js": "/precache-manifest.f7b90536af5f8324b98cc3322c43fe80.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.8f118048.chunk.css.map": "/static/css/2.8f118048.chunk.css.map",
-    "static/css/main.80810a94.chunk.css.map": "/static/css/main.80810a94.chunk.css.map",
+    "static/css/main.3b25a5c1.chunk.css.map": "/static/css/main.3b25a5c1.chunk.css.map",
     "static/js/2.524251a9.chunk.js.LICENSE.txt": "/static/js/2.524251a9.chunk.js.LICENSE.txt",
     "static/js/3.cd15a881.chunk.js.LICENSE.txt": "/static/js/3.cd15a881.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.21efb744.jpg",
@@ -146,8 +146,6 @@
     "static/media/patentesBorbaran.mp3": "/static/media/patentesBorbaran.6c56877d.mp3",
     "static/media/permisos.webp": "/static/media/permisos.ec461bf0.webp",
     "static/media/phone.svg": "/static/media/phone.3e473807.svg",
-    "static/media/plebiscito.webp": "/static/media/plebiscito.b6597434.webp",
-    "static/media/plebiscito.jpg": "/static/media/plebiscito.c3e02f1f.jpg",
     "static/media/pobl2.jpg": "/static/media/pobl2.e120502a.jpg",
     "static/media/quieromibarrio.jpg": "/static/media/quieromibarrio.5f7d86fa.jpg",
     "static/media/quieromibarrio2.jpg": "/static/media/quieromibarrio2.3b0b4741.jpg",
@@ -160,6 +158,8 @@
     "static/media/residuos.jpg": "/static/media/residuos.ff003318.jpg",
     "static/media/sai.webp": "/static/media/sai.619c2c69.webp",
     "static/media/semanaCiencia.jpg": "/static/media/semanaCiencia.8e9a84a9.jpg",
+    "static/media/servel.webp": "/static/media/servel.70f6f25a.webp",
+    "static/media/servel.jpeg": "/static/media/servel.e4dbd948.jpeg",
     "static/media/sinpapeleo.webp": "/static/media/sinpapeleo.0d6d1e4a.webp",
     "static/media/sonricletas.jpg": "/static/media/sonricletas.5359e406.jpg",
     "static/media/sonricletas2.jpg": "/static/media/sonricletas2.61870f68.jpg",
@@ -190,7 +190,7 @@
     "static/js/runtime-main.9ae41a06.js",
     "static/css/2.8f118048.chunk.css",
     "static/js/2.524251a9.chunk.js",
-    "static/css/main.80810a94.chunk.css",
-    "static/js/main.bd07027d.chunk.js"
+    "static/css/main.3b25a5c1.chunk.css",
+    "static/js/main.6300a935.chunk.js"
   ]
 }

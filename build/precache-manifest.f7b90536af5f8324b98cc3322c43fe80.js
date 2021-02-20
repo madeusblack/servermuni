@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd74f5332a8a88644578a5e8b3d8c5c0",
+    "revision": "2b14a2cba66f1f46586ef3e8f7a700d6",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.8f118048.chunk.css"
   },
   {
-    "revision": "ec927e2549db5d05bf5a",
-    "url": "/static/css/main.80810a94.chunk.css"
+    "revision": "1cf6dde44e784079ee31",
+    "url": "/static/css/main.3b25a5c1.chunk.css"
   },
   {
     "revision": "88cb4071b4ecf3d52f83",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/3.cd15a881.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ec927e2549db5d05bf5a",
-    "url": "/static/js/main.bd07027d.chunk.js"
+    "revision": "1cf6dde44e784079ee31",
+    "url": "/static/js/main.6300a935.chunk.js"
   },
   {
     "revision": "dbaa2fd6c4e81be52f56",
@@ -576,14 +576,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/phone.3e473807.svg"
   },
   {
-    "revision": "b6597434eb6a63590de73617203b38ac",
-    "url": "/static/media/plebiscito.b6597434.webp"
-  },
-  {
-    "revision": "c3e02f1fca5ef6ee31829f25cc9990cc",
-    "url": "/static/media/plebiscito.c3e02f1f.jpg"
-  },
-  {
     "revision": "e120502a8db4fde5421ec223edbb3774",
     "url": "/static/media/pobl2.e120502a.jpg"
   },
@@ -630,6 +622,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8e9a84a9e72afbbeabdcfa1ebe7d232a",
     "url": "/static/media/semanaCiencia.8e9a84a9.jpg"
+  },
+  {
+    "revision": "70f6f25a52609fa63af24df58fb3fb92",
+    "url": "/static/media/servel.70f6f25a.webp"
+  },
+  {
+    "revision": "e4dbd948f9ce13815127fba7f7c0d06e",
+    "url": "/static/media/servel.e4dbd948.jpeg"
   },
   {
     "revision": "0d6d1e4acb00302ba67fdfb8f270d509",
