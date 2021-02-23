@@ -35,6 +35,7 @@ import censoemergencia from '../../assets/static/carousel/censoemergencia.jpg';
 import censovideo from '../../assets/static/carousel/censo.mp4';
 import aviso from '../../assets/static/carousel/aviso.png';
 import avisowebp from '../../assets/static/carousel/aviso.webp';
+import avisoAseo from '../../assets/static/carousel/avisoAseo.svg';
 
 const AutoplaySlider = withAutoplay(AwesomeSlider);
 
@@ -45,6 +46,9 @@ const Carrousel = () => (
     cancelOnInteraction={true}
     interval={9000}
   >
+    <div className='imagecontainer'>
+      <img className='imagesvg' src={avisoAseo} alt='' />
+    </div>
     <div>
       <picture>
         <source srcSet={avisowebp} type='image/webp' />

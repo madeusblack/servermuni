@@ -1,7 +1,7 @@
 :root {
-    --base-color:rgba(115,150,105,1) ;
+    --base-color:#739669 ;
     --font-color:hsl(0, 0%, 100%);
-    --hover-color:rgb(209, 145, 66);
+    --hover-color:#d19142;
   }
 *{
     -webkit-font-smoothing: antialiased;
