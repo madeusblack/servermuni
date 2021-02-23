@@ -1,0 +1,16 @@
+.saeContainer{
+  display: flex;
+  color: black;
+  margin: 1em;
+}
+.saeTitle{
+  margin: 1em;
+  color: black;
+}
+.saeImg{
+  margin: 1em;
+}
+.saeParraph{
+  margin: 1em;
+  color: black;
+}

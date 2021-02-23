@@ -20,6 +20,7 @@ import participacion from '../../assets/static/links/ine.png';
 import participacionwebp from '../../assets/static/links/ine.webp';
 import servel from '../../assets/static/links/servel.jpeg';
 import servelwebp from '../../assets/static/links/servel.webp';
+import sae from '../../assets/static/links/sae.jpg';
 
 const Links = () => (
   <div className='linksContainer'>
@@ -38,7 +39,11 @@ const Links = () => (
         <img className='linkImage' csr={cuentapublica} loading='lazy' alt='' />
       </picture>
     </Link>
-
+    <Link id='sae' to='/sae' aria-label='sae'>
+      <picture>
+        <img className='linkImage' src={sae} loading='lazy' alt='' />
+      </picture>
+    </Link>
     <a target='_blank' aria-label='validar documentos' rel='noopener noreferrer' href='https://www.sem.gob.cl/pago/validacion/'>
       <picture>
         <source srcSet={validawebp} type='image/webp' />
@@ -77,13 +82,6 @@ const Links = () => (
         <img className='linkImage' csr={chileatiende} loading='lazy' alt='' />
       </picture>
     </a>
-    <a target='_blank' rel='noopener noreferrer' id='ine' aria-label='plebiscito nacional 2020' href='https://elecciones2021.servel.cl/'>
-      <picture>
-        <source srcSet={servelwebp} type='image/webp' />
-        <source srcSet={servel} type='image/png' />
-        <img className='linkImage' csr={servel} loading='lazy' alt='' />
-      </picture>
-    </a>
     <a target='_blank' rel='noopener noreferrer' id='plebiscito' aria-label='censo de participacion intercultural instituto nacional de estadisticas' href='https://www.ine.cl/participacionintercultural'>
       <picture>
         <source srcSet={participacionwebp} type='image/webp' />
@@ -91,6 +89,14 @@ const Links = () => (
         <img className='linkImage' csr={participacion} loading='lazy' alt='' />
       </picture>
     </a>
+    <a target='_blank' rel='noopener noreferrer' id='ine' aria-label='plebiscito nacional 2020' href='https://elecciones2021.servel.cl/'>
+      <picture>
+        <source srcSet={servelwebp} type='image/webp' />
+        <source srcSet={servel} type='image/png' />
+        <img className='linkImage' csr={servel} loading='lazy' alt='' />
+      </picture>
+    </a>
+
   </div>
 );
 export default Links;

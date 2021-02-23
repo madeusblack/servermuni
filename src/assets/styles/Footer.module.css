@@ -5,9 +5,10 @@
 .footer{
     display: grid;
     grid-template-columns: repeat(3, 30vw);
-    grid-template-rows: repeat(2, 35vh);
+    grid-template-rows: repeat(2, 40vh);
     column-gap: 3vw;
     padding: 1em 0;
+    
     color:var(--font-color);
     font-weight: bolder;
     background: linear-gradient(0deg, rgba(115,150,105,1) 96%, rgba(234,70,48,0) 100%);
@@ -19,6 +20,7 @@
     width: 100%;
     border: 1px black solid;
     text-align: center;
+    box-sizing: content-box;
 	margin: 10px;
     box-shadow: 1px 4px 5px 0 rgba(0, 0, 0, 1);
 

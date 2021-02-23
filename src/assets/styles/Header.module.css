@@ -107,7 +107,11 @@ padding-bottom: 1em;
         align-self: center;
     }
     .upperRight{
-        margin: 0;
+        justify-content: space-around;
+        width: 70%;
+        margin-left: 15%;
+        margin-right: 15%;
+
     }
     .lowerRight{
         display: grid;
