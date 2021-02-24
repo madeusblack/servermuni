@@ -36,6 +36,9 @@ import censovideo from '../../assets/static/carousel/censo.mp4';
 import aviso from '../../assets/static/carousel/aviso.png';
 import avisowebp from '../../assets/static/carousel/aviso.webp';
 import avisoAseo from '../../assets/static/carousel/avisoAseo.svg';
+import becadetalle from '../../assets/static/carousel/becadetalle.jpg';
+import beca2021 from '../../assets/static/carousel/beca2021.jpg';
+import beca2021webp from '../../assets/static/carousel/beca2021.webp';
 
 const AutoplaySlider = withAutoplay(AwesomeSlider);
 
@@ -46,6 +49,15 @@ const Carrousel = () => (
     cancelOnInteraction={true}
     interval={9000}
   >
+    <div>
+      <a href={becadetalle} target='_blank' rel='noopener noreferrer'>
+        <picture>
+          <source srcSet={beca2021webp} type='image/webp' />
+          <source srcSet={beca2021} type='image/jpeg' />
+          <img className='image' csr={beca2021} alt='' />
+        </picture>
+      </a>
+    </div>
     <div className='imagecontainer'>
       <img className='imagesvg' src={avisoAseo} alt='' />
     </div>

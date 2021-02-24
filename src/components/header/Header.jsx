@@ -19,6 +19,8 @@ import pasoapasowebp from '../../assets/static/header/pasoapaso.webp';
 import LinksServicios from './LinksServicios';
 import emergencia from '../../assets/static/header/emergencia.png';
 import emergenciawebp from '../../assets/static/header/emergencia.webp';
+import circulacionwebp from '../../assets/static/header/circulacion.webp';
+import circulacion from '../../assets/static/header/circulacion.jpg';
 
 const Header = () => (
   <div className={styles.headerContainer}>
@@ -118,6 +120,13 @@ const Header = () => (
         <a target='_blank' rel='noopener noreferrer' href='http://www.nogaleschile.cl/'>EDUCACIÓN</a>
         <a target='_blank' rel='noopener noreferrer' href='http://site.saludnogales.cl/'>SALUD</a>
       </div>
+    </div>
+    <div className={styles.bannerCirculacion}>
+      <picture>
+        <source srcSet={circulacionwebp} type='image/webp' />
+        <source srcSet={circulacion} type='image/jpg' />
+        <img className={styles.headerCirculacion} csr={circulacion} alt='Estado comuna paso a paso' />
+      </picture>
     </div>
   </div>
 );
