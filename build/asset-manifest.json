@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.8a0bd819.chunk.css",
-    "main.js": "/static/js/main.dd5d1a62.chunk.js",
-    "main.js.map": "/static/js/main.dd5d1a62.chunk.js.map",
+    "main.css": "/static/css/main.40244edc.chunk.css",
+    "main.js": "/static/js/main.6bae9f13.chunk.js",
+    "main.js.map": "/static/js/main.6bae9f13.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bf18b2c5.js",
     "runtime-main.js.map": "/static/js/runtime-main.bf18b2c5.js.map",
     "static/css/2.34b29efe.chunk.css": "/static/css/2.34b29efe.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.f9ee5d10.chunk.js.map": "/static/js/3.f9ee5d10.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.34b29efe.chunk.css.map": "/static/css/2.34b29efe.chunk.css.map",
-    "static/css/main.8a0bd819.chunk.css.map": "/static/css/main.8a0bd819.chunk.css.map",
+    "static/css/main.40244edc.chunk.css.map": "/static/css/main.40244edc.chunk.css.map",
     "static/js/2.80585909.chunk.js.LICENSE.txt": "/static/js/2.80585909.chunk.js.LICENSE.txt",
     "static/js/3.f9ee5d10.chunk.js.LICENSE.txt": "/static/js/3.f9ee5d10.chunk.js.LICENSE.txt",
     "static/media/1.24f1a4a7.jpg": "/static/media/1.24f1a4a7.jpg",
@@ -145,8 +145,8 @@
     "static/media/navidad9.jpg": "/static/media/navidad9.ca97f4fb.jpg",
     "static/media/noagricolas.63fb8599.pdf": "/static/media/noagricolas.63fb8599.pdf",
     "static/media/omil.e538805a.webp": "/static/media/omil.e538805a.webp",
-    "static/media/pasoapaso.904f41fc.png": "/static/media/pasoapaso.904f41fc.png",
-    "static/media/pasoapaso.ab9b2012.webp": "/static/media/pasoapaso.ab9b2012.webp",
+    "static/media/pasoapaso.618dcc03.png": "/static/media/pasoapaso.618dcc03.png",
+    "static/media/pasoapaso.916bc14c.webp": "/static/media/pasoapaso.916bc14c.webp",
     "static/media/patentesBorbaran.mp3": "/static/media/patentesBorbaran.5fec28b8.mp3",
     "static/media/permisos.fdf9e27c.webp": "/static/media/permisos.fdf9e27c.webp",
     "static/media/phone.ae74a96d.svg": "/static/media/phone.ae74a96d.svg",
@@ -196,7 +196,7 @@
     "static/js/runtime-main.bf18b2c5.js",
     "static/css/2.34b29efe.chunk.css",
     "static/js/2.80585909.chunk.js",
-    "static/css/main.8a0bd819.chunk.css",
-    "static/js/main.dd5d1a62.chunk.js"
+    "static/css/main.40244edc.chunk.css",
+    "static/js/main.6bae9f13.chunk.js"
   ]
 }
