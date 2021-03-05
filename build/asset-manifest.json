@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.40244edc.chunk.css",
-    "main.js": "/static/js/main.101b8481.chunk.js",
-    "main.js.map": "/static/js/main.101b8481.chunk.js.map",
+    "main.js": "/static/js/main.07b67b21.chunk.js",
+    "main.js.map": "/static/js/main.07b67b21.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bf18b2c5.js",
     "runtime-main.js.map": "/static/js/runtime-main.bf18b2c5.js.map",
     "static/css/2.34b29efe.chunk.css": "/static/css/2.34b29efe.chunk.css",
@@ -61,8 +61,8 @@
     "static/media/chileatiende.5d7f30c1.webp": "/static/media/chileatiende.5d7f30c1.webp",
     "static/media/ciclismo.01f3c2e5.webp": "/static/media/ciclismo.01f3c2e5.webp",
     "static/media/ciclismo.aafacc70.jpg": "/static/media/ciclismo.aafacc70.jpg",
-    "static/media/circulacion.2414ed49.jpg": "/static/media/circulacion.2414ed49.jpg",
-    "static/media/circulacion.b31648b4.webp": "/static/media/circulacion.b31648b4.webp",
+    "static/media/circulacion.4b6e6802.webp": "/static/media/circulacion.4b6e6802.webp",
+    "static/media/circulacion.7b01fddf.jpg": "/static/media/circulacion.7b01fddf.jpg",
     "static/media/comisaria.a7a36bfe.jpg": "/static/media/comisaria.a7a36bfe.jpg",
     "static/media/comisaria.c3dd2e63.webp": "/static/media/comisaria.c3dd2e63.webp",
     "static/media/comprobante.f8c619b1.pdf": "/static/media/comprobante.f8c619b1.pdf",
@@ -198,6 +198,6 @@
     "static/css/2.34b29efe.chunk.css",
     "static/js/2.80585909.chunk.js",
     "static/css/main.40244edc.chunk.css",
-    "static/js/main.101b8481.chunk.js"
+    "static/js/main.07b67b21.chunk.js"
   ]
 }
