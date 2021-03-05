@@ -121,13 +121,13 @@ const Header = () => (
         <a target='_blank' rel='noopener noreferrer' href='http://site.saludnogales.cl/'>SALUD</a>
       </div>
     </div>
-    <div className={styles.bannerCirculacion}>
+    <a className={styles.bannerCirculacion} aria-label='Pago permisos de circulacion' rel='noopener noreferrer' href='http://200.54.77.226/permisos_maestro.html'>
       <picture>
         <source srcSet={circulacionwebp} type='image/webp' />
         <source srcSet={circulacion} type='image/jpg' />
         <img className={styles.headerCirculacion} csr={circulacion} alt='Estado comuna paso a paso' />
       </picture>
-    </div>
+    </a>
   </div>
 );
 export default Header;

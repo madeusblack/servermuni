@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.40244edc.chunk.css",
-    "main.js": "/static/js/main.6bae9f13.chunk.js",
-    "main.js.map": "/static/js/main.6bae9f13.chunk.js.map",
+    "main.js": "/static/js/main.101b8481.chunk.js",
+    "main.js.map": "/static/js/main.101b8481.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bf18b2c5.js",
     "runtime-main.js.map": "/static/js/runtime-main.bf18b2c5.js.map",
     "static/css/2.34b29efe.chunk.css": "/static/css/2.34b29efe.chunk.css",
@@ -145,10 +145,11 @@
     "static/media/navidad9.jpg": "/static/media/navidad9.ca97f4fb.jpg",
     "static/media/noagricolas.63fb8599.pdf": "/static/media/noagricolas.63fb8599.pdf",
     "static/media/omil.e538805a.webp": "/static/media/omil.e538805a.webp",
+    "static/media/pagaonline.abf362da.webp": "/static/media/pagaonline.abf362da.webp",
+    "static/media/pagaonline.bac80930.jpeg": "/static/media/pagaonline.bac80930.jpeg",
     "static/media/pasoapaso.618dcc03.png": "/static/media/pasoapaso.618dcc03.png",
     "static/media/pasoapaso.916bc14c.webp": "/static/media/pasoapaso.916bc14c.webp",
     "static/media/patentesBorbaran.mp3": "/static/media/patentesBorbaran.5fec28b8.mp3",
-    "static/media/permisos.fdf9e27c.webp": "/static/media/permisos.fdf9e27c.webp",
     "static/media/phone.ae74a96d.svg": "/static/media/phone.ae74a96d.svg",
     "static/media/pobl2.94e47897.jpg": "/static/media/pobl2.94e47897.jpg",
     "static/media/quieromibarrio.jpg": "/static/media/quieromibarrio.f799a5b3.jpg",
@@ -197,6 +198,6 @@
     "static/css/2.34b29efe.chunk.css",
     "static/js/2.80585909.chunk.js",
     "static/css/main.40244edc.chunk.css",
-    "static/js/main.6bae9f13.chunk.js"
+    "static/js/main.101b8481.chunk.js"
   ]
 }

@@ -1,8 +1,8 @@
 import React from 'react';
 import '../../assets/styles/Links.scss';
 import { Link } from 'react-router-dom';
-import permisos from '../../assets/static/links/permisos.png';
-import permisoswebp from '../../assets/static/links/permisos.webp';
+import permisos from '../../assets/static/links/pagaonline.jpeg';
+import permisoswebp from '../../assets/static/links/pagaonline.webp';
 import sinpapeleo from '../../assets/static/links/sinpapeleo.png';
 import sinpapeleowebp from '../../assets/static/links/sinpapeleo.webp';
 import valida from '../../assets/static/links/valida.png';
