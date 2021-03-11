@@ -2,6 +2,23 @@
   display: flex;
   flex-direction: column;
 }
+.NoticiaImportante{
+  padding: 0 1em;  
+  text-align: center;
+  a{
+    color: black;
+    text-decoration: none;
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+  img{
+    border-radius: 22px;
+  }
+}
+.noticiaImportanteImagen{
+  width: 100%;
+}
 .highlightedTitle{
   background: linear-gradient(90deg, rgb(54, 114, 114) 10%, rgba(186,255,250,0) 70%);
   color: white;

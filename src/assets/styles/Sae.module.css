@@ -14,3 +14,25 @@
   margin: 1em;
   color: black;
 }
+.video{
+  background-color: aliceblue;
+  width: 70vw;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.pdf{
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+.pdfIcon{
+  margin-top: 1em;
+  width: 100px;
+}

@@ -7,14 +7,19 @@ import ContenedorYoutube from '../components/home/ContenedorYoutube';
 import Informaciones from '../components/home/Informaciones';
 import CovidVacunacion from '../components/home/CovidVacunacion';
 import Posts from '../components/home/Posts';
+import NoticiaImportante from '../components/home/NoticiaImportante';
 
 const Home = () => (
   <div className='main'>
     <Carrousel />
-    <ContenedorYoutube />
+    <NoticiaImportante />
     <Posts />
+
     <CovidVacunacion />
     <Links />
+
+    <ContenedorYoutube />
+
     <Highlighted />
     <Informaciones />
   </div>

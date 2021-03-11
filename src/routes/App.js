@@ -25,6 +25,7 @@ import NotFound from '../containers/NotFound';
 import Emergency from '../components/header/Emergency';
 import Post from '../components/home/Post';
 import Sae from '../containers/Sae';
+import noticiaImportanteContainer from '../containers/NoticiaImportanteContainer';
 
 const App = () => (
   <BrowserRouter>
@@ -53,6 +54,8 @@ const App = () => (
         <Route exact path='/saludCarousel' component={SaludContainer} />
         <Route exact path='/emergencias' component={Emergency} />
         <Route exact path='/sae' component={Sae} />
+        <Route exact path='/noticiaimportante' component={noticiaImportanteContainer} />
+
         <Route path='/noencontrado' component={NotFound} />
       </Switch>
     </Layout>
