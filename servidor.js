@@ -14,7 +14,6 @@ app.use('/transp', express.static('transp'));
 app.use('/media', express.static('media'));
 app.use('/.well-known/acme-challenge', express.static('.well-known/acme-challenge'));
 
-
 app.get('*', (req, res) => {
   res.sendFile(path.join(`${__dirname}/build/index.html`));
 });
