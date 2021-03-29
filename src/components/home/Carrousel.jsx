@@ -44,127 +44,127 @@ const AutoplaySlider = withAutoplay(AwesomeSlider);
 
 const Carrousel = () => (
   <AutoplaySlider
-    className='carrousell'
+    className='carousell'
     play={true}
     cancelOnInteraction={true}
     interval={9000}
   >
-    <div>
+    <div className='carouselImage'>
       <a href={becadetalle} target='_blank' rel='noopener noreferrer'>
         <picture>
           <source srcSet={beca2021webp} type='image/webp' />
           <source srcSet={beca2021} type='image/jpeg' />
-          <img className='image' csr={beca2021} alt='' />
+          <img csr={beca2021} alt='' />
         </picture>
       </a>
     </div>
-    <div className='imagecontainer'>
-      <img className='imagesvg' src={avisoAseo} alt='' />
+    <div className='carouselImage'>
+      <img src={avisoAseo} alt='' />
     </div>
-    <div>
+    <div className='carouselImage'>
       <picture>
         <source srcSet={avisowebp} type='image/webp' />
         <source srcSet={aviso} type='image/jpeg' />
-        <img className='image' csr={aviso} alt='' />
+        <img csr={aviso} alt='' />
       </picture>
     </div>
-    <div>
+    <div className='carouselImage'>
       <a href={censovideo} target='_blank' rel='noopener noreferrer'>
         <picture>
           <source srcSet={censoemergenciawebp} type='image/webp' />
           <source srcSet={censoemergencia} type='image/jpeg' />
-          <img className='image' csr={censoemergencia} alt='' />
+          <img csr={censoemergencia} alt='' />
         </picture>
       </a>
     </div>
-    <div>
+    <div className='carouselImage'>
       <picture>
         <source srcSet={atletismowebp} type='image/webp' />
         <source srcSet={atletismo} type='image/jpeg' />
-        <img className='image' csr={atletismo} alt='' />
+        <img csr={atletismo} alt='' />
       </picture>
     </div>
-    <div>
+    <div className='carouselImage'>
       <picture>
         <source srcSet={ciclismowebp} type='image/webp' />
         <source srcSet={ciclismo} type='image/jpeg' />
-        <img className='image' csr={ciclismo} alt='' />
+        <img csr={ciclismo} alt='' />
       </picture>
     </div>
-    <div>
+    <div className='carouselImage'>
       <picture>
         <source srcSet={boxeowebp} type='image/webp' />
         <source srcSet={boxeo} type='image/jpeg' />
-        <img className='image' csr={boxeo} alt='' />
+        <img csr={boxeo} alt='' />
       </picture>
     </div>
-    <div>
+    <div className='carouselImage'>
       <picture>
         <source srcSet={zumbawebp} type='image/webp' />
         <source srcSet={zumba} type='image/jpeg' />
-        <img className='image' csr={zumba} alt='' />
+        <img csr={zumba} alt='' />
       </picture>
     </div>
 
-    <div>
+    <div className='carouselImage'>
       <picture>
         <source srcSet={veterinariawebp} type='image/webp' />
         <source srcSet={veterinaria} type='image/jpeg' />
-        <img className='image' csr={veterinaria} alt='' />
+        <img csr={veterinaria} alt='' />
       </picture>
     </div>
-    <div>
+    <div className='carouselImage'>
       <Link to='/saludCarousel'>
-        <img className='image' src={quinta} alt='' />
+        <img src={quinta} alt='' />
       </Link>
     </div>
-    <div>
+    <div className='carouselImage'>
       <a href={juzgado}>
         <picture>
           <source srcSet={sextawebp} type='image/webp' />
           <source srcSet={sexta} type='image/jpeg' />
-          <img className='image' csr={sexta} alt='' />
+          <img csr={sexta} alt='' />
         </picture>
       </a>
     </div>
-    <div>
+    <div className='carouselImage'>
       <a href={pdfMuni}>
-        <img className='image' src={septima} alt='' />
+        <img src={septima} alt='' />
       </a>
     </div>
-    <div>
+    <div className='carouselImage'>
       <a href={calendariobasura}>
         <picture>
           <source srcSet={octavawebp} type='image/webp' />
           <source srcSet={octava} type='image/jpeg' />
-          <img className='image' csr={octava} alt='' />
+          <img csr={octava} alt='' />
         </picture>
       </a>
     </div>
-    <div>
+    <div className='carouselImage'>
       <a href={cuenta2019}>
         <picture>
           <source srcSet={novenawebp} type='image/webp' />
           <source srcSet={novena} type='image/jpeg' />
-          <img className='image' csr={novena} alt='' />
+          <img csr={novena} alt='' />
         </picture>
       </a>
     </div>
-    <div>
+    <div className='carouselImage'>
       <a href='tel:+56988698591'>
         <picture>
           <source srcSet={phonewebp} type='image/webp' />
           <source srcSet={phone} type='image/jpeg' />
-          <img className='image' csr={phone} alt='' />
+          <img csr={phone} alt='' />
         </picture>
       </a>
     </div>
-    <div>
+    <div className='carouselImage'>
       <a href='tel:+56332280339'>
         <picture>
           <source srcSet={decimoprimerawebp} type='image/webp' />
           <source srcSet={decimoprimera} type='image/jpeg' />
-          <img className='image' csr={decimoprimera} alt='' />
+          <img csr={decimoprimera} alt='' />
         </picture>
       </a>
     </div>

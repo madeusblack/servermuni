@@ -1,34 +1,27 @@
 
-.image{
-    margin-top:4px;
-    height: 55vh;
-    width: 100%;
-    background-color: blanchedalmond;
+.carousell{
+    height: 500px;
+    margin: 5px;
 }
-.imagesvg{
-    margin: 0;
-    margin-top:4px;
-    height: 55vh;
+.carouselImage{
     width: 100%;
-}
-
-.carrousell{
-    margin-left: 5px;
-    display: flex;
-    height: 55vh;
-    width: 100%;
-}
-
-@media (max-width: 800px) {
-    .carrousell{
-        height: 60vh;
-        width:100%;
+    img{
+        width: 100%;
     }
+    picture{
+        width: 100%;
+    }
+    a{
+        width: 100%;
 
-    .image{
-        height: 60vh;
+    }
+}
+@media (max-width: 800px) {
+    .carousell{
+        margin-top: 2em;
+        height: 220px;
         width:100%;
-
+        margin-bottom: 2em;
     }
 
 }
