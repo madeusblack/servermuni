@@ -14,8 +14,8 @@ import tai from '../../assets/static/header/tai.png';
 import taiwebp from '../../assets/static/header/tai.webp';
 import comisaria from '../../assets/static/header/comisaria.jpg';
 import comisariawebp from '../../assets/static/header/comisaria.webp';
-import pasoapaso from '../../assets/static/header/pasoapaso.png';
-import pasoapasowebp from '../../assets/static/header/pasoapaso.webp';
+import estadoCovid from '../../assets/static/header/estadoCovid1.jpeg';
+import estadoCovidwebp from '../../assets/static/header/estadoCovid1.webp';
 import LinksServicios from './LinksServicios';
 import emergencia from '../../assets/static/header/emergencia.png';
 import emergenciawebp from '../../assets/static/header/emergencia.webp';
@@ -34,9 +34,9 @@ const Header = () => (
       <div className={styles.lowerRight}>
         <Link to='/pasoapaso'>
           <picture>
-            <source srcSet={pasoapasowebp} type='image/webp' />
-            <source srcSet={pasoapaso} type='image/png' />
-            <img className={styles.headerLink} csr={pasoapaso} alt='Estado comuna paso a paso' />
+            <source srcSet={estadoCovidwebp} type='image/webp' />
+            <source srcSet={estadoCovid} type='image/jpeg' />
+            <img className={styles.headerLink} csr={estadoCovid} alt='Estado comuna paso a paso' />
           </picture>
         </Link>
         <a target='_blank' rel='noopener noreferrer' href='https://comisariavirtual.cl/'>
