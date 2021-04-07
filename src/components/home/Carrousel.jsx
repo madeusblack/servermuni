@@ -33,12 +33,11 @@ import zumbawebp from '../../assets/static/carousel/zumba.webp';
 import censoemergenciawebp from '../../assets/static/carousel/censoemergencia.webp';
 import censoemergencia from '../../assets/static/carousel/censoemergencia.jpg';
 import censovideo from '../../assets/static/carousel/censo.mp4';
-import aviso from '../../assets/static/carousel/aviso.png';
-import avisowebp from '../../assets/static/carousel/aviso.webp';
-import avisoAseo from '../../assets/static/carousel/avisoAseo.svg';
 import becadetalle from '../../assets/static/carousel/becadetalle.jpg';
 import beca2021 from '../../assets/static/carousel/beca2021.jpg';
 import beca2021webp from '../../assets/static/carousel/beca2021.webp';
+import influenza from '../../assets/static/carousel/influenza.jpeg';
+import influenzawebp from '../../assets/static/carousel/influenza.webp';
 
 const AutoplaySlider = withAutoplay(AwesomeSlider);
 
@@ -50,6 +49,13 @@ const Carrousel = () => (
     interval={9000}
   >
     <div className='carouselImage'>
+      <picture>
+        <source srcSet={influenzawebp} type='image/webp' />
+        <source srcSet={influenza} type='image/jpeg' />
+        <img csr={influenza} alt='' />
+      </picture>
+    </div>
+    <div className='carouselImage'>
       <a href={becadetalle} target='_blank' rel='noopener noreferrer'>
         <picture>
           <source srcSet={beca2021webp} type='image/webp' />
@@ -57,16 +63,6 @@ const Carrousel = () => (
           <img csr={beca2021} alt='' />
         </picture>
       </a>
-    </div>
-    <div className='carouselImage'>
-      <img src={avisoAseo} alt='' />
-    </div>
-    <div className='carouselImage'>
-      <picture>
-        <source srcSet={avisowebp} type='image/webp' />
-        <source srcSet={aviso} type='image/jpeg' />
-        <img csr={aviso} alt='' />
-      </picture>
     </div>
     <div className='carouselImage'>
       <a href={censovideo} target='_blank' rel='noopener noreferrer'>

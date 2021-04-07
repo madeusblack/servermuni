@@ -19,8 +19,6 @@ import estadoCovidwebp from '../../assets/static/header/estadoCovid1.webp';
 import LinksServicios from './LinksServicios';
 import emergencia from '../../assets/static/header/emergencia.png';
 import emergenciawebp from '../../assets/static/header/emergencia.webp';
-import circulacionwebp from '../../assets/static/header/circulacion.webp';
-import circulacion from '../../assets/static/header/circulacion.jpg';
 
 const Header = () => (
   <div className={styles.headerContainer}>
@@ -121,13 +119,6 @@ const Header = () => (
         <a target='_blank' rel='noopener noreferrer' href='http://site.saludnogales.cl/'>SALUD</a>
       </div>
     </div>
-    <a className={styles.bannerCirculacion} aria-label='Pago permisos de circulacion' rel='noopener noreferrer' href='http://200.54.77.226/permisos_maestro.html'>
-      <picture>
-        <source srcSet={circulacionwebp} type='image/webp' />
-        <source srcSet={circulacion} type='image/jpg' />
-        <img className={styles.headerCirculacion} csr={circulacion} alt='Estado comuna paso a paso' />
-      </picture>
-    </a>
   </div>
 );
 export default Header;
