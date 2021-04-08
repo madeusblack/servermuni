@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.ef97ccd1.chunk.css",
-    "main.js": "/static/js/main.a649af50.chunk.js",
-    "main.js.map": "/static/js/main.a649af50.chunk.js.map",
+    "main.js": "/static/js/main.b1ffd31a.chunk.js",
+    "main.js.map": "/static/js/main.b1ffd31a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f89ce7e4.js",
     "runtime-main.js.map": "/static/js/runtime-main.f89ce7e4.js.map",
     "static/css/2.34b29efe.chunk.css": "/static/css/2.34b29efe.chunk.css",
@@ -78,6 +78,8 @@
     "static/media/cuenta1.bff413f4.jpg": "/static/media/cuenta1.bff413f4.jpg",
     "static/media/cuentapublica.6ac0f9b2.jpg": "/static/media/cuentapublica.6ac0f9b2.jpg",
     "static/media/cuentapublica.921fcd27.webp": "/static/media/cuentapublica.921fcd27.webp",
+    "static/media/decreto.82a8c84d.webp": "/static/media/decreto.82a8c84d.webp",
+    "static/media/decreto.b6cbcda9.pdf": "/static/media/decreto.b6cbcda9.pdf",
     "static/media/donacelu.a5cf98cf.webp": "/static/media/donacelu.a5cf98cf.webp",
     "static/media/donacelu.b79fcc25.jpg": "/static/media/donacelu.b79fcc25.jpg",
     "static/media/emergencia.2f2f1e2a.webp": "/static/media/emergencia.2f2f1e2a.webp",
@@ -201,6 +203,6 @@
     "static/css/2.34b29efe.chunk.css",
     "static/js/2.6cdea4af.chunk.js",
     "static/css/main.ef97ccd1.chunk.css",
-    "static/js/main.a649af50.chunk.js"
+    "static/js/main.b1ffd31a.chunk.js"
   ]
 }

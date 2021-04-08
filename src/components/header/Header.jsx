@@ -19,6 +19,9 @@ import estadoCovidwebp from '../../assets/static/header/estadoCovid1.webp';
 import LinksServicios from './LinksServicios';
 import emergencia from '../../assets/static/header/emergencia.png';
 import emergenciawebp from '../../assets/static/header/emergencia.webp';
+import decreto from '../../assets/static/header/decreto.jpeg';
+import decretowebp from '../../assets/static/header/decreto.webp';
+import decretopdf from '../../assets/static/header/decreto.pdf';
 
 const Header = () => (
   <div className={styles.headerContainer}>
@@ -30,6 +33,13 @@ const Header = () => (
         </Link>
       </div>
       <div className={styles.lowerRight}>
+        <a target='_blank' rel='noopener noreferrer' href={decretopdf}>
+          <picture>
+            <source srcSet={decretowebp} type='image/webp' />
+            <source srcSet={decreto} type='image/jpeg' />
+            <img className={styles.headerLink} csr={decreto} alt='comisaria virtual' />
+          </picture>
+        </a>
         <Link to='/pasoapaso'>
           <picture>
             <source srcSet={estadoCovidwebp} type='image/webp' />
