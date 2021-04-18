@@ -2,9 +2,11 @@
 .carousell{
     height: 500px;
     margin: 5px;
+    background-color: white;
 }
 .carouselImage{
     width: 100%;
+    background-color: white;
     img{
         width: 100%;
     }
@@ -16,6 +18,8 @@
 
     }
 }
+
+
 @media (max-width: 800px) {
     .carousell{
         margin-top: 2em;

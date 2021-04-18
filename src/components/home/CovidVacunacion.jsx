@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from '../../assets/styles/CovidVacunacion.module.css';
-import covid from '../../assets/static/Covid/covid.jpeg';
+import covid from '../../assets/static/Covid/covid.png';
 import covidwebp from '../../assets/static/Covid/covid.webp';
 
 const CovidVacunacion = () => (

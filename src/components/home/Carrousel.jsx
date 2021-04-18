@@ -36,7 +36,7 @@ import censovideo from '../../assets/static/carousel/censo.mp4';
 import becadetalle from '../../assets/static/carousel/becadetalle.jpg';
 import beca2021 from '../../assets/static/carousel/beca2021.jpg';
 import beca2021webp from '../../assets/static/carousel/beca2021.webp';
-import influenza from '../../assets/static/Covid/influenza.jpeg';
+import influenza from '../../assets/static/Covid/influenza.png';
 import influenzawebp from '../../assets/static/Covid/influenza.webp';
 
 const AutoplaySlider = withAutoplay(AwesomeSlider);
