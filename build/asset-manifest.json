@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.48ef5dc1.chunk.css",
-    "main.js": "/static/js/main.5340fe49.chunk.js",
-    "main.js.map": "/static/js/main.5340fe49.chunk.js.map",
+    "main.js": "/static/js/main.d256adfd.chunk.js",
+    "main.js.map": "/static/js/main.d256adfd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f89ce7e4.js",
     "runtime-main.js.map": "/static/js/runtime-main.f89ce7e4.js.map",
     "static/css/2.34b29efe.chunk.css": "/static/css/2.34b29efe.chunk.css",
@@ -104,8 +104,8 @@
     "static/media/hospitalAlcaldesa.mp3": "/static/media/hospitalAlcaldesa.688331b0.mp3",
     "static/media/ine.15f9bc99.png": "/static/media/ine.15f9bc99.png",
     "static/media/ine.8931958e.webp": "/static/media/ine.8931958e.webp",
-    "static/media/influenza.22d4323a.png": "/static/media/influenza.22d4323a.png",
-    "static/media/influenza.ab69675c.webp": "/static/media/influenza.ab69675c.webp",
+    "static/media/influenza.3dbf5fd3.png": "/static/media/influenza.3dbf5fd3.png",
+    "static/media/influenza.afad3308.webp": "/static/media/influenza.afad3308.webp",
     "static/media/instagram.787b1447.svg": "/static/media/instagram.787b1447.svg",
     "static/media/jefasdehogar.af512853.webp": "/static/media/jefasdehogar.af512853.webp",
     "static/media/jefeuap.d2dbf3f4.pdf": "/static/media/jefeuap.d2dbf3f4.pdf",
@@ -203,6 +203,6 @@
     "static/css/2.34b29efe.chunk.css",
     "static/js/2.6cdea4af.chunk.js",
     "static/css/main.48ef5dc1.chunk.css",
-    "static/js/main.5340fe49.chunk.js"
+    "static/js/main.d256adfd.chunk.js"
   ]
 }
