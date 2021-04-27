@@ -33,7 +33,7 @@ const LinksServicios = ({ tipo }) => {
     case 'beneficios':
       return (
         <div className={styles.dropdown}>
-          <span className={styles.services}>BENEFICIOS</span>
+          <span className={styles.services}>BENEFICIOS SOCIALES</span>
           <div className={styles.dropdownContent}>
             <Link className={styles.dropdownLink} to='/retiroafp'>RETIRO 10% AFP</Link>
             <a className={styles.dropdownLink} href='http://www.sii.cl/destacados/medidas_clasemedia/index.html' target='_blank' rel='noopener noreferrer'>BONO CLASE MEDIA</a>

@@ -2,6 +2,7 @@
     --base-color:#eeffe8 ;
     --font-color:#1f271b;
     --hover-color:#9FC2CC;
+    --banner-color:#74c69d;
   }
 *{
     -webkit-font-smoothing: antialiased;
@@ -67,7 +68,6 @@ html,body{
 
 }
 .headerLink{
-    
     width: 100%;
 }
 .headerLink:hover{
@@ -78,12 +78,12 @@ html,body{
 .lowerHeader{
     box-sizing: border-box;
     display: flex;
+    background-color: var(--banner-color);
     flex-wrap: wrap;
     justify-content: space-between;
 }
 .lowerHeader a{
     text-decoration: none;
-
     color:var(--font-color);
     line-height: 2.2em;
     padding: 10px;
@@ -91,7 +91,7 @@ html,body{
     font-size: larger;
 }
 .lowerHeader a:hover{
-    border-radius: 15px;
+    text-decoration: underline;
     background-color:var(--hover-color) ;
 }
 
