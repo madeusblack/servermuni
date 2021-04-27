@@ -37,7 +37,7 @@ export default function Posts() {
         {posts &&
           posts.length &&
           posts.map((post, index) => {
-            const date = moment().utc(post.date).format('ll');
+            const date = moment(post.date).format('ll');
             return (
               <Link key={`link-${post.id}`} className={classes.newsText} to={`/post/${post.id}`}>
                 <div key={post.id} className={classes.postContainer}>
