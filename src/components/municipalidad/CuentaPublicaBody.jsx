@@ -3,6 +3,7 @@
 import React from 'react';
 import pdfImg from '../../assets/static/PDF.svg';
 import Cuenta from '../../assets/static/municipalidad/cuenta1.jpg';
+import Cuenta2020 from '../../assets/static/header/cuenta2020.pdf';
 import Cuenta2019 from '../../assets/static/pdf/cuenta publica/cp19.pdf';
 import Cuenta2018 from '../../assets/static/pdf/cuenta publica/cp18.pdf';
 import Cuenta2017 from '../../assets/static/pdf/cuenta publica/cp17.pdf';
@@ -28,6 +29,10 @@ const CuentaPublicaBody = () => (
       Municipalidad de Nogales
     </h3>
     <div className={styles.cuentaPublicaMainContainer}>
+      <a name='2020' href={Cuenta2020}>
+        <img src={pdfImg} alt='' />
+        2020
+      </a>
       <a name='2019' href={Cuenta2019}>
         <img src={pdfImg} alt='' />
         2019
