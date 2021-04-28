@@ -61,14 +61,13 @@ html,body{
 .lowerRight{
     display: flex;
     margin-right:1em;
-    justify-content: flex-end;
 }
 .lowerRight a{
-    margin: 1em 0.2em 2em 0.2em;
-
+    height: 80px;
+    margin: 10px 0.2em;
 }
 .headerLink{
-    width: 100%;
+    height: 35px;
 }
 .headerLink:hover{
     -webkit-filter: brightness(110%) saturate(150%);

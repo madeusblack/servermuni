@@ -22,6 +22,9 @@ import emergenciawebp from '../../assets/static/header/emergencia.webp';
 import decreto from '../../assets/static/header/decreto.jpeg';
 import decretowebp from '../../assets/static/header/decreto.webp';
 import decretopdf from '../../assets/static/header/decreto.pdf';
+import cuenta2020 from '../../assets/static/header/cuenta2020.jpeg';
+import cuenta2020webp from '../../assets/static/header/cuenta2020.webp';
+import cuenta2020pdf from '../../assets/static/header/cuenta2020.pdf';
 
 const Header = () => (
   <div className={styles.headerContainer}>
@@ -33,6 +36,13 @@ const Header = () => (
         </Link>
       </div>
       <div className={styles.lowerRight}>
+        <a target='_blank' rel='noopener noreferrer' href={cuenta2020pdf}>
+          <picture>
+            <source srcSet={cuenta2020webp} type='image/webp' />
+            <source srcSet={cuenta2020} type='image/jpeg' />
+            <img className={styles.headerLink} csr={cuenta2020} alt='comisaria virtual' />
+          </picture>
+        </a>
         <a target='_blank' rel='noopener noreferrer' href={decretopdf}>
           <picture>
             <source srcSet={decretowebp} type='image/webp' />

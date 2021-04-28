@@ -12,14 +12,11 @@ import sextawebp from '../../assets/static/carousel/120.webp';
 import septima from '../../assets/static/carousel/121.png';
 import octava from '../../assets/static/carousel/122.jpg';
 import octavawebp from '../../assets/static/carousel/122.webp';
-import novena from '../../assets/static/carousel/123.jpg';
-import novenawebp from '../../assets/static/carousel/123.webp';
 import decimoprimera from '../../assets/static/carousel/1.jpg';
 import decimoprimerawebp from '../../assets/static/carousel/1.webp';
 import juzgado from '../../assets/static/pdf/carousel/jpl.pdf';
 import pdfMuni from '../../assets/static/pdf/carousel/covidmunicipal.pdf';
 import calendariobasura from '../../assets/static/pdf/carousel/basura.jpg';
-import cuenta2019 from '../../assets/static/pdf/cuenta publica/cp19.pdf';
 import veterinaria from '../../assets/static/carousel/veterinaria.jpg';
 import veterinariawebp from '../../assets/static/carousel/veterinaria.webp';
 import atletismo from '../../assets/static/carousel/atletismo.jpg';
@@ -38,6 +35,9 @@ import beca2021 from '../../assets/static/carousel/beca2021.jpg';
 import beca2021webp from '../../assets/static/carousel/beca2021.webp';
 import influenza from '../../assets/static/Covid/influenza.png';
 import influenzawebp from '../../assets/static/Covid/influenza.webp';
+import cuenta2020 from '../../assets/static/header/cuentabanner.jpeg';
+import cuenta2020webp from '../../assets/static/header/cuentabanner.webp';
+import cuenta2020pdf from '../../assets/static/header/cuenta2020.pdf';
 
 const AutoplaySlider = withAutoplay(AwesomeSlider);
 
@@ -48,6 +48,15 @@ const Carrousel = () => (
     cancelOnInteraction={true}
     interval={9000}
   >
+    <div className='carouselImage'>
+      <a href={cuenta2020pdf} target='_blank' rel='noopener noreferrer'>
+        <picture>
+          <source srcSet={cuenta2020webp} type='image/webp' />
+          <source srcSet={cuenta2020} type='image/jpeg' />
+          <img csr={cuenta2020} alt='' />
+        </picture>
+      </a>
+    </div>
     <div className='carouselImage'>
       <picture>
         <source srcSet={influenzawebp} type='image/webp' />
@@ -134,15 +143,6 @@ const Carrousel = () => (
           <source srcSet={octavawebp} type='image/webp' />
           <source srcSet={octava} type='image/jpeg' />
           <img csr={octava} alt='' />
-        </picture>
-      </a>
-    </div>
-    <div className='carouselImage'>
-      <a href={cuenta2019}>
-        <picture>
-          <source srcSet={novenawebp} type='image/webp' />
-          <source srcSet={novena} type='image/jpeg' />
-          <img csr={novena} alt='' />
         </picture>
       </a>
     </div>
