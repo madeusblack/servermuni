@@ -33,11 +33,13 @@ import censovideo from '../../assets/static/carousel/censo.mp4';
 import becadetalle from '../../assets/static/carousel/becadetalle.jpg';
 import beca2021 from '../../assets/static/carousel/beca2021.jpg';
 import beca2021webp from '../../assets/static/carousel/beca2021.webp';
-import influenza from '../../assets/static/Covid/influenza.png';
-import influenzawebp from '../../assets/static/Covid/influenza.webp';
 import cuenta2020 from '../../assets/static/header/cuentabanner.jpeg';
 import cuenta2020webp from '../../assets/static/header/cuentabanner.webp';
 import cuenta2020pdf from '../../assets/static/header/cuenta2020.pdf';
+import influenza from '../../assets/static/Covid/influenza.png';
+import influenzawebp from '../../assets/static/Covid/influenza.webp';
+import bonoInvierno from '../../assets/static/carousel/bonoInvierno.jpg';
+import bonoInviernowebp from '../../assets/static/carousel/bonoInvierno.webp';
 
 const AutoplaySlider = withAutoplay(AwesomeSlider);
 
@@ -49,6 +51,20 @@ const Carrousel = () => (
     interval={9000}
   >
     <div className='carouselImage'>
+      <picture>
+        <source srcSet={bonoInviernowebp} type='image/webp' />
+        <source srcSet={bonoInvierno} type='image/jpeg' />
+        <img csr={bonoInvierno} alt='' />
+      </picture>
+    </div>
+    <div className='carouselImage'>
+      <picture>
+        <source srcSet={influenzawebp} type='image/webp' />
+        <source srcSet={influenza} type='image/pn g' />
+        <img csr={influenza} alt='' />
+      </picture>
+    </div>
+    <div className='carouselImage'>
       <a href={cuenta2020pdf} target='_blank' rel='noopener noreferrer'>
         <picture>
           <source srcSet={cuenta2020webp} type='image/webp' />
@@ -56,13 +72,6 @@ const Carrousel = () => (
           <img csr={cuenta2020} alt='' />
         </picture>
       </a>
-    </div>
-    <div className='carouselImage'>
-      <picture>
-        <source srcSet={influenzawebp} type='image/webp' />
-        <source srcSet={influenza} type='image/jpeg' />
-        <img csr={influenza} alt='' />
-      </picture>
     </div>
     <div className='carouselImage'>
       <a href={becadetalle} target='_blank' rel='noopener noreferrer'>
