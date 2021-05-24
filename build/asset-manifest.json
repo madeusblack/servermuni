@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.aa518704.chunk.css",
-    "main.js": "/static/js/main.1fbcf52e.chunk.js",
-    "main.js.map": "/static/js/main.1fbcf52e.chunk.js.map",
+    "main.js": "/static/js/main.658c8606.chunk.js",
+    "main.js.map": "/static/js/main.658c8606.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f89ce7e4.js",
     "runtime-main.js.map": "/static/js/runtime-main.f89ce7e4.js.map",
     "static/css/2.34b29efe.chunk.css": "/static/css/2.34b29efe.chunk.css",
@@ -65,8 +65,8 @@
     "static/media/comisaria.c3dd2e63.webp": "/static/media/comisaria.c3dd2e63.webp",
     "static/media/comprobante.f8c619b1.pdf": "/static/media/comprobante.f8c619b1.pdf",
     "static/media/comunicacion.3de96fe9.pdf": "/static/media/comunicacion.3de96fe9.pdf",
-    "static/media/covid.602d7929.webp": "/static/media/covid.602d7929.webp",
-    "static/media/covid.b768bbad.png": "/static/media/covid.b768bbad.png",
+    "static/media/covid.4893c002.webp": "/static/media/covid.4893c002.webp",
+    "static/media/covid.e2f7a3a5.png": "/static/media/covid.e2f7a3a5.png",
     "static/media/covidmunicipal.78436f1e.pdf": "/static/media/covidmunicipal.78436f1e.pdf",
     "static/media/cp13.57d6e4e6.pdf": "/static/media/cp13.57d6e4e6.pdf",
     "static/media/cp14.c505e925.pdf": "/static/media/cp14.c505e925.pdf",
@@ -106,8 +106,8 @@
     "static/media/hospitalAlcaldesa.mp3": "/static/media/hospitalAlcaldesa.688331b0.mp3",
     "static/media/ine.15f9bc99.png": "/static/media/ine.15f9bc99.png",
     "static/media/ine.8931958e.webp": "/static/media/ine.8931958e.webp",
-    "static/media/influenza.b241819c.png": "/static/media/influenza.b241819c.png",
-    "static/media/influenza.e31e6116.webp": "/static/media/influenza.e31e6116.webp",
+    "static/media/influenza.39cbbc49.png": "/static/media/influenza.39cbbc49.png",
+    "static/media/influenza.e7bb6848.webp": "/static/media/influenza.e7bb6848.webp",
     "static/media/instagram.787b1447.svg": "/static/media/instagram.787b1447.svg",
     "static/media/jefasdehogar.af512853.webp": "/static/media/jefasdehogar.af512853.webp",
     "static/media/jefeuap.d2dbf3f4.pdf": "/static/media/jefeuap.d2dbf3f4.pdf",
@@ -152,6 +152,8 @@
     "static/media/navidad9.jpg": "/static/media/navidad9.ca97f4fb.jpg",
     "static/media/noagricolas.63fb8599.pdf": "/static/media/noagricolas.63fb8599.pdf",
     "static/media/noticiaimportante.0a096285.jpeg": "/static/media/noticiaimportante.0a096285.jpeg",
+    "static/media/omc.1a3af99e.jpg": "/static/media/omc.1a3af99e.jpg",
+    "static/media/omc.ffd98bf8.webp": "/static/media/omc.ffd98bf8.webp",
     "static/media/omil.e538805a.webp": "/static/media/omil.e538805a.webp",
     "static/media/pagaonline.abf362da.webp": "/static/media/pagaonline.abf362da.webp",
     "static/media/pagaonline.bac80930.jpeg": "/static/media/pagaonline.bac80930.jpeg",
@@ -205,6 +207,6 @@
     "static/css/2.34b29efe.chunk.css",
     "static/js/2.7f42dfd8.chunk.js",
     "static/css/main.aa518704.chunk.css",
-    "static/js/main.1fbcf52e.chunk.js"
+    "static/js/main.658c8606.chunk.js"
   ]
 }

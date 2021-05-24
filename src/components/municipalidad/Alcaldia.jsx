@@ -22,7 +22,8 @@ const Alcaldia = () => (
     </div>
     <div className={styles.bottomParraph}>
       <h3>Trayectoria</h3>
-      <p>2016-2020    1º PERÍODO COMO ALCALDESA DE LA MUNICIPALIDAD DE NOGALES</p>
+      <p>2016-2021    1º PERÍODO COMO ALCALDESA DE LA MUNICIPALIDAD DE NOGALES</p>
+      <p>2021-2026    2º PERÍODO COMO ALCALDESA DE LA MUNICIPALIDAD DE NOGALES</p>
     </div>
   </div>
 );

@@ -40,6 +40,8 @@ import influenza from '../../assets/static/Covid/influenza.png';
 import influenzawebp from '../../assets/static/Covid/influenza.webp';
 import bonoInvierno from '../../assets/static/carousel/bonoInvierno.jpg';
 import bonoInviernowebp from '../../assets/static/carousel/bonoInvierno.webp';
+import omc from '../../assets/static/carousel/omc.jpg';
+import omcwebp from '../../assets/static/carousel/omc.webp';
 
 const AutoplaySlider = withAutoplay(AwesomeSlider);
 
@@ -50,6 +52,13 @@ const Carrousel = () => (
     cancelOnInteraction={true}
     interval={9000}
   >
+    <div className='carouselImage'>
+      <picture>
+        <source srcSet={omcwebp} type='image/webp' />
+        <source srcSet={omc} type='image/jpeg' />
+        <img csr={omc} alt='' />
+      </picture>
+    </div>
     <div className='carouselImage'>
       <picture>
         <source srcSet={bonoInviernowebp} type='image/webp' />
