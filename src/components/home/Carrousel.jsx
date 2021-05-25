@@ -42,6 +42,8 @@ import bonoInvierno from '../../assets/static/carousel/bonoInvierno.jpg';
 import bonoInviernowebp from '../../assets/static/carousel/bonoInvierno.webp';
 import omc from '../../assets/static/carousel/omc.jpg';
 import omcwebp from '../../assets/static/carousel/omc.webp';
+import feria from '../../assets/static/carousel/feria.jpg';
+import feriawebp from '../../assets/static/carousel/feria.webp';
 
 const AutoplaySlider = withAutoplay(AwesomeSlider);
 
@@ -52,6 +54,15 @@ const Carrousel = () => (
     cancelOnInteraction={true}
     interval={9000}
   >
+    <div className='carouselImage'>
+      <a href='https://www.sercotec.cl/ferias-libres/' target='_blank' rel='noopener noreferrer'>
+        <picture>
+          <source srcSet={feriawebp} type='image/webp' />
+          <source srcSet={feria} type='image/jpeg' />
+          <img csr={feria} alt='' />
+        </picture>
+      </a>
+    </div>
     <div className='carouselImage'>
       <picture>
         <source srcSet={omcwebp} type='image/webp' />
