@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.225f3e7d.chunk.css",
-    "main.js": "/static/js/main.7fc9c370.chunk.js",
-    "main.js.map": "/static/js/main.7fc9c370.chunk.js.map",
+    "main.js": "/static/js/main.e51ebc2f.chunk.js",
+    "main.js.map": "/static/js/main.e51ebc2f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f89ce7e4.js",
     "runtime-main.js.map": "/static/js/runtime-main.f89ce7e4.js.map",
     "static/css/2.34b29efe.chunk.css": "/static/css/2.34b29efe.chunk.css",
@@ -59,8 +59,6 @@
     "static/media/chileatiende.5d7f30c1.webp": "/static/media/chileatiende.5d7f30c1.webp",
     "static/media/ciclismo.01f3c2e5.webp": "/static/media/ciclismo.01f3c2e5.webp",
     "static/media/ciclismo.aafacc70.jpg": "/static/media/ciclismo.aafacc70.jpg",
-    "static/media/clasesonline.c7d7c2bc.jpg": "/static/media/clasesonline.c7d7c2bc.jpg",
-    "static/media/clasesonline.d77f3a62.webp": "/static/media/clasesonline.d77f3a62.webp",
     "static/media/comisaria.a7a36bfe.jpg": "/static/media/comisaria.a7a36bfe.jpg",
     "static/media/comisaria.c3dd2e63.webp": "/static/media/comisaria.c3dd2e63.webp",
     "static/media/comprobante.f8c619b1.pdf": "/static/media/comprobante.f8c619b1.pdf",
@@ -169,6 +167,8 @@
     "static/media/quieromibarrio5.jpg": "/static/media/quieromibarrio5.4094e47c.jpg",
     "static/media/quieromibarrio6.jpg": "/static/media/quieromibarrio6.36aefad2.jpg",
     "static/media/quieromibarriomini.jpg": "/static/media/quieromibarriomini.4094e47c.jpg",
+    "static/media/remate.a0bf0a5a.jpg": "/static/media/remate.a0bf0a5a.jpg",
+    "static/media/remate.fdd4e450.webp": "/static/media/remate.fdd4e450.webp",
     "static/media/residuos.1bbd94e4.jpg": "/static/media/residuos.1bbd94e4.jpg",
     "static/media/residuos.f2d3488a.webp": "/static/media/residuos.f2d3488a.webp",
     "static/media/resolucion.78b400c0.pdf": "/static/media/resolucion.78b400c0.pdf",
@@ -209,6 +209,6 @@
     "static/css/2.34b29efe.chunk.css",
     "static/js/2.7f42dfd8.chunk.js",
     "static/css/main.225f3e7d.chunk.css",
-    "static/js/main.7fc9c370.chunk.js"
+    "static/js/main.e51ebc2f.chunk.js"
   ]
 }
