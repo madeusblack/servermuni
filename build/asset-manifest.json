@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.225f3e7d.chunk.css",
-    "main.js": "/static/js/main.e51ebc2f.chunk.js",
-    "main.js.map": "/static/js/main.e51ebc2f.chunk.js.map",
+    "main.js": "/static/js/main.43a20194.chunk.js",
+    "main.js.map": "/static/js/main.43a20194.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f89ce7e4.js",
     "runtime-main.js.map": "/static/js/runtime-main.f89ce7e4.js.map",
     "static/css/2.34b29efe.chunk.css": "/static/css/2.34b29efe.chunk.css",
@@ -45,13 +45,14 @@
     "static/media/atletismo.67d6362a.webp": "/static/media/atletismo.67d6362a.webp",
     "static/media/atletismo.93846912.jpg": "/static/media/atletismo.93846912.jpg",
     "static/media/basura.d1dc8d63.jpg": "/static/media/basura.d1dc8d63.jpg",
-    "static/media/beca2021.7ce1ae4d.webp": "/static/media/beca2021.7ce1ae4d.webp",
-    "static/media/beca2021.dd81736f.jpg": "/static/media/beca2021.dd81736f.jpg",
-    "static/media/becadetalle.c0a810a4.jpg": "/static/media/becadetalle.c0a810a4.jpg",
     "static/media/bonoInvierno.5231051e.webp": "/static/media/bonoInvierno.5231051e.webp",
     "static/media/bonoInvierno.71aa60ff.jpg": "/static/media/bonoInvierno.71aa60ff.jpg",
     "static/media/boxeo.4f3b9e6a.jpg": "/static/media/boxeo.4f3b9e6a.jpg",
     "static/media/boxeo.a915b5d1.webp": "/static/media/boxeo.a915b5d1.webp",
+    "static/media/cachureos1.5f4e3af6.jpeg": "/static/media/cachureos1.5f4e3af6.jpeg",
+    "static/media/cachureos1.f74e408a.webp": "/static/media/cachureos1.f74e408a.webp",
+    "static/media/cachureos2.4068d402.webp": "/static/media/cachureos2.4068d402.webp",
+    "static/media/cachureos2.ebe4538c.jpeg": "/static/media/cachureos2.ebe4538c.jpeg",
     "static/media/censo.b7b0c9f5.mp4": "/static/media/censo.b7b0c9f5.mp4",
     "static/media/censoComunalAlcaldesa.mp3": "/static/media/censoComunalAlcaldesa.c2ca29ac.mp3",
     "static/media/censoemergencia.588afd9b.jpg": "/static/media/censoemergencia.588afd9b.jpg",
@@ -195,8 +196,6 @@
     "static/media/uldaCentenario.jpg": "/static/media/uldaCentenario.6847dfc1.jpg",
     "static/media/valeriaferiapoligono.mp3": "/static/media/valeriaferiapoligono.247fb410.mp3",
     "static/media/valida.bc7459aa.webp": "/static/media/valida.bc7459aa.webp",
-    "static/media/veterinaria.0902bc8a.jpg": "/static/media/veterinaria.0902bc8a.jpg",
-    "static/media/veterinaria.a065a3bb.webp": "/static/media/veterinaria.a065a3bb.webp",
     "static/media/viviendasPiraino.mp3": "/static/media/viviendasPiraino.ea9730a7.mp3",
     "static/media/youtube.62ac5690.jpg": "/static/media/youtube.62ac5690.jpg",
     "static/media/youtube.8508bbf2.svg": "/static/media/youtube.8508bbf2.svg",
@@ -209,6 +208,6 @@
     "static/css/2.34b29efe.chunk.css",
     "static/js/2.7f42dfd8.chunk.js",
     "static/css/main.225f3e7d.chunk.css",
-    "static/js/main.e51ebc2f.chunk.js"
+    "static/js/main.43a20194.chunk.js"
   ]
 }

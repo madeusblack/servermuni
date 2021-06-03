@@ -17,8 +17,6 @@ import decimoprimerawebp from '../../assets/static/carousel/1.webp';
 import juzgado from '../../assets/static/pdf/carousel/jpl.pdf';
 import pdfMuni from '../../assets/static/pdf/carousel/covidmunicipal.pdf';
 import calendariobasura from '../../assets/static/pdf/carousel/basura.jpg';
-import veterinaria from '../../assets/static/carousel/veterinaria.jpg';
-import veterinariawebp from '../../assets/static/carousel/veterinaria.webp';
 import atletismo from '../../assets/static/carousel/atletismo.jpg';
 import atletismowebp from '../../assets/static/carousel/atletismo.webp';
 import boxeo from '../../assets/static/carousel/boxeo.jpg';
@@ -30,9 +28,6 @@ import zumbawebp from '../../assets/static/carousel/zumba.webp';
 import censoemergenciawebp from '../../assets/static/carousel/censoemergencia.webp';
 import censoemergencia from '../../assets/static/carousel/censoemergencia.jpg';
 import censovideo from '../../assets/static/carousel/censo.mp4';
-import becadetalle from '../../assets/static/carousel/becadetalle.jpg';
-import beca2021 from '../../assets/static/carousel/beca2021.jpg';
-import beca2021webp from '../../assets/static/carousel/beca2021.webp';
 import cuenta2020 from '../../assets/static/header/cuentabanner.jpeg';
 import cuenta2020webp from '../../assets/static/header/cuentabanner.webp';
 import cuenta2020pdf from '../../assets/static/header/cuenta2020.pdf';
@@ -44,6 +39,10 @@ import omc from '../../assets/static/carousel/omc.jpg';
 import omcwebp from '../../assets/static/carousel/omc.webp';
 import feria from '../../assets/static/carousel/feria.jpg';
 import feriawebp from '../../assets/static/carousel/feria.webp';
+import cachureos1 from '../../assets/static/carousel/cachureos1.jpeg';
+import cachureos1webp from '../../assets/static/carousel/cachureos1.webp';
+import cachureos2 from '../../assets/static/carousel/cachureos2.jpeg';
+import cachureos2webp from '../../assets/static/carousel/cachureos2.webp';
 
 const AutoplaySlider = withAutoplay(AwesomeSlider);
 
@@ -54,6 +53,20 @@ const Carrousel = () => (
     cancelOnInteraction={true}
     interval={9000}
   >
+    <div className='carouselImage'>
+      <picture>
+        <source srcSet={cachureos1webp} type='image/webp' />
+        <source srcSet={cachureos1} type='image/jpeg' />
+        <img csr={cachureos1} alt='' />
+      </picture>
+    </div>
+    <div className='carouselImage'>
+      <picture>
+        <source srcSet={cachureos2webp} type='image/webp' />
+        <source srcSet={cachureos2} type='image/jpeg' />
+        <img csr={cachureos2} alt='' />
+      </picture>
+    </div>
     <div className='carouselImage'>
       <a href='https://www.sercotec.cl/ferias-libres/' target='_blank' rel='noopener noreferrer'>
         <picture>
@@ -94,15 +107,6 @@ const Carrousel = () => (
       </a>
     </div>
     <div className='carouselImage'>
-      <a href={becadetalle} target='_blank' rel='noopener noreferrer'>
-        <picture>
-          <source srcSet={beca2021webp} type='image/webp' />
-          <source srcSet={beca2021} type='image/jpeg' />
-          <img csr={beca2021} alt='' />
-        </picture>
-      </a>
-    </div>
-    <div className='carouselImage'>
       <a href={censovideo} target='_blank' rel='noopener noreferrer'>
         <picture>
           <source srcSet={censoemergenciawebp} type='image/webp' />
@@ -137,14 +141,6 @@ const Carrousel = () => (
         <source srcSet={zumbawebp} type='image/webp' />
         <source srcSet={zumba} type='image/jpeg' />
         <img csr={zumba} alt='' />
-      </picture>
-    </div>
-
-    <div className='carouselImage'>
-      <picture>
-        <source srcSet={veterinariawebp} type='image/webp' />
-        <source srcSet={veterinaria} type='image/jpeg' />
-        <img csr={veterinaria} alt='' />
       </picture>
     </div>
     <div className='carouselImage'>
