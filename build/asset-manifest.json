@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.225f3e7d.chunk.css",
-    "main.js": "/static/js/main.43a20194.chunk.js",
-    "main.js.map": "/static/js/main.43a20194.chunk.js.map",
+    "main.js": "/static/js/main.d6a795d5.chunk.js",
+    "main.js.map": "/static/js/main.d6a795d5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f89ce7e4.js",
     "runtime-main.js.map": "/static/js/runtime-main.f89ce7e4.js.map",
     "static/css/2.34b29efe.chunk.css": "/static/css/2.34b29efe.chunk.css",
@@ -49,10 +49,10 @@
     "static/media/bonoInvierno.71aa60ff.jpg": "/static/media/bonoInvierno.71aa60ff.jpg",
     "static/media/boxeo.4f3b9e6a.jpg": "/static/media/boxeo.4f3b9e6a.jpg",
     "static/media/boxeo.a915b5d1.webp": "/static/media/boxeo.a915b5d1.webp",
-    "static/media/cachureos1.5f4e3af6.jpeg": "/static/media/cachureos1.5f4e3af6.jpeg",
-    "static/media/cachureos1.f74e408a.webp": "/static/media/cachureos1.f74e408a.webp",
-    "static/media/cachureos2.4068d402.webp": "/static/media/cachureos2.4068d402.webp",
-    "static/media/cachureos2.ebe4538c.jpeg": "/static/media/cachureos2.ebe4538c.jpeg",
+    "static/media/cachureos1.6968ff99.webp": "/static/media/cachureos1.6968ff99.webp",
+    "static/media/cachureos1.7c87c80e.jpg": "/static/media/cachureos1.7c87c80e.jpg",
+    "static/media/cachureos2.9348ab1e.webp": "/static/media/cachureos2.9348ab1e.webp",
+    "static/media/cachureos2.b8636129.jpg": "/static/media/cachureos2.b8636129.jpg",
     "static/media/censo.b7b0c9f5.mp4": "/static/media/censo.b7b0c9f5.mp4",
     "static/media/censoComunalAlcaldesa.mp3": "/static/media/censoComunalAlcaldesa.c2ca29ac.mp3",
     "static/media/censoemergencia.588afd9b.jpg": "/static/media/censoemergencia.588afd9b.jpg",
@@ -64,8 +64,8 @@
     "static/media/comisaria.c3dd2e63.webp": "/static/media/comisaria.c3dd2e63.webp",
     "static/media/comprobante.f8c619b1.pdf": "/static/media/comprobante.f8c619b1.pdf",
     "static/media/comunicacion.3de96fe9.pdf": "/static/media/comunicacion.3de96fe9.pdf",
-    "static/media/covid.310720ae.webp": "/static/media/covid.310720ae.webp",
-    "static/media/covid.ac69a8c1.png": "/static/media/covid.ac69a8c1.png",
+    "static/media/covid.1e5b1970.webp": "/static/media/covid.1e5b1970.webp",
+    "static/media/covid.74b9b25c.png": "/static/media/covid.74b9b25c.png",
     "static/media/covidmunicipal.78436f1e.pdf": "/static/media/covidmunicipal.78436f1e.pdf",
     "static/media/cp13.57d6e4e6.pdf": "/static/media/cp13.57d6e4e6.pdf",
     "static/media/cp14.c505e925.pdf": "/static/media/cp14.c505e925.pdf",
@@ -107,8 +107,8 @@
     "static/media/hospitalAlcaldesa.mp3": "/static/media/hospitalAlcaldesa.688331b0.mp3",
     "static/media/ine.15f9bc99.png": "/static/media/ine.15f9bc99.png",
     "static/media/ine.8931958e.webp": "/static/media/ine.8931958e.webp",
-    "static/media/influenza.3229cace.webp": "/static/media/influenza.3229cace.webp",
-    "static/media/influenza.a91edd1f.png": "/static/media/influenza.a91edd1f.png",
+    "static/media/influenza.3ae09eaa.webp": "/static/media/influenza.3ae09eaa.webp",
+    "static/media/influenza.ea1ce07a.png": "/static/media/influenza.ea1ce07a.png",
     "static/media/instagram.787b1447.svg": "/static/media/instagram.787b1447.svg",
     "static/media/jefasdehogar.af512853.webp": "/static/media/jefasdehogar.af512853.webp",
     "static/media/jefeuap.d2dbf3f4.pdf": "/static/media/jefeuap.d2dbf3f4.pdf",
@@ -208,6 +208,6 @@
     "static/css/2.34b29efe.chunk.css",
     "static/js/2.7f42dfd8.chunk.js",
     "static/css/main.225f3e7d.chunk.css",
-    "static/js/main.43a20194.chunk.js"
+    "static/js/main.d6a795d5.chunk.js"
   ]
 }

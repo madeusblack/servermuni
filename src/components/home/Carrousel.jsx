@@ -39,9 +39,9 @@ import omc from '../../assets/static/carousel/omc.jpg';
 import omcwebp from '../../assets/static/carousel/omc.webp';
 import feria from '../../assets/static/carousel/feria.jpg';
 import feriawebp from '../../assets/static/carousel/feria.webp';
-import cachureos1 from '../../assets/static/carousel/cachureos1.jpeg';
+import cachureos1 from '../../assets/static/carousel/cachureos1.jpg';
 import cachureos1webp from '../../assets/static/carousel/cachureos1.webp';
-import cachureos2 from '../../assets/static/carousel/cachureos2.jpeg';
+import cachureos2 from '../../assets/static/carousel/cachureos2.jpg';
 import cachureos2webp from '../../assets/static/carousel/cachureos2.webp';
 
 const AutoplaySlider = withAutoplay(AwesomeSlider);
