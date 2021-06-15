@@ -20,6 +20,16 @@
   padding-left: 10px;
 
 }
+.titleWide1{
+  background: linear-gradient(90deg, rgb(15, 25, 85) 95%, white 100%);
+  width: 100%;
+  color: white;
+  text-align: center;
+  height: 35px;
+  border-radius: 22px;
+  padding: 15px 5px;
+  padding-left: 10px;
+}
 @media (max-width: 800px) {
   .container{
       display: flex;
