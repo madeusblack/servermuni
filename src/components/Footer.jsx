@@ -16,6 +16,8 @@ const Footer = () => {
           <img className={styles.phoneImage} loading='lazy' src={phone} alt='telefonos' />
           <div className={styles.phoneNumbers}>
             <a className={styles.phone} href='tel:332262811'>33 2 262 811</a>
+            <a className={styles.phone} href='tel:332262822'>33 2 262 822</a>
+            <a className={styles.phone} href='tel:332262966'>33 2 262 966</a>
             <a className={styles.highlighted} href='mailto:alcaldia@muninogales.cl'>alcaldia@muninogales.cl</a>
           </div>
         </div>

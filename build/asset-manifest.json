@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.6d892903.chunk.css",
-    "main.js": "/static/js/main.19fd3b1a.chunk.js",
-    "main.js.map": "/static/js/main.19fd3b1a.chunk.js.map",
+    "main.css": "/static/css/main.d85e03e5.chunk.css",
+    "main.js": "/static/js/main.6ed8f987.chunk.js",
+    "main.js.map": "/static/js/main.6ed8f987.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f89ce7e4.js",
     "runtime-main.js.map": "/static/js/runtime-main.f89ce7e4.js.map",
     "static/css/2.34b29efe.chunk.css": "/static/css/2.34b29efe.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.71880c5f.chunk.js.map": "/static/js/3.71880c5f.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.34b29efe.chunk.css.map": "/static/css/2.34b29efe.chunk.css.map",
-    "static/css/main.6d892903.chunk.css.map": "/static/css/main.6d892903.chunk.css.map",
+    "static/css/main.d85e03e5.chunk.css.map": "/static/css/main.d85e03e5.chunk.css.map",
     "static/js/2.e2ff753c.chunk.js.LICENSE.txt": "/static/js/2.e2ff753c.chunk.js.LICENSE.txt",
     "static/js/3.71880c5f.chunk.js.LICENSE.txt": "/static/js/3.71880c5f.chunk.js.LICENSE.txt",
     "static/media/1.1b526fdd.mp4": "/static/media/1.1b526fdd.mp4",
@@ -74,6 +74,8 @@
     "static/media/cp17.99d79a85.pdf": "/static/media/cp17.99d79a85.pdf",
     "static/media/cp18.a5a2bfc3.pdf": "/static/media/cp18.a5a2bfc3.pdf",
     "static/media/cp19.5434e743.pdf": "/static/media/cp19.5434e743.pdf",
+    "static/media/cuarentena.48d714bf.webp": "/static/media/cuarentena.48d714bf.webp",
+    "static/media/cuarentena.6df76b3f.jpg": "/static/media/cuarentena.6df76b3f.jpg",
     "static/media/cuenta1.bff413f4.jpg": "/static/media/cuenta1.bff413f4.jpg",
     "static/media/cuenta2020.4ddfd016.webp": "/static/media/cuenta2020.4ddfd016.webp",
     "static/media/cuenta2020.c9d3d892.pdf": "/static/media/cuenta2020.c9d3d892.pdf",
@@ -90,7 +92,7 @@
     "static/media/entregarinjualcaldesa.mp3": "/static/media/entregarinjualcaldesa.f08d5bf6.mp3",
     "static/media/entregarinjuseremi.mp3": "/static/media/entregarinjuseremi.1c3e8ddc.mp3",
     "static/media/escalafon.4ae73266.pdf": "/static/media/escalafon.4ae73266.pdf",
-    "static/media/estadoCovid2.24b98273.webp": "/static/media/estadoCovid2.24b98273.webp",
+    "static/media/estadoCovid1.f847390d.webp": "/static/media/estadoCovid1.f847390d.webp",
     "static/media/feria.ad0e7933.jpg": "/static/media/feria.ad0e7933.jpg",
     "static/media/feria.e3a19955.webp": "/static/media/feria.e3a19955.webp",
     "static/media/feriapoligono.jpg": "/static/media/feriapoligono.f4cb2601.jpg",
@@ -171,8 +173,6 @@
     "static/media/quieromibarrio5.jpg": "/static/media/quieromibarrio5.4094e47c.jpg",
     "static/media/quieromibarrio6.jpg": "/static/media/quieromibarrio6.36aefad2.jpg",
     "static/media/quieromibarriomini.jpg": "/static/media/quieromibarriomini.4094e47c.jpg",
-    "static/media/remate.a0bf0a5a.jpg": "/static/media/remate.a0bf0a5a.jpg",
-    "static/media/remate.fdd4e450.webp": "/static/media/remate.fdd4e450.webp",
     "static/media/residuos.1bbd94e4.jpg": "/static/media/residuos.1bbd94e4.jpg",
     "static/media/residuos.f2d3488a.webp": "/static/media/residuos.f2d3488a.webp",
     "static/media/resolucion.78b400c0.pdf": "/static/media/resolucion.78b400c0.pdf",
@@ -210,7 +210,7 @@
     "static/js/runtime-main.f89ce7e4.js",
     "static/css/2.34b29efe.chunk.css",
     "static/js/2.e2ff753c.chunk.js",
-    "static/css/main.6d892903.chunk.css",
-    "static/js/main.19fd3b1a.chunk.js"
+    "static/css/main.d85e03e5.chunk.css",
+    "static/js/main.6ed8f987.chunk.js"
   ]
 }

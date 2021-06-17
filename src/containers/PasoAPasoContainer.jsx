@@ -2,7 +2,7 @@ import React from 'react';
 import '../assets/styles/PasoAPaso.scss';
 
 const PasoAPasoContainer = () => {
-  const estadoComuna = 2;
+  const estadoComuna = 1;
   let toReturn;
   switch (estadoComuna) {
     case 1:

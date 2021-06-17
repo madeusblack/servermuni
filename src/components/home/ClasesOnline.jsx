@@ -1,14 +1,14 @@
 import React from 'react';
 import styles from '../../assets/styles/CovidVacunacion.module.css';
-import clasesOnline from '../../assets/static/Covid/remate.jpg';
-import clasesOnlinewebp from '../../assets/static/Covid/remate.webp';
+import clasesOnline from '../../assets/static/Covid/cuarentena.jpg';
+import clasesOnlinewebp from '../../assets/static/Covid/cuarentena.webp';
 import ordenanzapdf from '../../assets/static/pdf/ordenanza.pdf';
 import ordenanza from '../../assets/static/header/ordenanza.png';
 import ordenanzawebp from '../../assets/static/header/ordenanza.webp';
 
 const ClasesOnline = () => (
   <div className={styles.container}>
-    <h5 className={styles.title}>Remate</h5>
+    <h5 className={styles.title}>Sobre Cuarentena</h5>
     <picture>
       <source srcSet={clasesOnlinewebp} type='image/webp' />
       <source srcSet={clasesOnline} type='image/jpeg' />
