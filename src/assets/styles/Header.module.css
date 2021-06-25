@@ -60,12 +60,12 @@ html,body{
 }
 .lowerRight{
     display: flex;
+    flex-wrap: wrap;
     justify-content: flex-end;
     justify-items: flex-end;
     margin-right:0.5em;
 }
 .lowerRight a{
-    height: 80px;
     margin: 10px 0.2em;
 }
 .headerLink{
@@ -119,10 +119,7 @@ html,body{
 
     }
     .lowerRight{
-        display: grid;
-        grid-template-columns: repeat(3, 31vw);
-        row-gap: 0.1em;
-        column-gap: 0.2rem;
+        flex-wrap: wrap-reverse;
         margin: 0;
     }
     .lowerRight img{
