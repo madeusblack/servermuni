@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.99b3504a.chunk.css",
-    "main.js": "/static/js/main.a096e37f.chunk.js",
-    "main.js.map": "/static/js/main.a096e37f.chunk.js.map",
+    "main.js": "/static/js/main.fba0e3da.chunk.js",
+    "main.js.map": "/static/js/main.fba0e3da.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f89ce7e4.js",
     "runtime-main.js.map": "/static/js/runtime-main.f89ce7e4.js.map",
     "static/css/2.34b29efe.chunk.css": "/static/css/2.34b29efe.chunk.css",
@@ -121,6 +121,8 @@
     "static/media/jefeuap.d2dbf3f4.pdf": "/static/media/jefeuap.d2dbf3f4.pdf",
     "static/media/jpl.6d54303d.pdf": "/static/media/jpl.6d54303d.pdf",
     "static/media/jplcovid19.377d4ae0.jpg": "/static/media/jplcovid19.377d4ae0.jpg",
+    "static/media/juramento.585bf637.jpg": "/static/media/juramento.585bf637.jpg",
+    "static/media/juramento.5aefa9df.webp": "/static/media/juramento.5aefa9df.webp",
     "static/media/licenciatura.jpg": "/static/media/licenciatura.9d907ae1.jpg",
     "static/media/licenciatura2.jpg": "/static/media/licenciatura2.f109e3a8.jpg",
     "static/media/licenciatura3.jpg": "/static/media/licenciatura3.77086cf5.jpg",
@@ -218,6 +220,6 @@
     "static/css/2.34b29efe.chunk.css",
     "static/js/2.61281558.chunk.js",
     "static/css/main.99b3504a.chunk.css",
-    "static/js/main.a096e37f.chunk.js"
+    "static/js/main.fba0e3da.chunk.js"
   ]
 }
