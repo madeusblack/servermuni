@@ -3,7 +3,7 @@
   flex-direction: column;
 }
 .NoticiaImportante{
-  padding: 0 1em;  
+  padding: 5px 1em;  
   text-align: center;
   a{
     color: black;
@@ -17,6 +17,11 @@
   }
 }
 .noticiaImportanteImagen{
+  width: 80%;
+}
+.containerActa{
+}
+.munilogo{
   width: 100%;
 }
 .highlightedTitle{

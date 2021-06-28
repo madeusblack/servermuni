@@ -1,0 +1,59 @@
+.subCuenta{
+    padding: 1em 2em;
+    display: flex;
+    flex-wrap: wrap;
+    grid-template-columns: repeat(4,1fr);
+    margin-bottom: 25px;
+}
+.title{
+    width: 100%;
+}
+.mainTitle{
+    text-align: center;
+}
+.pdf{
+    text-align: center;
+    width: 100px;
+    border-radius: 22px;
+    padding: 5px;
+    border: 3px solid gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    transition: background-color 200ms linear;
+
+
+
+}
+.pdf:hover{
+    background-color: rgb(2, 214, 186);
+    text-decoration: underline;
+    transition: background-color 200ms linear;
+}
+.pdfSalud{
+    width: 150px;
+}
+.subContainerTitle{
+    width: 100%;
+
+}
+.subContainer{
+    display: flex;
+    flex-wrap: wrap;
+    width: 90vw;
+}
+.presupuesto{
+    display: flex;
+}
+.presupuestoMainContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.pdfImg{
+    width: 45px;
+}

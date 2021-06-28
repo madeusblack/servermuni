@@ -26,6 +26,7 @@ import Emergency from '../components/header/Emergency';
 import Post from '../components/home/Post';
 import Sae from '../containers/Sae';
 import noticiaImportanteContainer from '../containers/NoticiaImportanteContainer';
+import EntregaDocumentos from '../containers/EntregaDocumentacion';
 
 const App = () => (
   <BrowserRouter>
@@ -55,6 +56,7 @@ const App = () => (
         <Route exact path='/emergencias' component={Emergency} />
         <Route exact path='/sae' component={Sae} />
         <Route exact path='/noticiaimportante' component={noticiaImportanteContainer} />
+        <Route exact path='/entregadocumentos' component={EntregaDocumentos} />
 
         <Route path='/noencontrado' component={NotFound} />
       </Switch>
