@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.53e4edd4.chunk.css",
-    "main.js": "/static/js/main.6fd65dd9.chunk.js",
-    "main.js.map": "/static/js/main.6fd65dd9.chunk.js.map",
+    "main.js": "/static/js/main.a30da335.chunk.js",
+    "main.js.map": "/static/js/main.a30da335.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d64303f0.js",
     "runtime-main.js.map": "/static/js/runtime-main.d64303f0.js.map",
     "static/css/2.34b29efe.chunk.css": "/static/css/2.34b29efe.chunk.css",
@@ -50,7 +50,7 @@
     "static/media/Pladeco 2018-2022.dc73336a.pdf": "/static/media/Pladeco 2018-2022.dc73336a.pdf",
     "static/media/Plan Comunal de Seguridad Pública 2021.4139e7db.pdf": "/static/media/Plan Comunal de Seguridad Pública 2021.4139e7db.pdf",
     "static/media/Plan Comunal de Seguridad Pública asistencia sesiones.0fcd464a.pdf": "/static/media/Plan Comunal de Seguridad Pública asistencia sesiones.0fcd464a.pdf",
-    "static/media/Presentación Acta Gestión Municipal.190b1ad5.pdf": "/static/media/Presentación Acta Gestión Municipal.190b1ad5.pdf",
+    "static/media/Presentación Acta Gestión Municipal.0e830c80.pdf": "/static/media/Presentación Acta Gestión Municipal.0e830c80.pdf",
     "static/media/Presupuesto municipal Educación año 2021.4ce8227f.pdf": "/static/media/Presupuesto municipal Educación año 2021.4ce8227f.pdf",
     "static/media/Presupuesto municipal año 2021.850f4d39.pdf": "/static/media/Presupuesto municipal año 2021.850f4d39.pdf",
     "static/media/Reglamento Interno Municipal.120c31ac.pdf": "/static/media/Reglamento Interno Municipal.120c31ac.pdf",
@@ -246,6 +246,6 @@
     "static/css/2.34b29efe.chunk.css",
     "static/js/2.c2029077.chunk.js",
     "static/css/main.53e4edd4.chunk.css",
-    "static/js/main.6fd65dd9.chunk.js"
+    "static/js/main.a30da335.chunk.js"
   ]
 }
