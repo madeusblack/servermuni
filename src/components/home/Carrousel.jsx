@@ -45,6 +45,7 @@ import cachureos2 from '../../assets/static/carousel/cachureos2.jpg';
 import cachureos2webp from '../../assets/static/carousel/cachureos2.webp';
 import juramento from '../../assets/static/carousel/juramento.jpg';
 import juramentowebp from '../../assets/static/carousel/juramento.webp';
+import fasedos from '../../assets/static/carousel/fasedosnogales .jpg';
 
 const AutoplaySlider = withAutoplay(AwesomeSlider);
 
@@ -55,6 +56,11 @@ const Carrousel = () => (
     cancelOnInteraction={true}
     interval={9000}
   >
+    <div className='carouselImage'>
+      <picture>
+        <img src={fasedos} alt='' />
+      </picture>
+    </div>
     <div className='carouselImage'>
       <a href='https://www.facebook.com/muni.nogales.7' target='_blank' rel='noopener noreferrer'>
         <picture>

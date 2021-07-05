@@ -1,12 +1,12 @@
 import React from 'react';
 import '../../assets/styles/Consejales.scss';
 import styles from '../../assets/styles/LayoutContenidoMuniComuna.module.css';
-import Jflores from '../../assets/static/consejales/jflores.jpg';
-import Ebueno from '../../assets/static/consejales/ebueno.jpg';
-import Jmarchant from '../../assets/static/consejales/jmarchant.jpg';
-import Rivera from '../../assets/static/consejales/rivera.jpg';
-import Gachon from '../../assets/static/consejales/gachon.jpg';
-import Lineros from '../../assets/static/consejales/lineros.jpg';
+import cOrtega from '../../assets/static/consejales/CARLOS ORTEGA VALENCIA.jpg';
+import cAlvarado from '../../assets/static/consejales/CLAUDIO ALVARADO LEIVA.jpg';
+import cTapia from '../../assets/static/consejales/CLAUDIO TAPIA MENDOZA.jpg';
+import Jmarchant from '../../assets/static/consejales/JOHAO MARCHANT VALENZUELA .jpg';
+import lPacheco from '../../assets/static/consejales/LESLIE PACHECO RAMIREZ.jpg';
+import mBahamondes from '../../assets/static/consejales/MARIA FRANCISCA BAHAMONDES.jpg';
 
 const Consejales = () => {
   return (
@@ -14,28 +14,28 @@ const Consejales = () => {
       <h1 className={styles.muniTitle}>CONCEJALES</h1>
       <div className={styles.grupoConsejales}>
         <div className={styles.contenedorConcejal}>
-          <img className={styles.imgConcejal} src={Jflores} alt='' />
-          <p>JUAN FLORES OLIVARES</p>
+          <img className={styles.imgConcejal} src={cOrtega} alt='' />
+          <p>CARLOS ORTEGA VALENCIA</p>
         </div>
         <div className={styles.contenedorConcejal}>
-          <img className={styles.imgConcejal} src={Ebueno} alt='' />
-          <p>EDUARDO BUENO NAVARRO</p>
+          <img className={styles.imgConcejal} src={cAlvarado} alt='' />
+          <p>CLAUDIO ALVARADO LEIVA</p>
         </div>
         <div className={styles.contenedorConcejal}>
           <img className={styles.imgConcejal} src={Jmarchant} alt='' />
           <p>JOHAO MARCHANT VALENZUELA</p>
         </div>
         <div className={styles.contenedorConcejal}>
-          <img className={styles.imgConcejal} src={Rivera} alt='' />
-          <p>JUAN RIVERA ROJAS</p>
+          <img className={styles.imgConcejal} src={cTapia} alt='' />
+          <p>CLAUDIO TAPIA MENDOZA</p>
         </div>
         <div className={styles.contenedorConcejal}>
-          <img className={styles.imgConcejal} src={Gachon} alt='' />
-          <p>FERDINAND GACHÓN JEREZ</p>
+          <img className={styles.imgConcejal} src={lPacheco} alt='' />
+          <p>LESLIE PACHECO RAMIREZ</p>
         </div>
         <div className={styles.contenedorConcejal}>
-          <img className={styles.imgConcejal} src={Lineros} alt='' />
-          <p>JAIME LINEROS DÍAZ</p>
+          <img className={styles.imgConcejal} src={mBahamondes} alt='' />
+          <p>MARIA FRANCISCA BAHAMONDES</p>
         </div>
       </div>
 

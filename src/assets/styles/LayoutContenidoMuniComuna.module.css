@@ -46,6 +46,7 @@
   justify-content: center;
 }
 .contenedorConcejal img{
+  height: 300px;
   border-radius: 22px;
   -webkit-box-shadow: 10px 10px 39px -13px rgba(0,0,0,0.75);
   -moz-box-shadow: 10px 10px 39px -13px rgba(0,0,0,0.75);
@@ -131,7 +132,7 @@
   background-color: white;
 }
 .alcaldesa{
-  width: 20vw;
+  height: 300px;
   grid-row: span 2;
   padding: 0;
   margin: 2em 0 0 2em;

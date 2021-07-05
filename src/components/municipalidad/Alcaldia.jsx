@@ -1,5 +1,5 @@
 import React from 'react';
-import Alcaldesa from '../../assets/static/municipalidad/mosorio.jpg';
+import Alcaldesa from '../../assets/static/municipalidad/MARGARITA OSORIO PIZARRO.jpg';
 import styles from '../../assets/styles/LayoutContenidoMuniComuna.module.css';
 
 const Alcaldia = () => (
