@@ -43,9 +43,7 @@ import cachureos1 from '../../assets/static/carousel/cachureos1.jpg';
 import cachureos1webp from '../../assets/static/carousel/cachureos1.webp';
 import cachureos2 from '../../assets/static/carousel/cachureos2.jpg';
 import cachureos2webp from '../../assets/static/carousel/cachureos2.webp';
-import juramento from '../../assets/static/carousel/juramento.jpg';
-import juramentowebp from '../../assets/static/carousel/juramento.webp';
-import fasedos from '../../assets/static/carousel/fasedosnogales .jpg';
+import patentes from '../../assets/static/carousel/PATENTES.jpg';
 
 const AutoplaySlider = withAutoplay(AwesomeSlider);
 
@@ -56,19 +54,11 @@ const Carrousel = () => (
     cancelOnInteraction={true}
     interval={9000}
   >
+
     <div className='carouselImage'>
       <picture>
-        <img src={fasedos} alt='' />
+        <img src={patentes} alt='' />
       </picture>
-    </div>
-    <div className='carouselImage'>
-      <a href='https://www.facebook.com/muni.nogales.7' target='_blank' rel='noopener noreferrer'>
-        <picture>
-          <source srcSet={juramentowebp} type='image/webp' />
-          <source srcSet={juramento} type='image/jpeg' />
-          <img csr={juramento} alt='' />
-        </picture>
-      </a>
     </div>
     <div className='carouselImage'>
       <picture>

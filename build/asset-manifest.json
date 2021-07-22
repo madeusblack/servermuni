@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.e29d5a65.chunk.css",
-    "main.js": "/static/js/main.7f37032f.chunk.js",
-    "main.js.map": "/static/js/main.7f37032f.chunk.js.map",
+    "main.js": "/static/js/main.208caabd.chunk.js",
+    "main.js.map": "/static/js/main.208caabd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d64303f0.js",
     "runtime-main.js.map": "/static/js/runtime-main.d64303f0.js.map",
     "static/css/2.34b29efe.chunk.css": "/static/css/2.34b29efe.chunk.css",
@@ -52,6 +52,7 @@
     "static/media/Listado contratos vigentes.27036dd3.pdf": "/static/media/Listado contratos vigentes.27036dd3.pdf",
     "static/media/MARGARITA OSORIO PIZARRO.a16c89ff.jpg": "/static/media/MARGARITA OSORIO PIZARRO.a16c89ff.jpg",
     "static/media/MARIA FRANCISCA BAHAMONDES.fede5936.jpg": "/static/media/MARIA FRANCISCA BAHAMONDES.fede5936.jpg",
+    "static/media/PATENTES.c9af0ada.jpg": "/static/media/PATENTES.c9af0ada.jpg",
     "static/media/PDF.ba4a9de7.svg": "/static/media/PDF.ba4a9de7.svg",
     "static/media/Pladeco 2010-2014.7f9ea1d5.pdf": "/static/media/Pladeco 2010-2014.7f9ea1d5.pdf",
     "static/media/Pladeco 2018-2022.dc73336a.pdf": "/static/media/Pladeco 2018-2022.dc73336a.pdf",
@@ -98,8 +99,8 @@
     "static/media/comisaria.c3dd2e63.webp": "/static/media/comisaria.c3dd2e63.webp",
     "static/media/comprobante.f8c619b1.pdf": "/static/media/comprobante.f8c619b1.pdf",
     "static/media/comunicacion.3de96fe9.pdf": "/static/media/comunicacion.3de96fe9.pdf",
-    "static/media/covid.b0f97536.webp": "/static/media/covid.b0f97536.webp",
-    "static/media/covid.e56dcba1.png": "/static/media/covid.e56dcba1.png",
+    "static/media/covid.19ab7efa.png": "/static/media/covid.19ab7efa.png",
+    "static/media/covid.3e95e110.webp": "/static/media/covid.3e95e110.webp",
     "static/media/covidastra.63102c0f.png": "/static/media/covidastra.63102c0f.png",
     "static/media/covidastra.a8cccdb0.webp": "/static/media/covidastra.a8cccdb0.webp",
     "static/media/covidmunicipal.78436f1e.pdf": "/static/media/covidmunicipal.78436f1e.pdf",
@@ -131,7 +132,6 @@
     "static/media/entregarinjuseremi.mp3": "/static/media/entregarinjuseremi.1c3e8ddc.mp3",
     "static/media/escalafon.4ae73266.pdf": "/static/media/escalafon.4ae73266.pdf",
     "static/media/estadoCovid1.f847390d.webp": "/static/media/estadoCovid1.f847390d.webp",
-    "static/media/fasedosnogales .519f9f63.jpg": "/static/media/fasedosnogales .519f9f63.jpg",
     "static/media/feria.ad0e7933.jpg": "/static/media/feria.ad0e7933.jpg",
     "static/media/feria.e3a19955.webp": "/static/media/feria.e3a19955.webp",
     "static/media/feriapoligono.jpg": "/static/media/feriapoligono.f4cb2601.jpg",
@@ -155,8 +155,6 @@
     "static/media/jefeuap.d2dbf3f4.pdf": "/static/media/jefeuap.d2dbf3f4.pdf",
     "static/media/jpl.6d54303d.pdf": "/static/media/jpl.6d54303d.pdf",
     "static/media/jplcovid19.377d4ae0.jpg": "/static/media/jplcovid19.377d4ae0.jpg",
-    "static/media/juramento.585bf637.jpg": "/static/media/juramento.585bf637.jpg",
-    "static/media/juramento.5aefa9df.webp": "/static/media/juramento.5aefa9df.webp",
     "static/media/licenciatura.jpg": "/static/media/licenciatura.9d907ae1.jpg",
     "static/media/licenciatura2.jpg": "/static/media/licenciatura2.f109e3a8.jpg",
     "static/media/licenciatura3.jpg": "/static/media/licenciatura3.77086cf5.jpg",
@@ -253,6 +251,6 @@
     "static/css/2.34b29efe.chunk.css",
     "static/js/2.c2029077.chunk.js",
     "static/css/main.e29d5a65.chunk.css",
-    "static/js/main.7f37032f.chunk.js"
+    "static/js/main.208caabd.chunk.js"
   ]
 }
