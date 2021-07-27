@@ -2,7 +2,7 @@ import React from 'react';
 import '../assets/styles/PasoAPaso.scss';
 
 const PasoAPasoContainer = () => {
-  const estadoComuna = 1;
+  const estadoComuna = 3;
   let toReturn;
   switch (estadoComuna) {
     case 1:
@@ -167,6 +167,174 @@ const PasoAPasoContainer = () => {
 
           </p>
           <div className='covidContainer_2'>
+            <h2>*MODO COVID: Estrategia Sanitaria permanente</h2>
+            <h4>
+              SIEMPRE debes respetar las medidas que dicte la autoridad como cordones y aduanas sanitarias y, si eres un caso confirmado, sospechoso o probable de coronavirus o eres contacto estrecho de un caso confirmado, debes hacer cuarentena obligatoria sin posibilidad de permisos, y lo mismo aplica si estás ingresando al país.
+            </h4>
+          </div>
+        </div>
+      );
+      break;
+    case 3:
+      toReturn = (
+        <div className='pasoAPasoContainer'>
+          <h1 className='mainTitleCovid_3'>¿QUÉ ESTÁ PERMITIDO?</h1>
+          <h2 className='mainTitleCovid_3'>1. Desplazamiento general</h2>
+          <p>
+            Está permitido el desplazamiento sin restricciones.
+            <br />
+            Para viajes interregionales se debe acompañar el pasaporte sanitario que se obtiene en c19.cl.
+            <br />
+            Prohibidos los viajes a comuna en cuarentena.
+          </p>
+          <h2 className='mainTitleCovid_3'>2. Educación: apertura de escuelas en cuarentena con protocolos sanitarios</h2>
+          <p>
+            La apertura a estos recintos educativos está permitida todos los días.
+            <br />
+            La asistencia a clases presenciales es voluntaria.
+          </p>
+          <h2 className='mainTitleCovid_3'>3. Educación: clases en instituciones de educación superior</h2>
+          <p>
+            Clases presenciales están permitidas todos los días.
+          </p>
+          <h2 className='mainTitleCovid_3'>4. Aforos en reuniones en casas particulares</h2>
+          <p>
+            Con Pase de Movilidad:
+            <br />
+            Se podrán realizar con un máximo de 20 personas si es que todas tienen su Pase de Movilidad.
+            <br />
+            Sin Pase de Movilidad:
+            <br />
+            Se podrán realizar con un máximo de 10 personas.
+            Para el cálculo del aforo se debe considerar el tamaño del espacio y que se pueda cumplir 1 metro de distancia entre las personas.
+          </p>
+          <h2 className='mainTitleCovid_3'>5. Aforos en comercio y atención presencial a público (lugares abiertos y cerrados)</h2>
+          <p>
+            Permitido todos los días.
+            <br />
+            Se podrá atender con aforo total de asistentes que cumpla 1 persona cada 8m2 de superficie útil.
+          </p>
+          <h2 className='mainTitleCovid_3'>6. Atención en restaurantes, cafés y fuentes de soda (homologables a gimnasios)</h2>
+          <p>
+            Estará permitido todos los días, diferenciando si es espacio cerrado o abierto y si los asistentes tienen su Pase de Movilidad:
+            <br />
+            - Espacio cerrado: Solo asistentes con Pase de Movilidad. Se debe cumplir distancia de 2m entre mesas (asistentes con ubicación fija) o 2m entre máquinas, según corresponda y lo defina el protocolo específico para cada actividad. Requiere cumplir el estándar de ventilación.
+            <br />
+            - Espacio abierto o aire libre: Asistentes con o sin Pase de Movilidad. Se debe cumplir distancia de 2m entre mesas o máquinas, según corresponda y lo defina el protocolo específico para cada actividad.
+
+          </p>
+          <p>
+            7. Aforos en actividades sin interacción entre asistentes*
+            <br />
+
+            Permitidas todos los días, cumpliendo con los siguientes requisitos:
+            <br />
+
+            - Aforo: 1 persona cada 4m2 de superficie útil.
+            <br />
+
+            - Espacio cerrado: máximo 100 personas y 500 personas, si todos los asistentes tienen Pase de Movilidad. Requiere cumplir el estándar de ventilación.
+            <br />
+
+            - Espacio abierto o aire libre: máximo 200 personas y 1.000 personas si todos los asistentes tienen Pase de Movilidad.
+            <br />
+
+            *Son aquellas convocatorias de un grupo de personas; a la misma hora, en un determinado lugar y que cumple sí o sí los siguientes cuatro requisitos:
+            <br />
+
+            - Mantener una ubicación fija toda la actividad.
+            <br />
+
+            - Mantener una distancia de un metro entre participantes.
+            <br />
+
+            - Usar la mascarilla de forma permanente.
+            <br />
+
+            - Sin consumo de alimentos.
+            <br />
+
+            Ejemplos: seminarios, ritos religiosos, conciertos, público en estadios, cines, teatro, circos, etc.
+            <br />
+
+            8. Aforos en actividades con interacción entre asistentes*
+            <br />
+
+            Permitidas todos los días, cumpliendo con los siguientes requisitos:
+            <br />
+
+            - Aforo: 1 persona cada 8m2 de superficie útil.
+            <br />
+
+            - Espacio cerrado: máximo 25 personas y 100 personas, si todos los asistentes tienen Pase de Movilidad. Requiere cumplir el estándar de ventilación.
+            <br />
+
+            - Espacio abierto o aire libre: máximo 100 personas y 200 personas, si todos los asistentes tienen Pase de Movilidad.
+            <br />
+
+            *Se refiere a aquellas convocatorias de un grupo de personas, a la misma hora, en un determinado lugar y que cumple con al menos una de las siguientes características por lo que se considera con interacción:
+            <br />
+
+            - No se mantiene una ubicación fija de los asistentes.
+            <br />
+
+            - No se mantiene un metro de distancia entre participantes.
+            <br />
+
+            - No se usa la mascarilla de forma permanente.
+            <br />
+
+            - Se consume de alimentos.
+            <br />
+
+            Ejemplos: actividades sociales, ferias laborales, fiestas de matrimonios, categoría de actividades sin interacción entre asistentes pero con consumo de alimentos. Prohibidos en residencias particulares.
+            <br />
+
+            9. Áreas Silvestres Protegidas y Parques Urbanos
+            <br />
+
+            Permitido todos los días cumpliendo con los siguientes requisitos:
+
+            <br />
+            - Se debe cumplir un metro de distancia entre personas.
+            <br />
+
+            10. Actividad física y deporte
+            <br />
+
+            Permitidas todos los días, cumpliendo con los siguientes requisitos
+            <br />
+
+            Espacio cerrado: máximo 25 personas y 100 personas si todos los asistentes tienen Pase de Movilidad. Requiere cumplir el estándar de ventilación
+            <br />
+
+            Espacio abierto o aire libre: máximo 100 personas y 200 personas si todos los asistentes tienen Pase de Movilidad
+            <br />
+
+            11. Residencias de centros cerrados (Centros SENAME, ELEAMs)
+            <br />
+
+            Sin restricciones para residentes ni visitas, pero siguiendo el protocolo específico.
+            <br />
+
+            12. Actividades presenciales en Clubes de Adulto Mayor y Centros Día
+            <br />
+
+            Centros Día: Actividades grupales con un máximo de 5 personas en un determinado espacio y con distancia de un metro entre personas (permitidas todos los días).
+            <br />
+
+            Asistentes solo podrán asistir con Pase de Movilidad.
+            <br />
+
+            Clubes de Adulto Mayor: Máximo 10 personas en total y máximo 20 personas si todas tienen Pase de Movilidad.
+            <br />
+
+            Se debe cumplir un metro de distancia entre personas.
+            <br />
+
+          </p>
+
+          <div className='covidContainer_3'>
             <h2>*MODO COVID: Estrategia Sanitaria permanente</h2>
             <h4>
               SIEMPRE debes respetar las medidas que dicte la autoridad como cordones y aduanas sanitarias y, si eres un caso confirmado, sospechoso o probable de coronavirus o eres contacto estrecho de un caso confirmado, debes hacer cuarentena obligatoria sin posibilidad de permisos, y lo mismo aplica si estás ingresando al país.
