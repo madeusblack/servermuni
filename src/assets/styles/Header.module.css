@@ -23,6 +23,21 @@ html,body{
     background: var(--base-color);
     padding-bottom: 1em;
 }
+.botonOrdenanzas{
+    width: 110px;
+    height: 35px;
+    border-radius: 5px;
+    color: var(--font-color);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: var(--banner-color);
+}
+.botonOrdenanzas:hover{
+    background-color: var(--hover-color);
+
+}
 .upperHeader{
     display: grid;
     grid-template-columns:250px 1fr ;

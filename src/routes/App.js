@@ -27,6 +27,7 @@ import Post from '../components/home/Post';
 import Sae from '../containers/Sae';
 import noticiaImportanteContainer from '../containers/NoticiaImportanteContainer';
 import EntregaDocumentos from '../containers/EntregaDocumentacion';
+import OrdenanzasMunicipales from '../components/municipalidad/OrdenanzasMunicipales';
 
 const App = () => (
   <BrowserRouter>
@@ -57,6 +58,7 @@ const App = () => (
         <Route exact path='/sae' component={Sae} />
         <Route exact path='/noticiaimportante' component={noticiaImportanteContainer} />
         <Route exact path='/entregadocumentos' component={EntregaDocumentos} />
+        <Route exact path='/ordenanzas' component={OrdenanzasMunicipales} />
 
         <Route path='/noencontrado' component={NotFound} />
       </Switch>

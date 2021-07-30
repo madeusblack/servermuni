@@ -19,16 +19,9 @@ import estadoCovidwebp from '../../assets/static/header/estadoCovid3.webp';
 import LinksServicios from './LinksServicios';
 import emergencia from '../../assets/static/header/emergencia.png';
 import emergenciawebp from '../../assets/static/header/emergencia.webp';
-import decreto from '../../assets/static/header/decreto.png';
-import decreto1 from '../../assets/static/header/decreto1.jpeg';
-import decretowebp from '../../assets/static/header/decreto.webp';
-import decreto1webp from '../../assets/static/header/decreto1.webp';
-import decretopdf from '../../assets/static/header/decreto.pdf';
-import decretopdf1 from '../../assets/static/header/DECRETO1378.pdf';
 import cuenta2020 from '../../assets/static/header/cuenta2020.jpeg';
 import sea from '../../assets/static/header/sea.png';
 import seawebp from '../../assets/static/header/sea.webp';
-
 import cuenta2020webp from '../../assets/static/header/cuenta2020.webp';
 import cuenta2020pdf from '../../assets/static/header/cuenta2020.pdf';
 
@@ -57,20 +50,9 @@ const Header = () => (
             <img className={styles.headerLink} csr={sea} alt='decreto 1378' />
           </picture>
         </a>
-        <a target='_blank' rel='noopener noreferrer' href={decretopdf1}>
-          <picture>
-            <source srcSet={decreto1webp} type='image/webp' />
-            <source srcSet={decreto1} type='image/jpeg' />
-            <img className={styles.headerLink} csr={decreto1} alt='decreto 1378' />
-          </picture>
-        </a>
-        <a target='_blank' rel='noopener noreferrer' href={decretopdf}>
-          <picture>
-            <source srcSet={decretowebp} type='image/webp' />
-            <source srcSet={decreto} type='image/jpeg' />
-            <img className={styles.headerLink} csr={decreto} alt='comisaria virtual' />
-          </picture>
-        </a>
+        <Link to='/ordenanzas' className={styles.botonOrdenanzas}>
+          Ordenanzas Municipales
+        </Link>
         <Link to='/pasoapaso'>
           <picture>
             <source srcSet={estadoCovidwebp} type='image/webp' />

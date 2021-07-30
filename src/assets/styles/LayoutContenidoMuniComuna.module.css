@@ -88,6 +88,30 @@
 .escalafonPdf{
   width: 10em;
 }
+.ordenanzasContainer{
+  grid-column: span 2;
+
+    display: flex;
+    flex-direction: column;
+    
+  
+}
+.ordenanzasContainer a{
+  padding: 1em;
+  margin-bottom: 1em;
+  text-align: center;
+  text-decoration: none;
+  transition: 450ms;
+  border-radius: 1.335rem;  
+}
+.ordenanzasContainer a:hover{
+  background-color: rgb(204, 204, 204);
+}
+.ordenanzasContainer img {
+  height: 7vh;
+  margin-right: 10px;
+
+}
 .cuentaPublicaMainContainer{
   grid-column: span 2;
   display: grid;
