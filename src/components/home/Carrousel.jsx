@@ -4,19 +4,14 @@ import withAutoplay from 'react-awesome-slider/dist/autoplay';
 import AwesomeSlider from 'react-awesome-slider';
 import 'react-awesome-slider/dist/styles.css';
 import { Link } from 'react-router-dom';
-import phone from '../../assets/static/carousel/49.jpg';
-import phonewebp from '../../assets/static/carousel/49.webp';
 import quinta from '../../assets/static/carousel/119.png';
 import sexta from '../../assets/static/carousel/120.jpg';
 import sextawebp from '../../assets/static/carousel/120.webp';
 import septima from '../../assets/static/carousel/121.png';
-import octava from '../../assets/static/carousel/122.jpg';
-import octavawebp from '../../assets/static/carousel/122.webp';
 import decimoprimera from '../../assets/static/carousel/1.jpg';
 import decimoprimerawebp from '../../assets/static/carousel/1.webp';
 import juzgado from '../../assets/static/pdf/carousel/jpl.pdf';
 import pdfMuni from '../../assets/static/pdf/carousel/covidmunicipal.pdf';
-import calendariobasura from '../../assets/static/pdf/carousel/basura.jpg';
 import atletismo from '../../assets/static/carousel/atletismo.jpg';
 import atletismowebp from '../../assets/static/carousel/atletismo.webp';
 import boxeo from '../../assets/static/carousel/boxeo.jpg';
@@ -31,8 +26,6 @@ import censovideo from '../../assets/static/carousel/censo.mp4';
 import cuenta2020 from '../../assets/static/header/cuentabanner.jpeg';
 import cuenta2020webp from '../../assets/static/header/cuentabanner.webp';
 import cuenta2020pdf from '../../assets/static/header/cuenta2020.pdf';
-import influenza from '../../assets/static/Covid/influenza.png';
-import influenzawebp from '../../assets/static/Covid/influenza.webp';
 import bonoInvierno from '../../assets/static/carousel/bonoInvierno.jpg';
 import bonoInviernowebp from '../../assets/static/carousel/bonoInvierno.webp';
 import omc from '../../assets/static/carousel/omc.jpg';
@@ -42,8 +35,9 @@ import feriawebp from '../../assets/static/carousel/feria.webp';
 import cachureos1 from '../../assets/static/carousel/cachureos1.jpg';
 import cachureos1webp from '../../assets/static/carousel/cachureos1.webp';
 import cachureos2 from '../../assets/static/carousel/cachureos2.jpg';
+import basura from '../../assets/static/carousel/basura.jpeg';
+import emergencias from '../../assets/static/carousel/emergencia.jpeg';
 import cachureos2webp from '../../assets/static/carousel/cachureos2.webp';
-import patentes from '../../assets/static/carousel/PATENTES.jpg';
 
 const AutoplaySlider = withAutoplay(AwesomeSlider);
 
@@ -54,11 +48,11 @@ const Carrousel = () => (
     cancelOnInteraction={true}
     interval={9000}
   >
-
     <div className='carouselImage'>
-      <picture>
-        <img src={patentes} alt='' />
-      </picture>
+      <img src={basura} alt='' />
+    </div>
+    <div className='carouselImage'>
+      <img src={emergencias} alt='' />
     </div>
     <div className='carouselImage'>
       <picture>
@@ -97,13 +91,7 @@ const Carrousel = () => (
         <img csr={bonoInvierno} alt='' />
       </picture>
     </div>
-    <div className='carouselImage'>
-      <picture>
-        <source srcSet={influenzawebp} type='image/webp' />
-        <source srcSet={influenza} type='image/pn g' />
-        <img csr={influenza} alt='' />
-      </picture>
-    </div>
+
     <div className='carouselImage'>
       <a href={cuenta2020pdf} target='_blank' rel='noopener noreferrer'>
         <picture>
@@ -167,24 +155,6 @@ const Carrousel = () => (
     <div className='carouselImage'>
       <a href={pdfMuni}>
         <img src={septima} alt='' />
-      </a>
-    </div>
-    <div className='carouselImage'>
-      <a href={calendariobasura}>
-        <picture>
-          <source srcSet={octavawebp} type='image/webp' />
-          <source srcSet={octava} type='image/jpeg' />
-          <img csr={octava} alt='' />
-        </picture>
-      </a>
-    </div>
-    <div className='carouselImage'>
-      <a href='tel:+56988698591'>
-        <picture>
-          <source srcSet={phonewebp} type='image/webp' />
-          <source srcSet={phone} type='image/jpeg' />
-          <img csr={phone} alt='' />
-        </picture>
       </a>
     </div>
     <div className='carouselImage'>

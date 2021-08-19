@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.42a0b202.chunk.css",
-    "main.js": "/static/js/main.583c7722.chunk.js",
-    "main.js.map": "/static/js/main.583c7722.chunk.js.map",
+    "main.js": "/static/js/main.13046a4c.chunk.js",
+    "main.js.map": "/static/js/main.13046a4c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d64303f0.js",
     "runtime-main.js.map": "/static/js/runtime-main.d64303f0.js.map",
     "static/css/2.34b29efe.chunk.css": "/static/css/2.34b29efe.chunk.css",
@@ -101,8 +101,8 @@
     "static/media/comisaria.c3dd2e63.webp": "/static/media/comisaria.c3dd2e63.webp",
     "static/media/comprobante.f8c619b1.pdf": "/static/media/comprobante.f8c619b1.pdf",
     "static/media/comunicacion.3de96fe9.pdf": "/static/media/comunicacion.3de96fe9.pdf",
-    "static/media/covid.19ab7efa.png": "/static/media/covid.19ab7efa.png",
-    "static/media/covid.3e95e110.webp": "/static/media/covid.3e95e110.webp",
+    "static/media/covid.2e50ed11.png": "/static/media/covid.2e50ed11.png",
+    "static/media/covid.8da6b4e0.webp": "/static/media/covid.8da6b4e0.webp",
     "static/media/covidastra.63102c0f.png": "/static/media/covidastra.63102c0f.png",
     "static/media/covidastra.a8cccdb0.webp": "/static/media/covidastra.a8cccdb0.webp",
     "static/media/covidmunicipal.78436f1e.pdf": "/static/media/covidmunicipal.78436f1e.pdf",
@@ -251,6 +251,6 @@
     "static/css/2.34b29efe.chunk.css",
     "static/js/2.c2029077.chunk.js",
     "static/css/main.42a0b202.chunk.css",
-    "static/js/main.583c7722.chunk.js"
+    "static/js/main.13046a4c.chunk.js"
   ]
 }
