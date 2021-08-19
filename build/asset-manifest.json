@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.42a0b202.chunk.css",
-    "main.js": "/static/js/main.13046a4c.chunk.js",
-    "main.js.map": "/static/js/main.13046a4c.chunk.js.map",
+    "main.js": "/static/js/main.92c4c438.chunk.js",
+    "main.js.map": "/static/js/main.92c4c438.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d64303f0.js",
     "runtime-main.js.map": "/static/js/runtime-main.d64303f0.js.map",
     "static/css/2.34b29efe.chunk.css": "/static/css/2.34b29efe.chunk.css",
@@ -25,12 +25,8 @@
     "static/media/119.9846182b.png": "/static/media/119.9846182b.png",
     "static/media/120.71b42b02.jpg": "/static/media/120.71b42b02.jpg",
     "static/media/120.e59938ac.webp": "/static/media/120.e59938ac.webp",
-    "static/media/122.0f0c0ef8.jpg": "/static/media/122.0f0c0ef8.jpg",
-    "static/media/122.3420a815.webp": "/static/media/122.3420a815.webp",
     "static/media/240-modificación Nº1.b5d2ef34.pdf": "/static/media/240-modificación Nº1.b5d2ef34.pdf",
     "static/media/NotFound.scss": "/static/media/404.3678f5ad.jpg",
-    "static/media/49.20384835.webp": "/static/media/49.20384835.webp",
-    "static/media/49.77d2e34c.jpg": "/static/media/49.77d2e34c.jpg",
     "static/media/491-modificación Nº2.c1806ad5.pdf": "/static/media/491-modificación Nº2.c1806ad5.pdf",
     "static/media/492-modificación Nº3.655c7074.pdf": "/static/media/492-modificación Nº3.655c7074.pdf",
     "static/media/493-modificación Nº4.5002ef85.pdf": "/static/media/493-modificación Nº4.5002ef85.pdf",
@@ -54,7 +50,6 @@
     "static/media/Listado contratos vigentes.27036dd3.pdf": "/static/media/Listado contratos vigentes.27036dd3.pdf",
     "static/media/MARGARITA OSORIO PIZARRO.a16c89ff.jpg": "/static/media/MARGARITA OSORIO PIZARRO.a16c89ff.jpg",
     "static/media/MARIA FRANCISCA BAHAMONDES.fede5936.jpg": "/static/media/MARIA FRANCISCA BAHAMONDES.fede5936.jpg",
-    "static/media/PATENTES.c9af0ada.jpg": "/static/media/PATENTES.c9af0ada.jpg",
     "static/media/PDF.ba4a9de7.svg": "/static/media/PDF.ba4a9de7.svg",
     "static/media/Pladeco 2010-2014.7f9ea1d5.pdf": "/static/media/Pladeco 2010-2014.7f9ea1d5.pdf",
     "static/media/Pladeco 2018-2022.dc73336a.pdf": "/static/media/Pladeco 2018-2022.dc73336a.pdf",
@@ -81,7 +76,7 @@
     "static/media/aportesPropiosBenito.mp3": "/static/media/aportesPropiosBenito.e95401f8.mp3",
     "static/media/atletismo.67d6362a.webp": "/static/media/atletismo.67d6362a.webp",
     "static/media/atletismo.93846912.jpg": "/static/media/atletismo.93846912.jpg",
-    "static/media/basura.d1dc8d63.jpg": "/static/media/basura.d1dc8d63.jpg",
+    "static/media/basura.6f48a636.jpeg": "/static/media/basura.6f48a636.jpeg",
     "static/media/bonoInvierno.5231051e.webp": "/static/media/bonoInvierno.5231051e.webp",
     "static/media/bonoInvierno.71aa60ff.jpg": "/static/media/bonoInvierno.71aa60ff.jpg",
     "static/media/boxeo.4f3b9e6a.jpg": "/static/media/boxeo.4f3b9e6a.jpg",
@@ -124,6 +119,7 @@
     "static/media/donacelu.b79fcc25.jpg": "/static/media/donacelu.b79fcc25.jpg",
     "static/media/emergencia.2f2f1e2a.webp": "/static/media/emergencia.2f2f1e2a.webp",
     "static/media/emergencia.7cc23f7d.png": "/static/media/emergencia.7cc23f7d.png",
+    "static/media/emergencia.9b432f4f.jpeg": "/static/media/emergencia.9b432f4f.jpeg",
     "static/media/entregapapasalcaldesa.mp3": "/static/media/entregapapasalcaldesa.8f5c0f30.mp3",
     "static/media/entregarinju.mp3": "/static/media/entregarinju.6b67362c.mp3",
     "static/media/entregarinjualcaldesa.mp3": "/static/media/entregarinjualcaldesa.f08d5bf6.mp3",
@@ -146,8 +142,6 @@
     "static/media/hospitalAlcaldesa.mp3": "/static/media/hospitalAlcaldesa.688331b0.mp3",
     "static/media/ine.15f9bc99.png": "/static/media/ine.15f9bc99.png",
     "static/media/ine.8931958e.webp": "/static/media/ine.8931958e.webp",
-    "static/media/influenza.3ae09eaa.webp": "/static/media/influenza.3ae09eaa.webp",
-    "static/media/influenza.ea1ce07a.png": "/static/media/influenza.ea1ce07a.png",
     "static/media/instagram.787b1447.svg": "/static/media/instagram.787b1447.svg",
     "static/media/jefasdehogar.af512853.webp": "/static/media/jefasdehogar.af512853.webp",
     "static/media/jefeuap.d2dbf3f4.pdf": "/static/media/jefeuap.d2dbf3f4.pdf",
@@ -251,6 +245,6 @@
     "static/css/2.34b29efe.chunk.css",
     "static/js/2.c2029077.chunk.js",
     "static/css/main.42a0b202.chunk.css",
-    "static/js/main.13046a4c.chunk.js"
+    "static/js/main.92c4c438.chunk.js"
   ]
 }
