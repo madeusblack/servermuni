@@ -36,8 +36,10 @@ import cachureos1 from '../../assets/static/carousel/cachureos1.jpg';
 import cachureos1webp from '../../assets/static/carousel/cachureos1.webp';
 import cachureos2 from '../../assets/static/carousel/cachureos2.jpg';
 import basura from '../../assets/static/carousel/basura.jpeg';
-import emergencias from '../../assets/static/carousel/emergencia.jpeg';
+import emergencias from '../../assets/static/carousel/emergencia.jpg';
 import cachureos2webp from '../../assets/static/carousel/cachureos2.webp';
+import censo from '../../assets/static/carousel/censo.jpg';
+import censowebp from '../../assets/static/carousel/censo.webp';
 
 const AutoplaySlider = withAutoplay(AwesomeSlider);
 
@@ -48,6 +50,15 @@ const Carrousel = () => (
     cancelOnInteraction={true}
     interval={9000}
   >
+    <div className='carouselImage'>
+      <a href='https://www.ine.cl/participacionintercultural' target='_blank' rel='noopener noreferrer'>
+        <picture>
+          <source srcSet={censowebp} type='image/webp' />
+          <source srcSet={censo} type='image/jpeg' />
+          <img csr={censo} alt='' />
+        </picture>
+      </a>
+    </div>
     <div className='carouselImage'>
       <img src={basura} alt='' />
     </div>

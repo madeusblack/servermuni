@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.42a0b202.chunk.css",
-    "main.js": "/static/js/main.92c4c438.chunk.js",
-    "main.js.map": "/static/js/main.92c4c438.chunk.js.map",
+    "main.js": "/static/js/main.baf69691.chunk.js",
+    "main.js.map": "/static/js/main.baf69691.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d64303f0.js",
     "runtime-main.js.map": "/static/js/runtime-main.d64303f0.js.map",
     "static/css/2.34b29efe.chunk.css": "/static/css/2.34b29efe.chunk.css",
@@ -85,6 +85,8 @@
     "static/media/cachureos1.7c87c80e.jpg": "/static/media/cachureos1.7c87c80e.jpg",
     "static/media/cachureos2.9348ab1e.webp": "/static/media/cachureos2.9348ab1e.webp",
     "static/media/cachureos2.b8636129.jpg": "/static/media/cachureos2.b8636129.jpg",
+    "static/media/censo.0565e1c4.jpg": "/static/media/censo.0565e1c4.jpg",
+    "static/media/censo.3a465943.webp": "/static/media/censo.3a465943.webp",
     "static/media/censo.b7b0c9f5.mp4": "/static/media/censo.b7b0c9f5.mp4",
     "static/media/censoComunalAlcaldesa.mp3": "/static/media/censoComunalAlcaldesa.c2ca29ac.mp3",
     "static/media/censoemergencia.588afd9b.jpg": "/static/media/censoemergencia.588afd9b.jpg",
@@ -118,8 +120,8 @@
     "static/media/donacelu.a5cf98cf.webp": "/static/media/donacelu.a5cf98cf.webp",
     "static/media/donacelu.b79fcc25.jpg": "/static/media/donacelu.b79fcc25.jpg",
     "static/media/emergencia.2f2f1e2a.webp": "/static/media/emergencia.2f2f1e2a.webp",
+    "static/media/emergencia.4dd8d783.jpg": "/static/media/emergencia.4dd8d783.jpg",
     "static/media/emergencia.7cc23f7d.png": "/static/media/emergencia.7cc23f7d.png",
-    "static/media/emergencia.9b432f4f.jpeg": "/static/media/emergencia.9b432f4f.jpeg",
     "static/media/entregapapasalcaldesa.mp3": "/static/media/entregapapasalcaldesa.8f5c0f30.mp3",
     "static/media/entregarinju.mp3": "/static/media/entregarinju.6b67362c.mp3",
     "static/media/entregarinjualcaldesa.mp3": "/static/media/entregarinjualcaldesa.f08d5bf6.mp3",
@@ -245,6 +247,6 @@
     "static/css/2.34b29efe.chunk.css",
     "static/js/2.c2029077.chunk.js",
     "static/css/main.42a0b202.chunk.css",
-    "static/js/main.92c4c438.chunk.js"
+    "static/js/main.baf69691.chunk.js"
   ]
 }
