@@ -1,10 +1,15 @@
-import React, { Suspense } from 'react';
-import stylesFile from '../../assets/styles/Organigrama.module.css';
+import React from 'react';
+import organigrama from '../../assets/static/organigrama/organigrama.png';
+//import React, { Suspense } from 'react';
+//import stylesFile from '../../assets/styles/Organigrama.module.css';
 
-const Tree = React.lazy(() => import('react-d3-tree'));
+//const Tree = React.lazy(() => import('react-d3-tree'));
 
 const Organigrama = () => {
-
+  return (
+    <img src={organigrama} alt='' />
+  );
+/*
   const myTreeData = [
     {
       name: 'Alcaldesa',
@@ -239,5 +244,6 @@ const Organigrama = () => {
 
     </div>
   );
+  */
 };
 export default Organigrama;
