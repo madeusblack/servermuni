@@ -1,27 +1,18 @@
 .linksContainer{
   display: grid;
-  grid-template-columns: 33% 33% 33%;
+  grid-template-columns: repeat(5, 15%);
+  justify-content: space-around;
+  row-gap: 20px;
 }
 .linksTitle{
-  background: linear-gradient(90deg, rgb(39, 35, 255) 0%, rgba(186,255,250,0) 70%);  
-  color: white;
-  height: 20px;
-  border-radius: 22px;
-  padding: 5px;
-  padding-left: 10px;
-  grid-column: span 3;
+  text-align: center;
+  color: black;
+  font-size: xx-large;
+  height: 50px;
+  grid-column: span 5;
 }
 
-#cuenta{
-  grid-column: span 2;
-}
-#ine{
-  grid-column: span 1;
-}
-#plebiscito{
-  grid-column: span 1;
-  
-}
+
 .linkImage{
   margin: 2px;
   width: 97%;

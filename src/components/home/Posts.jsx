@@ -49,6 +49,7 @@ export default function Posts() {
                         alt='example'
                         className={classes.postImage}
                         src={post.better_featured_image.source_url}
+                        loading='lazy'
                       />
                     </>
                   ) :

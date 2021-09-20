@@ -1,26 +1,21 @@
 .postsWrapper{
-    grid-row: span 7;
     margin-top: 2em;
     padding: 0 10px;
     column-gap: 10px;
     color: black;
 }
 .news{
-  display: flex;
-  background: linear-gradient(90deg, rgb(0, 99, 124) 0%, rgba(186, 255, 250, 0) 100%);
-  width: 90%;
-  color: white;
-  align-items: center;
-  height: 20px;
-  border-radius: 22px;
-  padding: 5px;
-  padding-left: 10px;
+  text-align: center;
+  color: black;
+  font-size: xx-large;
+  height: 50px;
   grid-column: span 2;
 }
 .postList{
   display: grid;
-  grid-template-columns: 30vw 30vw;
-  column-gap: 2vw;
+  justify-content: space-around;
+  width: 100%;
+  grid-template-columns: repeat(4,20%);
 }
 .date{
   color: black;

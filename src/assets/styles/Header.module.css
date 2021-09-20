@@ -1,8 +1,8 @@
 :root {
     --base-color:#eeffe8 ;
-    --font-color:#1f271b;
+    --font-color:#000000;
     --hover-color:#9FC2CC;
-    --banner-color:#74c69d;
+    --banner-color:#DADFF7;
   }
 *{
     -webkit-font-smoothing: antialiased;
@@ -15,13 +15,10 @@ html,body{
     color:var(--font-color);
     overflow-x:hidden;
 }
-.headerCirculacion{
-    width: 100%;
-    height: 30vh;
-}
+
 .headerContainer{
-    background: var(--base-color);
-    padding-bottom: 1em;
+    margin-bottom: 30vh;
+    margin-top: 5vh;
 }
 .botonOrdenanzas{
     width: 110px;
@@ -39,6 +36,8 @@ html,body{
 
 }
 .upperHeader{
+
+    height: 20vh;
     display: grid;
     grid-template-columns:250px 1fr ;
     grid-template-rows: 50% 50%;

@@ -1,6 +1,20 @@
 .highlightedContainer{
   display: flex;
+  justify-self: center;
+  width: 60%;
   flex-direction: column;
+}
+.informacionesContainer{
+  display: grid;
+  justify-content: space-around;
+  grid-template-columns: repeat(2, 40%);
+}
+.infoTitle{
+  grid-column: span 2;
+  text-align: center;
+  color: black;
+  font-size: xx-large;
+  height: 50px;
 }
 .NoticiaImportante{
   padding: 5px 1em;  
@@ -25,26 +39,18 @@
   width: 100%;
 }
 .highlightedTitle{
-  background: linear-gradient(90deg, rgb(54, 114, 114) 10%, rgba(186,255,250,0) 70%);
-  color: white;
-  height: 20px;
-  border-radius: 22px;
-  padding: 5px;
-  padding-left: 10px;
+  text-align: center;
+  color: black;
+  font-size: xx-large;
+  height: 50px;
 }
 .highlightedImage{
-  -webkit-filter: grayscale(90%);
-  filter: grayscale(90%);
   width: 100%;
   border-radius: 0.5rem;
   margin: 2px;
   transition: 450ms;
 }
-.highlightedImage:hover{
-  -webkit-filter: contrast(90%) brightness(110%) saturate(150%) hue-rotate(-10deg);
-  filter: contrast(90%) brightness(120%) saturate(150%) hue-rotate(-10deg);
-  background-color: rgb(180, 180, 180);
-}
+
 @media (max-width: 800px) {
   .highlightedContainer{
   margin: 0.2em;

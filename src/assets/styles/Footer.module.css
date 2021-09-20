@@ -4,6 +4,7 @@
     grid-template-columns: repeat(3, 30vw);
     grid-template-rows: repeat(2, 100%);
     column-gap: 2.4vw;
+    margin-top: 200px;
     margin-right: 1em;
     row-gap: 2em;
     height: 34vh;

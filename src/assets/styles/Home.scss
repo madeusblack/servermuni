@@ -1,9 +1,10 @@
 
 .main{
     display: grid;
-    row-gap: 0.1em;
-    column-gap: 0.6em;
-    grid-template-columns: 2fr 1fr;
+    grid-template-columns: auto;
+    row-gap: 10vh;
+    padding: 20px;
+    flex-direction: column;
 }
 @media (max-width: 800px) {
     .main{
