@@ -112,7 +112,13 @@ html,body{
 
 
 @media (max-width: 800px) {
+    .headerContainer{
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 10vh;
+    }
     .upperHeader{
+        height: 50vh;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -126,6 +132,8 @@ html,body{
         align-self: center;
     }
     .upperRight{
+        margin-top: 15px;
+        position: relative;
         justify-content: space-around;
         width: 70%;
         margin-left: 15%;

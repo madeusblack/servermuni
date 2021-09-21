@@ -1,13 +1,15 @@
 
 .main{
     display: grid;
-    grid-template-columns: auto;
+    grid-template-columns: 90%;
     row-gap: 10vh;
+    justify-content: center;
     padding: 20px;
     flex-direction: column;
 }
 @media (max-width: 800px) {
     .main{
+        padding: 5px;
         display: flex;
         flex-direction: column;
     }

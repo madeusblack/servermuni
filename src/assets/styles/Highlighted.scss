@@ -54,6 +54,15 @@
 @media (max-width: 800px) {
   .highlightedContainer{
   margin: 0.2em;
+  width: 95%;
+
+  }
+  .informacionesContainer{
+    display: flex;
+    flex-direction: column;
+  }
+  .highlightedImage{
+    margin-top: 20px;
   }
 
 }

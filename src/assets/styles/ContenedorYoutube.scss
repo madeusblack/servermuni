@@ -1,5 +1,6 @@
 .mainContainerYoutube{
   display: flex;
+
   justify-content: space-around;
 }
 .youtubeTitle{
@@ -8,4 +9,19 @@
   color: black;
   font-size: xx-large;
   height: 50px;
+}
+.iframe{
+  height: 315px;
+  width: 560px;
+}
+@media (max-width: 800px) {
+  .mainContainerYoutube{
+  flex-direction: column;
+  }
+  .iframe{
+    height: 30vh;
+    width: auto;
+    margin-top: 10px;
+  }
+
 }

@@ -14,8 +14,8 @@ import tai from '../../assets/static/header/tai.png';
 import taiwebp from '../../assets/static/header/tai.webp';
 import comisaria from '../../assets/static/header/comisaria.jpg';
 import comisariawebp from '../../assets/static/header/comisaria.webp';
-import estadoCovid from '../../assets/static/header/estadoCovid3.jpg';
-import estadoCovidwebp from '../../assets/static/header/estadoCovid3.webp';
+import estadoCovid from '../../assets/static/header/estadoCovid4.jpg';
+import estadoCovidwebp from '../../assets/static/header/estadoCovid4.webp';
 import LinksServicios from './LinksServicios';
 import emergencia from '../../assets/static/header/emergencia.png';
 import emergenciawebp from '../../assets/static/header/emergencia.webp';
@@ -53,13 +53,13 @@ const Header = () => (
         <Link to='/ordenanzas' className={styles.botonOrdenanzas}>
           Ordenanzas Municipales
         </Link>
-        <Link to='/pasoapaso'>
+        <a target='_blank' rel='noopener noreferrer' href='https://www.gob.cl/coronavirus/pasoapaso/'>
           <picture>
             <source srcSet={estadoCovidwebp} type='image/webp' />
             <source srcSet={estadoCovid} type='image/jpeg' />
             <img className={styles.headerLink} csr={estadoCovid} alt='Estado comuna paso a paso' />
           </picture>
-        </Link>
+        </a>
         <a target='_blank' rel='noopener noreferrer' href='https://comisariavirtual.cl/'>
           <picture>
             <source srcSet={comisariawebp} type='image/webp' />
