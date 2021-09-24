@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.8fcee27e.chunk.css",
-    "main.js": "/static/js/main.bec97485.chunk.js",
-    "main.js.map": "/static/js/main.bec97485.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0f052c09.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0f052c09.js.map",
+    "main.css": "/static/css/main.bac4f837.chunk.css",
+    "main.js": "/static/js/main.593d7654.chunk.js",
+    "main.js.map": "/static/js/main.593d7654.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.353f689a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.353f689a.js.map",
     "static/css/2.32073f4d.chunk.css": "/static/css/2.32073f4d.chunk.css",
-    "static/js/2.1fa40230.chunk.js": "/static/js/2.1fa40230.chunk.js",
-    "static/js/2.1fa40230.chunk.js.map": "/static/js/2.1fa40230.chunk.js.map",
+    "static/js/2.f2d14d4f.chunk.js": "/static/js/2.f2d14d4f.chunk.js",
+    "static/js/2.f2d14d4f.chunk.js.map": "/static/js/2.f2d14d4f.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.32073f4d.chunk.css.map": "/static/css/2.32073f4d.chunk.css.map",
-    "static/css/main.8fcee27e.chunk.css.map": "/static/css/main.8fcee27e.chunk.css.map",
-    "static/js/2.1fa40230.chunk.js.LICENSE.txt": "/static/js/2.1fa40230.chunk.js.LICENSE.txt",
+    "static/css/main.bac4f837.chunk.css.map": "/static/css/main.bac4f837.chunk.css.map",
+    "static/js/2.f2d14d4f.chunk.js.LICENSE.txt": "/static/js/2.f2d14d4f.chunk.js.LICENSE.txt",
     "static/media/1.1b526fdd.mp4": "/static/media/1.1b526fdd.mp4",
     "static/media/1117-modificación Nº14.544bfa4b.pdf": "/static/media/1117-modificación Nº14.544bfa4b.pdf",
     "static/media/1118-modificación Nº15.52c9374e.pdf": "/static/media/1118-modificación Nº15.52c9374e.pdf",
@@ -45,7 +45,7 @@
     "static/media/Listado contratos vigentes.27036dd3.pdf": "/static/media/Listado contratos vigentes.27036dd3.pdf",
     "static/media/MARGARITA OSORIO PIZARRO.a16c89ff.jpg": "/static/media/MARGARITA OSORIO PIZARRO.a16c89ff.jpg",
     "static/media/MARIA FRANCISCA BAHAMONDES.fede5936.jpg": "/static/media/MARIA FRANCISCA BAHAMONDES.fede5936.jpg",
-    "static/media/PDF.a8081e7e.svg": "/static/media/PDF.a8081e7e.svg",
+    "static/media/PDF.ba4a9de7.svg": "/static/media/PDF.ba4a9de7.svg",
     "static/media/Pladeco 2010-2014.7f9ea1d5.pdf": "/static/media/Pladeco 2010-2014.7f9ea1d5.pdf",
     "static/media/Pladeco 2018-2022.dc73336a.pdf": "/static/media/Pladeco 2018-2022.dc73336a.pdf",
     "static/media/Plan Comunal de Seguridad Pública 2021.4139e7db.pdf": "/static/media/Plan Comunal de Seguridad Pública 2021.4139e7db.pdf",
@@ -133,7 +133,7 @@
     "static/media/lobby.387b3054.webp": "/static/media/lobby.387b3054.webp",
     "static/media/logo.d40fd5f5.png": "/static/media/logo.d40fd5f5.png",
     "static/media/luminaria.jpg": "/static/media/luminaria.796293b3.jpg",
-    "static/media/mail.7acb3c11.svg": "/static/media/mail.7acb3c11.svg",
+    "static/media/mail.bdff900d.svg": "/static/media/mail.bdff900d.svg",
     "static/media/municipalidad.aece275a.jpg": "/static/media/municipalidad.aece275a.jpg",
     "static/media/navidad.jpg": "/static/media/navidad.e5ac8984.jpg",
     "static/media/navidad.mp4": "/static/media/navidad.69708e1e.mp4",
@@ -167,7 +167,7 @@
     "static/media/pagaonline.abf362da.webp": "/static/media/pagaonline.abf362da.webp",
     "static/media/pagaonline.bac80930.jpeg": "/static/media/pagaonline.bac80930.jpeg",
     "static/media/patentesBorbaran.mp3": "/static/media/patentesBorbaran.5fec28b8.mp3",
-    "static/media/phone.d91537fb.svg": "/static/media/phone.d91537fb.svg",
+    "static/media/phone.ae74a96d.svg": "/static/media/phone.ae74a96d.svg",
     "static/media/pobl2.94e47897.jpg": "/static/media/pobl2.94e47897.jpg",
     "static/media/publicacion diario oficial 12 junio 2021 bramadores y carreras clandestinas.3f9cdc23.pdf": "/static/media/publicacion diario oficial 12 junio 2021 bramadores y carreras clandestinas.3f9cdc23.pdf",
     "static/media/quieromibarrio.jpg": "/static/media/quieromibarrio.f799a5b3.jpg",
@@ -209,10 +209,10 @@
     "static/media/youtube.8508bbf2.svg": "/static/media/youtube.8508bbf2.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f052c09.js",
+    "static/js/runtime-main.353f689a.js",
     "static/css/2.32073f4d.chunk.css",
-    "static/js/2.1fa40230.chunk.js",
-    "static/css/main.8fcee27e.chunk.css",
-    "static/js/main.bec97485.chunk.js"
+    "static/js/2.f2d14d4f.chunk.js",
+    "static/css/main.bac4f837.chunk.css",
+    "static/js/main.593d7654.chunk.js"
   ]
 }

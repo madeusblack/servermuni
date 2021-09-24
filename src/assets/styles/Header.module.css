@@ -113,6 +113,7 @@ html,body{
     .headerContainer{
         display: flex;
         flex-direction: column;
+        margin-top: 10vh;
         margin-bottom: 10vh;
     }
     .upperHeader{

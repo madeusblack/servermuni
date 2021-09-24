@@ -2,7 +2,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import styles from '../../assets/styles/MobileMenu.module.css';
-import logo from '../../assets/static/header/logo.png';
 import LinksMenuMovil from './LinksMenuMovil';
 
 // Hook
@@ -48,9 +47,9 @@ const MobileHeader = () => {
     return (
       <div className={size.width < 800 ? styles.HamburgerButton : styles.hidden} onClick={() => setCount(!count)}>
         <svg viewBox='0 0 100 80' width='40' height='40'>
-          <rect width='100' height='20' rx='8' fill='#40cc1d' />
-          <rect y='30' width='100' height='20' rx='8' fill='#40cc1d' />
-          <rect y='60' width='100' height='20' rx='8' fill='#40cc1d' />
+          <rect width='100' height='20' rx='8' fill='#9FC2CC' />
+          <rect y='30' width='100' height='20' rx='8' fill='#9FC2CC' />
+          <rect y='60' width='100' height='20' rx='8' fill='#9FC2CC' />
         </svg>
       </div>
     );
@@ -67,7 +66,6 @@ const MobileHeader = () => {
           />
         </svg>
       </div>
-      <img className={styles.logoMuni} src={logo} alt='Logo municipalidad de Nogales' />
       <Link className={styles.mobileMenuLink} to='/'>INICIO</Link>
       <LinksMenuMovil className={styles.mobileMenuLink} tipo='muni' />
       <LinksMenuMovil className={styles.mobileMenuLink} tipo='comuna' />
