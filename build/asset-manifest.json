@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.bac4f837.chunk.css",
-    "main.js": "/static/js/main.593d7654.chunk.js",
-    "main.js.map": "/static/js/main.593d7654.chunk.js.map",
+    "main.js": "/static/js/main.ea61d693.chunk.js",
+    "main.js.map": "/static/js/main.ea61d693.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.353f689a.js",
     "runtime-main.js.map": "/static/js/runtime-main.353f689a.js.map",
     "static/css/2.32073f4d.chunk.css": "/static/css/2.32073f4d.chunk.css",
@@ -163,7 +163,7 @@
     "static/media/omc.1a3af99e.jpg": "/static/media/omc.1a3af99e.jpg",
     "static/media/omc.ffd98bf8.webp": "/static/media/omc.ffd98bf8.webp",
     "static/media/omil.e538805a.webp": "/static/media/omil.e538805a.webp",
-    "static/media/organigrama.aece6e10.png": "/static/media/organigrama.aece6e10.png",
+    "static/media/organigrama.86a7f263.png": "/static/media/organigrama.86a7f263.png",
     "static/media/pagaonline.abf362da.webp": "/static/media/pagaonline.abf362da.webp",
     "static/media/pagaonline.bac80930.jpeg": "/static/media/pagaonline.bac80930.jpeg",
     "static/media/patentesBorbaran.mp3": "/static/media/patentesBorbaran.5fec28b8.mp3",
@@ -213,6 +213,6 @@
     "static/css/2.32073f4d.chunk.css",
     "static/js/2.f2d14d4f.chunk.js",
     "static/css/main.bac4f837.chunk.css",
-    "static/js/main.593d7654.chunk.js"
+    "static/js/main.ea61d693.chunk.js"
   ]
 }
