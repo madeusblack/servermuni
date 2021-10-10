@@ -14,7 +14,7 @@ export default function Posts() {
   // When the page number changes call the api for posts.
   useEffect(() => {
     axios.get(
-      ' https://madeusblack.000webhostapp.com/wp-json/wp/v2/posts?_embed=true', {
+      ' https://municipalidadnogales.000webhostapp.com/wp-json/wp/v2/posts?_embed=true', {
         params: { page },
       },
     )
@@ -41,19 +41,20 @@ export default function Posts() {
             return (
               <Link key={`link-${post.id}`} className={classes.newsText} to={`/post/${post.id}`}>
                 <div key={post.id} className={classes.postContainer}>
-
-                  {post.featured_media ? (
-                    <>
-                      {' '}
-                      <img
-                        alt='example'
-                        className={classes.postImage}
-                        src={post.better_featured_image.source_url}
-                        loading='lazy'
-                      />
-                    </>
-                  ) :
-                    null}
+                  {
+                    post._embedded['wp:featuredmedia']['0'] ? (
+                      <>
+                        {' '}
+                        <img
+                          alt='example'
+                          className={classes.postImage}
+                          src={post._embedded['wp:featuredmedia']['0'].source_url}
+                          loading='lazy'
+                        />
+                      </>
+                    ) :
+                      null
+                  }
                   <h6 key={`date-${post.id}`} className={classes.date}>{date}</h6>
 
                   <h3 key={`title-${post.id}`} className={classes.postTitle}>{post.title.rendered}</h3>

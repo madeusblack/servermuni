@@ -15,7 +15,7 @@ class Post extends React.Component {
   componentDidMount = async () => {
     const { match } = this.props;
     await axios.get(
-      `https://madeusblack.000webhostapp.com/wp-json/wp/v2/posts/${match.params.id}`,
+      `https://municipalidadnogales.000webhostapp.com/wp-json/wp/v2/posts/${match.params.id}`,
     ).then((post) => {
       this.setState({
         title: post.data.title.rendered,
