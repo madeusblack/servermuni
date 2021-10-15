@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.bac4f837.chunk.css",
-    "main.js": "/static/js/main.c07a39c0.chunk.js",
-    "main.js.map": "/static/js/main.c07a39c0.chunk.js.map",
+    "main.css": "/static/css/main.bdf3d6e9.chunk.css",
+    "main.js": "/static/js/main.c8f20026.chunk.js",
+    "main.js.map": "/static/js/main.c8f20026.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.353f689a.js",
     "runtime-main.js.map": "/static/js/runtime-main.353f689a.js.map",
     "static/css/2.32073f4d.chunk.css": "/static/css/2.32073f4d.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.c5b1afb5.chunk.js.map": "/static/js/2.c5b1afb5.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.32073f4d.chunk.css.map": "/static/css/2.32073f4d.chunk.css.map",
-    "static/css/main.bac4f837.chunk.css.map": "/static/css/main.bac4f837.chunk.css.map",
+    "static/css/main.bdf3d6e9.chunk.css.map": "/static/css/main.bdf3d6e9.chunk.css.map",
     "static/js/2.c5b1afb5.chunk.js.LICENSE.txt": "/static/js/2.c5b1afb5.chunk.js.LICENSE.txt",
     "static/media/1.1b526fdd.mp4": "/static/media/1.1b526fdd.mp4",
     "static/media/1117-modificación Nº14.544bfa4b.pdf": "/static/media/1117-modificación Nº14.544bfa4b.pdf",
@@ -18,8 +18,6 @@
     "static/media/1119-modificación Nº16.962ae6b3.pdf": "/static/media/1119-modificación Nº16.962ae6b3.pdf",
     "static/media/1159-modificación Nº17.698bf2b4.pdf": "/static/media/1159-modificación Nº17.698bf2b4.pdf",
     "static/media/119.9846182b.png": "/static/media/119.9846182b.png",
-    "static/media/120.71b42b02.jpg": "/static/media/120.71b42b02.jpg",
-    "static/media/120.e59938ac.webp": "/static/media/120.e59938ac.webp",
     "static/media/240-modificación Nº1.b5d2ef34.pdf": "/static/media/240-modificación Nº1.b5d2ef34.pdf",
     "static/media/NotFound.scss": "/static/media/404.3678f5ad.jpg",
     "static/media/491-modificación Nº2.c1806ad5.pdf": "/static/media/491-modificación Nº2.c1806ad5.pdf",
@@ -119,8 +117,8 @@
     "static/media/instagram.787b1447.svg": "/static/media/instagram.787b1447.svg",
     "static/media/jefasdehogar.af512853.webp": "/static/media/jefasdehogar.af512853.webp",
     "static/media/jefeuap.d2dbf3f4.pdf": "/static/media/jefeuap.d2dbf3f4.pdf",
-    "static/media/jpl.6d54303d.pdf": "/static/media/jpl.6d54303d.pdf",
-    "static/media/jplcovid19.377d4ae0.jpg": "/static/media/jplcovid19.377d4ae0.jpg",
+    "static/media/jpl.afdfd2d9.pdf": "/static/media/jpl.afdfd2d9.pdf",
+    "static/media/juzgado.5139736d.jpg": "/static/media/juzgado.5139736d.jpg",
     "static/media/licenciatura.jpg": "/static/media/licenciatura.9d907ae1.jpg",
     "static/media/licenciatura2.jpg": "/static/media/licenciatura2.f109e3a8.jpg",
     "static/media/licenciatura3.jpg": "/static/media/licenciatura3.77086cf5.jpg",
@@ -211,7 +209,7 @@
     "static/js/runtime-main.353f689a.js",
     "static/css/2.32073f4d.chunk.css",
     "static/js/2.c5b1afb5.chunk.js",
-    "static/css/main.bac4f837.chunk.css",
-    "static/js/main.c07a39c0.chunk.js"
+    "static/css/main.bdf3d6e9.chunk.css",
+    "static/js/main.c8f20026.chunk.js"
   ]
 }

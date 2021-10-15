@@ -7,10 +7,8 @@ import withAutoplay from 'react-awesome-slider/dist/autoplay';
 import AwesomeSlider from 'react-awesome-slider';
 import { Link } from 'react-router-dom';
 import quinta from '../../assets/static/carousel/119.png';
-import sexta from '../../assets/static/carousel/120.jpg';
-import sextawebp from '../../assets/static/carousel/120.webp';
+import juzgado from '../../assets/static/carousel/juzgado.jpg';
 import septima from '../../assets/static/carousel/121.png';
-import juzgado from '../../assets/static/pdf/carousel/jpl.pdf';
 import pdfMuni from '../../assets/static/pdf/carousel/covidmunicipal.pdf';
 import cuenta2020 from '../../assets/static/header/cuentabanner.jpeg';
 import cuenta2020webp from '../../assets/static/header/cuentabanner.webp';
@@ -21,6 +19,7 @@ import basura from '../../assets/static/carousel/basura.jpeg';
 import emergencias from '../../assets/static/carousel/emergencia.jpg';
 import censo from '../../assets/static/carousel/censo.jpg';
 import censowebp from '../../assets/static/carousel/censo.webp';
+import juzgadoDocumento from '../../assets/static/carousel/jpl.pdf';
 
 const AutoplaySlider = withAutoplay(AwesomeSlider);
 
@@ -31,6 +30,11 @@ const Carrousel = () => (
     cancelOnInteraction={true}
     interval={9000}
   >
+    <div className='carouselImage'>
+      <a href={juzgadoDocumento} target='_blank' rel='noopener noreferrer'>
+        <img src={juzgado} alt='' />
+      </a>
+    </div>
     <div className='carouselImage'>
       <a href='https://www.ine.cl/participacionintercultural' target='_blank' rel='noopener noreferrer'>
         <picture>
@@ -67,15 +71,6 @@ const Carrousel = () => (
       <Link to='/saludCarousel'>
         <img src={quinta} alt='' />
       </Link>
-    </div>
-    <div className='carouselImage'>
-      <a href={juzgado}>
-        <picture>
-          <source srcSet={sextawebp} type='image/webp' />
-          <source srcSet={sexta} type='image/jpeg' />
-          <img csr={sexta} alt='' />
-        </picture>
-      </a>
     </div>
     <div className='carouselImage'>
       <a href={pdfMuni}>
