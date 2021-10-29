@@ -21,6 +21,7 @@ import censo from '../../assets/static/carousel/censo.jpg';
 import censowebp from '../../assets/static/carousel/censo.webp';
 import juzgadoDocumento from '../../assets/static/carousel/jpl.pdf';
 import tradiciones from '../../assets/static/carousel/tradiciones.jpg';
+import basuraNoche from '../../assets/static/carousel/basuranoche.jpg';
 
 const AutoplaySlider = withAutoplay(AwesomeSlider);
 
@@ -31,6 +32,9 @@ const Carrousel = () => (
     cancelOnInteraction={true}
     interval={9000}
   >
+    <div className='carouselImage'>
+      <img src={basuraNoche} alt='' />
+    </div>
     <div className='carouselImage'>
       <img src={tradiciones} alt='' />
     </div>
