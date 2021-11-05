@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.bdf3d6e9.chunk.css",
-    "main.js": "/static/js/main.86e862f5.chunk.js",
-    "main.js.map": "/static/js/main.86e862f5.chunk.js.map",
+    "main.js": "/static/js/main.0b12cfe3.chunk.js",
+    "main.js.map": "/static/js/main.0b12cfe3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.353f689a.js",
     "runtime-main.js.map": "/static/js/runtime-main.353f689a.js.map",
     "static/css/2.32073f4d.chunk.css": "/static/css/2.32073f4d.chunk.css",
@@ -158,6 +158,7 @@
     "static/media/navidad8.jpg": "/static/media/navidad8.17492ab7.jpg",
     "static/media/navidad9.jpg": "/static/media/navidad9.ca97f4fb.jpg",
     "static/media/noagricolas.63fb8599.pdf": "/static/media/noagricolas.63fb8599.pdf",
+    "static/media/nogalestuyo.b8179eab.jpeg": "/static/media/nogalestuyo.b8179eab.jpeg",
     "static/media/noticiaimportante.0a096285.jpeg": "/static/media/noticiaimportante.0a096285.jpeg",
     "static/media/omc.1a3af99e.jpg": "/static/media/omc.1a3af99e.jpg",
     "static/media/omc.ffd98bf8.webp": "/static/media/omc.ffd98bf8.webp",
@@ -212,6 +213,6 @@
     "static/css/2.32073f4d.chunk.css",
     "static/js/2.c5b1afb5.chunk.js",
     "static/css/main.bdf3d6e9.chunk.css",
-    "static/js/main.86e862f5.chunk.js"
+    "static/js/main.0b12cfe3.chunk.js"
   ]
 }
