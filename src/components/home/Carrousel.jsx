@@ -20,7 +20,6 @@ import emergencias from '../../assets/static/carousel/emergencia.jpg';
 import censo from '../../assets/static/carousel/censo.jpg';
 import censowebp from '../../assets/static/carousel/censo.webp';
 import juzgadoDocumento from '../../assets/static/carousel/jpl.pdf';
-import tradiciones from '../../assets/static/carousel/tradiciones.jpg';
 import basuraNoche from '../../assets/static/carousel/basuranoche.jpg';
 import nogales from '../../assets/static/carousel/nogalestuyo.jpeg';
 
@@ -38,9 +37,6 @@ const Carrousel = () => (
     </div>
     <div className='carouselImage'>
       <img src={basuraNoche} alt='' />
-    </div>
-    <div className='carouselImage'>
-      <img src={tradiciones} alt='' />
     </div>
     <div className='carouselImage'>
       <a href={juzgadoDocumento} target='_blank' rel='noopener noreferrer'>
