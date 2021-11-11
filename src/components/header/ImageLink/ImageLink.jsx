@@ -1,7 +1,16 @@
-/* eslint-disable react/react-in-jsx-scope */
 import { Link } from 'react-router-dom';
+import React from 'react';
+import styles from './ImageLink.module.css';
 
-const ImageLink = ({ local, link, src, srcWebp, alt }) => {
+const ImageLink = (props) => {
+  const { local, link, src, srcWebp, alt, noImage, children } = props;
+  if (local && noImage) {
+    return (
+      <Link to={link} className={styles.botonOrdenanzas}>
+        {children}
+      </Link>
+    );
+  }
   if (local) {
     return (
       <Link to={src}>

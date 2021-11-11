@@ -19,21 +19,7 @@ html,body{
 .headerContainer{
     margin-top: 1vh;
 }
-.botonOrdenanzas{
-    width: 110px;
-    height: 35px;
-    border-radius: 5px;
-    color: var(--font-color);
-    text-decoration: none;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    background-color: var(--banner-color);
-}
-.botonOrdenanzas:hover{
-    background-color: var(--hover-color);
 
-}
 .upperHeader{
 
     display: grid;
@@ -80,14 +66,6 @@ html,body{
 .lowerRight a{
     margin: 10px 0.2em;
 }
-.headerLink{
-    height: 35px;
-}
-.headerLink:hover{
-    -webkit-filter: brightness(110%) saturate(150%);
-    filter: brightness(120%) saturate(150%);
-}
-
 .lowerHeader{
     box-sizing: border-box;
     display: flex;

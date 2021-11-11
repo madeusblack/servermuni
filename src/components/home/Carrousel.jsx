@@ -1,8 +1,6 @@
 import React from 'react';
-
 import 'react-awesome-slider/dist/styles.css';
 import '../../assets/styles/Carrousel.scss';
-
 import withAutoplay from 'react-awesome-slider/dist/autoplay';
 import AwesomeSlider from 'react-awesome-slider';
 import { Link } from 'react-router-dom';
@@ -22,6 +20,7 @@ import censowebp from '../../assets/static/carousel/censo.webp';
 import juzgadoDocumento from '../../assets/static/carousel/jpl.pdf';
 import basuraNoche from '../../assets/static/carousel/basuranoche.jpg';
 import nogales from '../../assets/static/carousel/nogalestuyo.jpeg';
+import aviso from '../../assets/static/carousel/aviso.jpg';
 
 const AutoplaySlider = withAutoplay(AwesomeSlider);
 
@@ -30,8 +29,11 @@ const Carrousel = () => (
     className='carousell'
     play={true}
     cancelOnInteraction={true}
-    interval={9000}
+    interval={3000}
   >
+    <div className='carouselImage'>
+      <img src={aviso} alt='' />
+    </div>
     <div className='carouselImage'>
       <img src={nogales} alt='' />
     </div>

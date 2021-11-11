@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.bdf3d6e9.chunk.css",
-    "main.js": "/static/js/main.552db12e.chunk.js",
-    "main.js.map": "/static/js/main.552db12e.chunk.js.map",
+    "main.css": "/static/css/main.a2acca89.chunk.css",
+    "main.js": "/static/js/main.a788762e.chunk.js",
+    "main.js.map": "/static/js/main.a788762e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.353f689a.js",
     "runtime-main.js.map": "/static/js/runtime-main.353f689a.js.map",
     "static/css/2.32073f4d.chunk.css": "/static/css/2.32073f4d.chunk.css",
-    "static/js/2.c5b1afb5.chunk.js": "/static/js/2.c5b1afb5.chunk.js",
-    "static/js/2.c5b1afb5.chunk.js.map": "/static/js/2.c5b1afb5.chunk.js.map",
+    "static/js/2.1f0da4f8.chunk.js": "/static/js/2.1f0da4f8.chunk.js",
+    "static/js/2.1f0da4f8.chunk.js.map": "/static/js/2.1f0da4f8.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.32073f4d.chunk.css.map": "/static/css/2.32073f4d.chunk.css.map",
-    "static/css/main.bdf3d6e9.chunk.css.map": "/static/css/main.bdf3d6e9.chunk.css.map",
-    "static/js/2.c5b1afb5.chunk.js.LICENSE.txt": "/static/js/2.c5b1afb5.chunk.js.LICENSE.txt",
+    "static/css/main.a2acca89.chunk.css.map": "/static/css/main.a2acca89.chunk.css.map",
+    "static/js/2.1f0da4f8.chunk.js.LICENSE.txt": "/static/js/2.1f0da4f8.chunk.js.LICENSE.txt",
     "static/media/1.1b526fdd.mp4": "/static/media/1.1b526fdd.mp4",
     "static/media/1117-modificación Nº14.544bfa4b.pdf": "/static/media/1117-modificación Nº14.544bfa4b.pdf",
     "static/media/1118-modificación Nº15.52c9374e.pdf": "/static/media/1118-modificación Nº15.52c9374e.pdf",
@@ -67,6 +67,7 @@
     "static/media/antecedentes.74d1d551.pdf": "/static/media/antecedentes.74d1d551.pdf",
     "static/media/aportesPropiosAlcaldesa.mp3": "/static/media/aportesPropiosAlcaldesa.c5104bd9.mp3",
     "static/media/aportesPropiosBenito.mp3": "/static/media/aportesPropiosBenito.e95401f8.mp3",
+    "static/media/aviso.3f4e1be0.jpg": "/static/media/aviso.3f4e1be0.jpg",
     "static/media/basura.6f48a636.jpeg": "/static/media/basura.6f48a636.jpeg",
     "static/media/basuranoche.2291e896.jpg": "/static/media/basuranoche.2291e896.jpg",
     "static/media/censo.0565e1c4.jpg": "/static/media/censo.0565e1c4.jpg",
@@ -210,8 +211,8 @@
   "entrypoints": [
     "static/js/runtime-main.353f689a.js",
     "static/css/2.32073f4d.chunk.css",
-    "static/js/2.c5b1afb5.chunk.js",
-    "static/css/main.bdf3d6e9.chunk.css",
-    "static/js/main.552db12e.chunk.js"
+    "static/js/2.1f0da4f8.chunk.js",
+    "static/css/main.a2acca89.chunk.css",
+    "static/js/main.a788762e.chunk.js"
   ]
 }
