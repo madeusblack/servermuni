@@ -19,8 +19,7 @@ import censo from '../../assets/static/carousel/censo.jpg';
 import censowebp from '../../assets/static/carousel/censo.webp';
 import juzgadoDocumento from '../../assets/static/carousel/jpl.pdf';
 import basuraNoche from '../../assets/static/carousel/basuranoche.jpg';
-import nogales from '../../assets/static/carousel/nogalestuyo.jpeg';
-import aviso from '../../assets/static/carousel/aviso.jpg';
+import navidad from '../../assets/static/carousel/navidad.jpg';
 
 const AutoplaySlider = withAutoplay(AwesomeSlider);
 
@@ -32,10 +31,7 @@ const Carrousel = () => (
     interval={3000}
   >
     <div className='carouselImage'>
-      <img src={aviso} alt='' />
-    </div>
-    <div className='carouselImage'>
-      <img src={nogales} alt='' />
+      <img src={navidad} alt='' />
     </div>
     <div className='carouselImage'>
       <img src={basuraNoche} alt='' />
